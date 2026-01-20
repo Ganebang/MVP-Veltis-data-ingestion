@@ -12,11 +12,11 @@ cd MVP-web-scrapping-project
 # 2. Install dependencies
 pip install -r requirements.txt
 
-# 3. Run ingestion for 2023
-python scripts/run_ingestion.py
+# 3. Run ingestion for 2023 (or any year)
+python scripts/run_ingestion.py --year 2023
 
 # 4. Process the data
-python scripts/run_processing.py
+python scripts/run_processing.py --year 2023
 
 # 5. Explore the results
 jupyter notebook notebooks/exploration_veltis_data.ipynb
@@ -75,10 +75,10 @@ Most users can use the defaults. Advanced configuration options are documented i
 
 ### Single Year Ingestion
 
-Fetch raw data for a specific year (e.g., 2023):
+Fetch raw data for a specific year (e.g., 2024):
 
 ```bash
-python scripts/run_ingestion.py
+python scripts/run_ingestion.py --year 2024
 ```
 
 This will:
@@ -109,7 +109,7 @@ This will:
 After ingestion, clean and normalize the raw data:
 
 ```bash
-python scripts/run_processing.py
+python scripts/run_processing.py --year 2024
 ```
 
 This will:
@@ -231,17 +231,13 @@ print(f"High quality certifications: {len(high_quality)}")
 
 ### Multi-Year Ingestion
 
-To ingest data for multiple years, edit `scripts/run_ingestion.py`:
+You can script the ingestion for multiple years:
 
-```python
-# In run_ingestion.py, replace:
-manager.run_year_ingestion(2023)
-
-# With:
-manager.run_multi_year_ingestion(2021, 2024)
+```bash
+for year in 2021 2022 2023 2024; do
+    python scripts/run_ingestion.py --year $year
+done
 ```
-
-This will fetch data for 2021, 2022, 2023, and 2024.
 
 ### Custom Year Processing
 

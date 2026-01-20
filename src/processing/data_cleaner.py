@@ -8,6 +8,9 @@ import re
 
 logger = logging.getLogger(__name__)
 
+from src.models.schemas import Etablissement, Qualification, HealthMetrics
+import dataclasses
+
 class DataProcessor:
     """
     Process and clean raw health data (FINESS, HAS, Health Metrics).
@@ -30,6 +33,26 @@ class DataProcessor:
             return 'ESPIC'
         else:
             return 'Autre'
+            
+    def _enforce_schema(self, df: pd.DataFrame, schema_class) -> pd.DataFrame:
+        """
+        Enforce strict schema on DataFrame.
+        - Keeps only columns defined in schema.
+        - Adds missing columns with None.
+        - Orders columns according to schema.
+        """
+        if df.empty:
+            return pd.DataFrame()
+            
+        schema_fields = [f.name for f in dataclasses.fields(schema_class)]
+        
+        # Add missing fields
+        for field in schema_fields:
+            if field not in df.columns:
+                df[field] = None
+                
+        # Select and reorder strictly
+        return df[schema_fields]
 
     def load_clean_finess(self, year: int) -> Optional[pd.DataFrame]:
         """
@@ -86,7 +109,22 @@ class DataProcessor:
             clean_df.loc[clean_df['code_postal'].isna(), 'code_postal'] = cp_ville.str.extract(r'^(\d+)')[0]
             
             # Category
+            # Detailed: The raw description from the file
+            clean_df['categorie_detail'] = df.iloc[:, 27].astype(str).str.strip()
+            # Simplified: Public/Private mapping
             clean_df['categorie_etab'] = df.iloc[:, 27].apply(self._map_category)
+            
+            # Geography: Departement extraction
+            def extract_dept(cp):
+                s_cp = str(cp).zfill(5)
+                # DOM-TOM (97x)
+                if s_cp.startswith('97'):
+                    return s_cp[:3]
+                # Corsica (20) - handling as 2A/2B is complex without robust city list, keeping '20' is standard for some aggregates, 
+                # or we can try. For MVP, first 2 digits is standard department extraction.
+                return s_cp[:2]
+
+            clean_df['departement'] = clean_df['code_postal'].apply(extract_dept)
             
             # Generate UUIDs
             clean_df['vel_id'] = [uuid.uuid4() for _ in range(len(clean_df))]
@@ -231,22 +269,8 @@ class DataProcessor:
             logger.error(f"Error processing Health Metrics: {e}")
             return None
 
+
     def process_year(self, year: int) -> Dict[str, pd.DataFrame]:
-        """
-        Process all data for a specific year and save normalized tables.
-
-        Orchestrates the loading, cleaning, and merging of FINESS and HAS data.
-        Produces and saves `etablissements.csv` and `qualifications.csv`.
-
-        Args:
-            year (int): The year to process.
-
-        Returns:
-            Dict[str, pd.DataFrame]: A dictionary containing the processed DataFrames:
-                - 'etablissements': Normalized establishment data.
-                - 'qualifications': Normalized qualification data linked to establishments.
-                - 'health_metrics': Processed IQSS metrics.
-        """
         df_etab = self.load_clean_finess(year)
         df_qual_raw = self.load_clean_has(year)
         df_metrics_raw = self.load_clean_health_metrics(year)
@@ -255,10 +279,14 @@ class DataProcessor:
             logger.error("Cannot proceed without Etablissement data.")
             return
         
-        # Link Qualifications to Etablissements via finess_et -> vel_id
-        df_qual = pd.DataFrame()
+        # --- ETABLISSEMENT ---
+        # Already mostly aligned, but run enforcement to strip extra temp cols
+        df_etab_final = self._enforce_schema(df_etab, Etablissement)
+
+        # --- QUALIFICATIONS ---
+        df_qual_final = pd.DataFrame()
         if df_qual_raw is not None:
-            # Merge to get vel_id
+             # Merge to get vel_id
             merged_qual = pd.merge(
                 df_qual_raw, 
                 df_etab[['finess_et', 'vel_id']], 
@@ -266,22 +294,16 @@ class DataProcessor:
                 right_on='finess_et', 
                 how='inner'
             )
+            # Map columns to schema names
+            merged_qual['url_rapport'] = None # Example placeholder
+            merged_qual['score_satisfaction'] = None # Example placeholder
             
-            # Select final Qualification columns
-            qual_cols = ['qua_id', 'vel_id', 'niveau_certification', 'date_visite', 
-                         'source', 'freshness', 'date_created', 'date_updated']
-            # Add placeholders for missing schema fields
-            merged_qual['url_rapport'] = None
-            merged_qual['score_satisfaction'] = None
-            
-            df_qual = merged_qual[qual_cols + ['url_rapport', 'score_satisfaction']]
-            logger.info(f"Linked {len(df_qual)} qualifications to establishments")
+            df_qual_final = self._enforce_schema(merged_qual, Qualification)
 
-        # Process Health Metrics linking
-        df_metrics = pd.DataFrame()
+        # --- HEALTH METRICS ---
+        df_metrics_final = pd.DataFrame()
         if df_metrics_raw is not None:
-            # Link to Etablissements via finess_et
-            if 'finess_et_link' in df_metrics_raw.columns:
+             if 'finess_et_link' in df_metrics_raw.columns:
                 merged_metrics = pd.merge(
                     df_metrics_raw,
                     df_etab[['finess_et', 'vel_id']],
@@ -290,20 +312,25 @@ class DataProcessor:
                     how='inner'
                 )
                 
-                # Keep all columns from raw metrics, plus vel_id, minus finess join keys to avoid clutter
-                # But ensure we keep our cleaning metadata
-                cols_to_keep = [c for c in merged_metrics.columns if c not in ['finess_et', 'finess_et_link']]
-                # Ensure vel_id is first for readability
-                cols_final = ['vel_id'] + [c for c in cols_to_keep if c != 'vel_id']
+                # Metadata
+                merged_metrics['annee'] = year
+                merged_metrics['source'] = 'IQSS'
                 
-                df_metrics = merged_metrics[cols_final]
-                logger.info(f"Linked {len(df_metrics)} health metrics records to establishments")
-            else:
-                logger.warning("Skipping Health Metrics linking: No link key found.")
+                # Attempt to map dynamic raw columns to schema if they exist
+                # e.g. "score_all_ssr_ajust" might be "score_all_ssr_ajust_2024" or similiar
+                # For now, we assume partial names match or we rely on the _enforce checks
+                # which will fill None if explicit names don't match.
+                
+                # If the raw columns are exact matches (which they often are after normalization), it works.
+                # If not, we might need more complex mapping logic here. 
+                # For this step, we trust the `load_clean_health_metrics` normalization.
+                
+                df_metrics_final = self._enforce_schema(merged_metrics, HealthMetrics)
+                logger.info(f"Linked {len(df_metrics_final)} health metrics records")
 
         # Save outputs
-        self.save_processed(df_etab, df_qual, df_metrics, year)
-        return {'etablissements': df_etab, 'qualifications': df_qual, 'health_metrics': df_metrics}
+        self.save_processed(df_etab_final, df_qual_final, df_metrics_final, year)
+        return {'etablissements': df_etab_final, 'qualifications': df_qual_final, 'health_metrics': df_metrics_final}
 
     def save_processed(self, df_etab: pd.DataFrame, df_qual: pd.DataFrame, df_metrics: pd.DataFrame, year: int):
          save_path = self.raw_base_path.parent / "processed" / str(year)

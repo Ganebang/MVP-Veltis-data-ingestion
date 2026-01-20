@@ -1,6 +1,6 @@
-
 import logging
 import sys
+import argparse
 from pathlib import Path
 
 # Add project root to path
@@ -11,15 +11,20 @@ from src.processing.data_cleaner import DataProcessor
 from src.pipeline import setup_logging
 
 def main():
+    parser = argparse.ArgumentParser(description='Run data processing for a specific year.')
+    parser.add_argument('--year', type=int, default=2023, help='Year to process data for (default: 2023)')
+    args = parser.parse_args()
+
     setup_logging("INFO")
     logger = logging.getLogger(__name__)
     
-    logger.info("Starting Yearly Processing...")
+    logger.info(f"Starting Processing for year {args.year}...")
     
-    raw_path = "/workspaces/MVP-web-scrapping-project/data/raw"
+    # Robust raw path determination
+    raw_path = project_root / "data" / "raw"
     processor = DataProcessor(raw_path)
     
-    year = 2023
+    year = args.year
     logger.info(f"Processing data for year {year}...")
     
     results = processor.process_year(year)

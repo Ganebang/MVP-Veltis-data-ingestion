@@ -31,11 +31,11 @@ This project provides a complete data pipeline for fetching, cleaning, and norma
 # Install dependencies
 pip install -r requirements.txt
 
-# Run ingestion (fetches raw data for 2023)
-python scripts/run_ingestion.py
+# Run ingestion (defaults to 2023, or specify year)
+python scripts/run_ingestion.py --year 2024
 
-# Process data (cleans and normalizes)
-python scripts/run_processing.py
+# Process data
+python scripts/run_processing.py --year 2024
 
 # Explore results
 jupyter notebook notebooks/exploration_veltis_data.ipynb
@@ -82,6 +82,8 @@ MVP-web-scrapping-project/
 🔌 **[API Connectors](docs/API_CONNECTORS.md)** - How connectors work, extending
 
 📊 **[Data Sources](docs/DATA_SOURCES.md)** - Source details, schemas, integration
+
+📖 **[Data Dictionary](docs/DATA_DICTIONARY.md)** - Business values, field definitions, scores
 
 ## Installation
 

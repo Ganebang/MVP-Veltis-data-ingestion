@@ -50,9 +50,11 @@ class Etablissement:
     finess_et: str = None  # 9 character code
     siret: str = None      # 14 character code
     raison_sociale: str = None
-    categorie_etab: CategorieEtablissement = None
+    categorie_etab: CategorieEtablissement = None  # Simplified category (Public, Privé...)
+    categorie_detail: str = None  # Raw detailed category from FINESS
     adresse_postale: str = None
     code_postal: str = None
+    departement: str = None  # Derived from code_postal (e.g. "75")
     date_created: datetime = field(default_factory=datetime.utcnow)
     date_updated: datetime = field(default_factory=datetime.utcnow)
     source: str = "Data.gouv"
@@ -185,3 +187,32 @@ class FinancialData:
     def is_valid(self) -> bool:
         """Check if financial data is valid."""
         return len(self.validate()) == 0
+
+
+@dataclass
+class HealthMetrics:
+    """
+    HEALTH_METRICS table schema.
+    
+    Quality indicators (IQSS) from HAS/Ministry of Health.
+    """
+    metric_id: UUID = field(default_factory=uuid.uuid4)
+    vel_id: UUID = None  # Foreign Key
+    
+    # Global Scores
+    score_all_ssr_ajust: Optional[float] = None
+    score_ajust_esatis_region: Optional[float] = None
+    
+    # Process Scores
+    score_accueil_ssr_ajust: Optional[float] = None
+    score_pec_ssr_ajust: Optional[float] = None
+    score_lieu_ssr_ajust: Optional[float] = None
+    score_repas_ssr_ajust: Optional[float] = None
+    score_sortie_ssr_ajust: Optional[float] = None
+    
+    # Metadata
+    classement: Optional[str] = None
+    annee: int = None
+    
+    date_created: datetime = field(default_factory=datetime.utcnow)
+    source: str = "IQSS"

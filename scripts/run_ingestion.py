@@ -1,6 +1,6 @@
-
 import logging
 import sys
+import argparse
 from pathlib import Path
 
 # Add project root to path
@@ -11,17 +11,17 @@ from src.ingestion_manager import IngestionManager
 from src.pipeline import setup_logging
 
 def main():
+    parser = argparse.ArgumentParser(description='Run data ingestion for a specific year.')
+    parser.add_argument('--year', type=int, default=2023, help='Year to ingest data for (default: 2023)')
+    args = parser.parse_args()
+
     setup_logging("INFO")
     logger = logging.getLogger(__name__)
     
-    logger.info("Starting Yearly Ingestion...")
+    logger.info(f"Starting Ingestion for year {args.year}...")
     manager = IngestionManager()
     
-    # Run for 2023 as a test (most recent complete year usually)
-    manager.run_year_ingestion(2023)
-    
-    # Or run for full range
-    # manager.run_multi_year_ingestion(2021, 2024)
+    manager.run_year_ingestion(args.year)
 
 if __name__ == "__main__":
     main()
