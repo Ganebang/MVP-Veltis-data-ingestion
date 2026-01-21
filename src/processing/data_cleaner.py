@@ -76,14 +76,16 @@ class DataProcessor:
             
         try:
             # Load with implicit index assumption based on inspection
-            # Index 1: finess_et
-            # Index 4: raison_sociale (Long name)
-            # Index 7, 8, 9: Address parts
-            # Index 15: CP + Ville (e.g. "01300 BELLEY")
-            # Index 22: SIRET
-            # Index 27: Category description
+            # Index 1: finess_et -> The unique identifier for the establishment
+            # Index 3: raison_sociale -> The short name of the establishment
+            # Index 4: raison_sociale_longue -> The long name, which we prefer if available
+            # Index 7, 8, 9: Address parts (num_voie, type_voie, nom_voie)
+            # Index 15: CP + Ville (e.g. "01300 BELLEY") -> Needs splitting
+            # Index 22: SIRET -> Business identifier
+            # Index 27: Category description -> Used to determine Public/Private status
             
-            df = pd.read_csv(file_path, sep=';', encoding='latin-1', header=1, low_memory=False, on_bad_lines='warn')
+            # Note: We use ';', utf-8 encoding (previously latin-1 caused mojibake), and on_bad_lines='warn'
+            df = pd.read_csv(file_path, sep=';', encoding='utf-8', header=1, low_memory=False, on_bad_lines='warn')
             
             # Check if columns are sufficient
             if len(df.columns) < 28:
@@ -92,44 +94,53 @@ class DataProcessor:
             clean_df = pd.DataFrame()
             
             # Extract basic columns safely
+            # We strip trailing .0 that sometimes appears when IDs are read as floats
             clean_df['finess_et'] = df.iloc[:, 1].astype(str).str.replace(r'\.0$', '', regex=True).str.zfill(9)
             clean_df['siret'] = df.iloc[:, 22].astype(str).str.replace(r'\.0$', '', regex=True)
-            clean_df['raison_sociale'] = df.iloc[:, 4].fillna(df.iloc[:, 3]) # Fallback to short name
+            
+            # Use Long Name (Index 4), fall back to Short Name (Index 3) if missing
+            clean_df['raison_sociale'] = df.iloc[:, 4].fillna(df.iloc[:, 3])
             
             # Address construction
-            # Concatenate non-null address parts
+            # Concatenate non-null address parts (indexes 7, 8, 9, 11) to form a full string
             addr_parts = df.iloc[:, [7, 8, 9, 11]].apply(lambda x: ' '.join(x.dropna().astype(str)), axis=1)
             clean_df['adresse_postale'] = addr_parts
             
-            # CP and City
-            # Split "01300 BELLEY" -> "01300" and "BELLEY"
+            # CP and City Extraction
+            # We expect format like "01300 BELLEY"
             cp_ville = df.iloc[:, 15].astype(str)
+            # Regex to grab the first 5 digits
             clean_df['code_postal'] = cp_ville.str.extract(r'^(\d{5})')[0]
-            # If extraction failed, might be missing 0 or short
+            # Fallback: grab any leading digits if exact 5 not found
             clean_df.loc[clean_df['code_postal'].isna(), 'code_postal'] = cp_ville.str.extract(r'^(\d+)')[0]
             
-            # Category
+            # Convert to Int (Nullable)
+            clean_df['code_postal'] = pd.to_numeric(clean_df['code_postal'], errors='coerce').astype('Int64')
+            
+            # Category Mapping
             # Detailed: The raw description from the file
             clean_df['categorie_detail'] = df.iloc[:, 27].astype(str).str.strip()
-            # Simplified: Public/Private mapping
+            # Simplified: Public/Private mapping using helper map function
             clean_df['categorie_etab'] = df.iloc[:, 27].apply(self._map_category)
             
             # Geography: Departement extraction
             def extract_dept(cp):
-                s_cp = str(cp).zfill(5)
-                # DOM-TOM (97x)
+                if pd.isna(cp):
+                    return None
+                # Cast to int to avoid "1300.0" string from float conversion
+                s_cp = str(int(cp)).zfill(5)
+                # DOM-TOM (97x) handling
                 if s_cp.startswith('97'):
                     return s_cp[:3]
-                # Corsica (20) - handling as 2A/2B is complex without robust city list, keeping '20' is standard for some aggregates, 
-                # or we can try. For MVP, first 2 digits is standard department extraction.
+                # Standard mainland departments (first 2 digits)
                 return s_cp[:2]
 
             clean_df['departement'] = clean_df['code_postal'].apply(extract_dept)
             
-            # Generate UUIDs
+            # Generate UUIDs for internal linking
             clean_df['vel_id'] = [uuid.uuid4() for _ in range(len(clean_df))]
             
-            # Metadata
+            # Metadata fields
             clean_df['date_created'] = pd.Timestamp.now()
             clean_df['date_updated'] = pd.Timestamp.now()
             clean_df['source'] = 'Data.gouv'
@@ -190,6 +201,12 @@ class DataProcessor:
             # Qualification Columns
             clean_df['qua_id'] = [uuid.uuid4() for _ in range(len(clean_df))]
             clean_df['niveau_certification'] = merged['decision_de_la_cces']
+            
+            # Construct URL (Heuristic)
+            # Pattern: https://www.has-sante.fr/jcms/c_{code_demarche}
+            clean_df['url_rapport'] = merged['code_demarche'].apply(
+                lambda x: f"https://www.has-sante.fr/jcms/c_{x}" if pd.notna(x) else None
+            )
             
             # Date parsing
             if 'date_de_decision' in merged.columns:
@@ -257,6 +274,16 @@ class DataProcessor:
                 if 'score' in col or 'taux' in col or 'valeur' in col:
                     clean_df[col] = pd.to_numeric(clean_df[col], errors='coerce')
             
+            # Cleaning Categorical Values (User Request)
+            # Remove prefixes like "1- ", "2- " from categorical columns
+            # Examples: "1- Oui" -> "Oui", "2- Facultatif" -> "Facultatif"
+            object_cols = clean_df.select_dtypes(include=['object']).columns
+            for col in object_cols:
+                # Regex matches: Start of string (^), one or more digits (\d+), optional spaces, hyphen, optional spaces
+                clean_df[col] = clean_df[col].astype(str).str.replace(r'^\d+\s*-\s*', '', regex=True)
+                # Cleanup 'nan' strings resulting from astype(str) on actual NaNs
+                clean_df.loc[clean_df[col] == 'nan', col] = None
+
             # Metadata
             clean_df['metric_id'] = [uuid.uuid4() for _ in range(len(clean_df))]
             clean_df['source_file'] = 'health_metrics.xlsx'
@@ -294,9 +321,13 @@ class DataProcessor:
                 right_on='finess_et', 
                 how='inner'
             )
-            # Map columns to schema names
-            merged_qual['url_rapport'] = None # Example placeholder
-            merged_qual['score_satisfaction'] = None # Example placeholder
+            
+            # Construct URL - Moved to load_clean_has
+            # merged_qual already has url_rapport if available
+            
+            # --- MERGE HEALTH METRICS INTO QUALIFICATIONS ---
+            # User Change (2026-01-21): Removed score columns from qualifications as they are duplicative/redundant.
+            # We revert to just HAS data in this table.
             
             df_qual_final = self._enforce_schema(merged_qual, Qualification)
 

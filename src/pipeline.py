@@ -259,12 +259,14 @@ class DataPipeline:
         
         try:
             # 1. Fetch data
+            # This step downloads raw files from external APIs (Data.gouv, HAS, etc.)
             source_data = self.fetch_source_data(save_raw=save_raw)
             if not any(source_data.values()):
                 logger.error("✗ No data fetched from any source")
                 return None
             
             # 2. Transform data
+            # This step cleans, normalizes, and merges the raw data into our internal schema
             transformed_data = self.transform_data(source_data)
             if transformed_data is None:
                 logger.error("✗ Transformation failed")

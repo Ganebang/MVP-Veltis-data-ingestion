@@ -87,9 +87,9 @@ class IngestionManager:
         resources = dataset_info.get('resources', [])
         target_resource = None
         
-        # Simple heuristic: Look for largest CSV or XLSX file that has 'resultat' or 'indicateur' in title
-        # Or just download the first CSV/XLSX
-        
+        # Strategy 1: Look for specific keywords in title/format
+        # We prioritize files that explicitly mention 'resultat' or 'indicateur' 
+        # as these usually contain the data we want.
         for res in resources:
             fmt = res.get('format', '').lower()
             title = res.get('title', '').lower()
@@ -97,8 +97,8 @@ class IngestionManager:
                 target_resource = res
                 break
         
+        # Strategy 2: Fallback to any CSV/XLSX if no title match found
         if not target_resource and resources:
-             # Fallback to the first CSV/XLSX if no title match
             for res in resources:
                 if res.get('format', '').lower() in ['csv', 'xlsx']:
                     target_resource = res
@@ -118,6 +118,7 @@ class IngestionManager:
             return False
             
         # Save file
+        # We assume the format based on the resource metadata
         ext = target_resource.get('format', 'csv').lower()
         filename = f"health_metrics.{ext}"
         save_path = self.ensure_year_directory(year) / filename

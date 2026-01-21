@@ -1,9 +1,15 @@
+"""
+Script to trigger the data processing pipeline.
+Usage:
+    python scripts/run_processing.py --year 2024
+"""
 import logging
 import sys
 import argparse
 from pathlib import Path
 
 # Add project root to path
+# This ensures that we can import modules from the 'src' directory
 project_root = Path(__file__).parent.parent
 sys.path.insert(0, str(project_root))
 
@@ -11,10 +17,16 @@ from src.processing.data_cleaner import DataProcessor
 from src.pipeline import setup_logging
 
 def main():
+    """
+    Main entry point for data processing.
+    Parses command line arguments and triggers the data processor.
+    """
+    # Parse command line arguments
     parser = argparse.ArgumentParser(description='Run data processing for a specific year.')
     parser.add_argument('--year', type=int, default=2023, help='Year to process data for (default: 2023)')
     args = parser.parse_args()
 
+    # Configure logging
     setup_logging("INFO")
     logger = logging.getLogger(__name__)
     
@@ -27,8 +39,10 @@ def main():
     year = args.year
     logger.info(f"Processing data for year {year}...")
     
+    # Run the processing pipeline
     results = processor.process_year(year)
     
+    # Display preview of results
     if results:
         df_etab = results.get('etablissements')
         df_qual = results.get('qualifications')

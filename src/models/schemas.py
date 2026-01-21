@@ -53,7 +53,7 @@ class Etablissement:
     categorie_etab: CategorieEtablissement = None  # Simplified category (Public, Privé...)
     categorie_detail: str = None  # Raw detailed category from FINESS
     adresse_postale: str = None
-    code_postal: str = None
+    code_postal: Optional[int] = None
     departement: str = None  # Derived from code_postal (e.g. "75")
     date_created: datetime = field(default_factory=datetime.utcnow)
     date_updated: datetime = field(default_factory=datetime.utcnow)
@@ -109,7 +109,7 @@ class Qualification:
     niveau_certification: NiveauCertification = NiveauCertification.NON_EVALUE
     date_visite: Optional[datetime] = None
     url_rapport: Optional[str] = None
-    score_satisfaction: Optional[float] = None
+
     date_created: datetime = field(default_factory=datetime.utcnow)
     date_updated: datetime = field(default_factory=datetime.utcnow)
     source: str = "HAS"
@@ -127,10 +127,6 @@ class Qualification:
         if not self.vel_id:
             errors.append("vel_id (Foreign Key) is required")
             
-        if self.score_satisfaction is not None:
-            if not (0 <= self.score_satisfaction <= 100):
-                errors.append("score_satisfaction must be between 0 and 100")
-                
         if self.url_rapport and not self.url_rapport.startswith(('http://', 'https://')):
             errors.append("url_rapport must be a valid HTTP(S) URL")
             
@@ -212,6 +208,9 @@ class HealthMetrics:
     
     # Metadata
     classement: Optional[str] = None
+    evolution: Optional[str] = None
+    participation: Optional[str] = None
+    depot: Optional[str] = None
     annee: int = None
     
     date_created: datetime = field(default_factory=datetime.utcnow)
