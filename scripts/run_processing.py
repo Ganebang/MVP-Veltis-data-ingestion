@@ -1,5 +1,6 @@
 """
-Script to trigger the data processing pipeline.
+Script to run data processing pipeline (Bronze → Processed).
+
 Usage:
     python scripts/run_processing.py --year 2024
 """
@@ -13,7 +14,7 @@ from pathlib import Path
 project_root = Path(__file__).parent.parent
 sys.path.insert(0, str(project_root))
 
-from src.processing.data_cleaner import DataProcessor
+from src.processing.data_processor import DataProcessor
 from src.pipeline import setup_logging
 
 def main():
@@ -30,11 +31,11 @@ def main():
     setup_logging("INFO")
     logger = logging.getLogger(__name__)
     
-    logger.info(f"Starting Processing for year {args.year}...")
+    logger.info(f"Starting Data Processing (Bronze → Processed) for year {args.year}...")
     
-    # Robust raw path determination
-    raw_path = project_root / "data" / "raw"
-    processor = DataProcessor(raw_path)
+    # Setup paths - now using bronze as input
+    bronze_path = project_root / "data" / "bronze"
+    processor = DataProcessor(bronze_path)
     
     year = args.year
     logger.info(f"Processing data for year {year}...")

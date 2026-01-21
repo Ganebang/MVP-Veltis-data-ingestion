@@ -1,0 +1,1363 @@
+metric_id,vel_id,score_all_ssr_ajust,score_ajust_esatis_region,score_accueil_ssr_ajust,score_pec_ssr_ajust,score_lieu_ssr_ajust,score_repas_ssr_ajust,score_sortie_ssr_ajust,classement,evolution,participation,depot,annee,date_created,source
+9a15f399-e341-4beb-99e4-4da7b82989cb,26661f2a-d546-4c5d-88fe-27c54a7598c3,70.85,76.02,78.47,73.03,75.52,58.03,63.17,C,Stable,Obligatoire,Oui,2023,,IQSS
+9a15f399-e341-4beb-99e4-4da7b82989cb,4a5b1491-c3e2-456d-85fc-99019d4c36ca,70.85,76.02,78.47,73.03,75.52,58.03,63.17,C,Stable,Obligatoire,Oui,2023,,IQSS
+c5e6aa4d-cbdc-48ea-b88d-84069ff2c7ed,a2517e39-2a01-41a0-abed-39d67542eeb8,73.2,76.02,79.4,77.87,73.09,58.3,65.92,B,Non calculable,Facultatif,Oui,2023,,IQSS
+c5e6aa4d-cbdc-48ea-b88d-84069ff2c7ed,beff75f7-7ce3-4177-95d1-73bd97f14108,73.2,76.02,79.4,77.87,73.09,58.3,65.92,B,Non calculable,Facultatif,Oui,2023,,IQSS
+cf28295f-aa06-41ef-b763-b2d129090d1c,96e74d2d-618c-4e39-b383-3ab7ddda215d,78.83,76.02,87.4,81.58,82.04,65.67,71.91,A,Amélioration,Facultatif,Oui,2023,,IQSS
+cf28295f-aa06-41ef-b763-b2d129090d1c,e92754ba-4612-4c2b-8cf0-379288bf1783,78.83,76.02,87.4,81.58,82.04,65.67,71.91,A,Amélioration,Facultatif,Oui,2023,,IQSS
+bd86bd00-d39b-4f2c-86df-51e05fe39322,db88ba3f-2aa9-4e7b-9f4e-7dbe2024b42b,,,,,,,,DI,,Facultatif,Oui,2023,,IQSS
+bd86bd00-d39b-4f2c-86df-51e05fe39322,f890740d-3dc3-430c-8ed0-1c779537f23d,,,,,,,,DI,,Facultatif,Oui,2023,,IQSS
+3dfc3ff4-47f6-40e0-a077-e00ed5459819,c8585921-3d4c-4ff1-a81c-fe6470a75867,,,,,,,,DI,,Facultatif,Oui,2023,,IQSS
+3dfc3ff4-47f6-40e0-a077-e00ed5459819,19372fd2-94ae-40f1-8fa0-d98ea4fc2735,,,,,,,,DI,,Facultatif,Oui,2023,,IQSS
+c900c30f-7cb9-453a-aa49-82bf98d6e639,b2dced17-9b49-47d3-a319-6617d89ee730,,,,,,,,DI,,Facultatif,Oui,2023,,IQSS
+c900c30f-7cb9-453a-aa49-82bf98d6e639,d629626a-1944-4c5c-afb8-aa3f1cbde09e,,,,,,,,DI,,Facultatif,Oui,2023,,IQSS
+606528c4-c27a-480b-8544-fffa57d3b462,df5384a4-26bd-479b-91d7-70058d49831b,81.14,77.66,87.81,84.32,82.61,71.96,72.4,A,Amélioration,Obligatoire,Oui,2023,,IQSS
+606528c4-c27a-480b-8544-fffa57d3b462,a95ef79c-5dde-4562-b857-f616178eb955,81.14,77.66,87.81,84.32,82.61,71.96,72.4,A,Amélioration,Obligatoire,Oui,2023,,IQSS
+9c6b949e-d878-48b6-a691-e189abe5d971,2f9c1e90-1115-4a74-a5c9-379fd353e6bf,,,,,,,,DI,,Facultatif,Oui,2023,,IQSS
+9c6b949e-d878-48b6-a691-e189abe5d971,2d0caf89-95f1-43f1-b3ef-3d7f26fa15af,,,,,,,,DI,,Facultatif,Oui,2023,,IQSS
+0f824780-7017-4e40-b1a4-a132ebbea5df,172348d6-a4f8-406a-bbc2-0f24067270b1,,,,,,,,DI,,Facultatif,Oui,2023,,IQSS
+0f824780-7017-4e40-b1a4-a132ebbea5df,9d578c8d-f97d-4e70-8072-19837a7cd6dd,,,,,,,,DI,,Facultatif,Oui,2023,,IQSS
+081f8c61-a78b-4f8d-be14-ff128dcd8459,48388cac-9713-4baf-a3c9-372e42a40193,,,,,,,,DI,,Facultatif,Oui,2023,,IQSS
+081f8c61-a78b-4f8d-be14-ff128dcd8459,e18b3626-de20-4c72-b46b-54a926c41c9b,,,,,,,,DI,,Facultatif,Oui,2023,,IQSS
+31f6a176-0fcc-46b2-8f25-dc8d56b63dd2,41fd8e84-d0cb-4daf-85f3-5368676aef0b,68.42,73.79,76.41,73.75,71.18,41.85,63.46,D,Diminution,Facultatif,Oui,2023,,IQSS
+31f6a176-0fcc-46b2-8f25-dc8d56b63dd2,62af0585-7c5a-4b53-a64a-94ee51d780b2,68.42,73.79,76.41,73.75,71.18,41.85,63.46,D,Diminution,Facultatif,Oui,2023,,IQSS
+c503c7ec-4614-4f9d-b2d1-b3ecfd0361f7,acc84843-7391-4e0b-8f69-9c97df305886,76.53,73.79,84.18,80.67,71.78,67.69,71.37,B,Stable,Facultatif,Oui,2023,,IQSS
+c503c7ec-4614-4f9d-b2d1-b3ecfd0361f7,c2a0163b-5977-40eb-b32d-0aea482d4a82,76.53,73.79,84.18,80.67,71.78,67.69,71.37,B,Stable,Facultatif,Oui,2023,,IQSS
+4395febc-e992-4d6a-bebe-e63959528b40,3f5bd232-48a6-4a0b-8ba5-315355d4c802,,,,,,,,DI,,Facultatif,Oui,2023,,IQSS
+4395febc-e992-4d6a-bebe-e63959528b40,7899c969-fb2c-4428-b5fd-8d5b334974b5,,,,,,,,DI,,Facultatif,Oui,2023,,IQSS
+b42b1419-84e4-49c8-80ae-205314dde09e,af882ff6-d29c-4473-9096-efcd6a747b8c,83.03,73.79,90.2,85.48,85.15,72.69,76.88,A,Stable,Facultatif,Oui,2023,,IQSS
+b42b1419-84e4-49c8-80ae-205314dde09e,f667ae14-cc62-471b-850d-645058d1e75e,83.03,73.79,90.2,85.48,85.15,72.69,76.88,A,Stable,Facultatif,Oui,2023,,IQSS
+5e4aa955-8813-4589-99c1-458fce14cb66,c4ddd4f8-3094-414f-9fea-4a1eefc8fd68,,,,,,,,DI,,Facultatif,Oui,2023,,IQSS
+5e4aa955-8813-4589-99c1-458fce14cb66,23176e8a-4d3c-44b9-abd8-1414e8ea6798,,,,,,,,DI,,Facultatif,Oui,2023,,IQSS
+fe376ae6-c696-41fc-b683-e312bef988d4,051a137e-fd75-4e03-8a75-9988c2376033,,,,,,,,DI,,Facultatif,Oui,2023,,IQSS
+fe376ae6-c696-41fc-b683-e312bef988d4,14421afe-5533-4a85-80a4-16a6ebb30d28,,,,,,,,DI,,Facultatif,Oui,2023,,IQSS
+9f043050-2c55-49d7-967b-48d34c03c7e9,188cca0e-05f8-4b9e-9d56-446527d0f4fc,78.29,73.79,83.88,82.0,75.5,70.73,72.28,A,Stable,Facultatif,Oui,2023,,IQSS
+9f043050-2c55-49d7-967b-48d34c03c7e9,2b41fe9b-1227-4a74-8cba-0acee345989c,78.29,73.79,83.88,82.0,75.5,70.73,72.28,A,Stable,Facultatif,Oui,2023,,IQSS
+ca5b92c1-511e-4e31-8c95-2c408f40900a,317fa94c-c730-46d3-8f39-8c9d468b9d78,80.24,73.79,88.17,82.8,80.76,67.09,76.92,A,Stable,Obligatoire,Oui,2023,,IQSS
+ca5b92c1-511e-4e31-8c95-2c408f40900a,bea219ee-3cbb-4639-a005-ae2a1e45bc70,80.24,73.79,88.17,82.8,80.76,67.09,76.92,A,Stable,Obligatoire,Oui,2023,,IQSS
+18c8e953-3d11-4166-ae4f-3b2f37b1b62c,470cd720-4cce-4159-be71-1f753917dee6,,,,,,,,DI,,Facultatif,Oui,2023,,IQSS
+18c8e953-3d11-4166-ae4f-3b2f37b1b62c,b10d4056-fbe2-4a09-88ce-677baff7500c,,,,,,,,DI,,Facultatif,Oui,2023,,IQSS
+cda6e1bd-4145-41a7-88d6-a9757331ba8c,37511c66-4640-4630-a89f-1a390f3b926a,,,,,,,,DI,,Facultatif,Oui,2023,,IQSS
+cda6e1bd-4145-41a7-88d6-a9757331ba8c,3afdf7ec-ed26-4772-91a9-d7c82a28390a,,,,,,,,DI,,Facultatif,Oui,2023,,IQSS
+71b2ac1b-ada6-43b0-a488-c7118e888dd6,e46bef7c-cf11-44c8-9a86-d7a9576d4b0c,76.67,73.79,84.41,80.96,79.19,54.75,72.32,A,Non calculable,Obligatoire,Oui,2023,,IQSS
+71b2ac1b-ada6-43b0-a488-c7118e888dd6,21eb7c77-cdf1-4316-bb77-d92ca69e3e3b,76.67,73.79,84.41,80.96,79.19,54.75,72.32,A,Non calculable,Obligatoire,Oui,2023,,IQSS
+d4225022-cf5c-49c1-b2b5-44af1dd0eab8,d00ea52d-fea9-4d74-b871-4e6619c64ebb,,,,,,,,DI,,Facultatif,Oui,2023,,IQSS
+d4225022-cf5c-49c1-b2b5-44af1dd0eab8,82a5fada-6cfa-4960-aee9-1cf90ca7a312,,,,,,,,DI,,Facultatif,Oui,2023,,IQSS
+60f38e1d-6d3b-4c9d-be69-d8200b9f4c47,827c1851-f0b2-432c-90a6-9b5b87d620df,71.29,73.79,79.33,73.95,76.26,64.11,58.25,C,Stable,Facultatif,Oui,2023,,IQSS
+60f38e1d-6d3b-4c9d-be69-d8200b9f4c47,e66303c5-3aef-4bcc-a15f-45474d27f246,71.29,73.79,79.33,73.95,76.26,64.11,58.25,C,Stable,Facultatif,Oui,2023,,IQSS
+9ac9669f-aff9-4be4-9955-3bc34539a2d1,2a861d7d-5e70-49ef-b133-fec27c11df57,80.89,73.79,88.19,83.21,84.12,71.55,73.88,A,Amélioration,Obligatoire,Oui,2023,,IQSS
+9ac9669f-aff9-4be4-9955-3bc34539a2d1,cd40b90c-853a-4eb3-be6b-b6d23422538f,80.89,73.79,88.19,83.21,84.12,71.55,73.88,A,Amélioration,Obligatoire,Oui,2023,,IQSS
+52f1d508-6998-4af2-8f30-e0497dda09a0,41054bd2-78ea-4efc-b25f-114e31f43321,,,,,,,,DI,,Facultatif,Oui,2023,,IQSS
+52f1d508-6998-4af2-8f30-e0497dda09a0,27cb87f9-4d52-4b1d-bad9-0a4f6f6da8fc,,,,,,,,DI,,Facultatif,Oui,2023,,IQSS
+a50976f5-d105-4ed2-9ee6-b44549a87f85,534b21f7-e73e-476f-8a09-721a1c37e5dd,73.09,73.79,82.38,75.55,78.48,58.62,64.46,B,Amélioration,Facultatif,Oui,2023,,IQSS
+a50976f5-d105-4ed2-9ee6-b44549a87f85,6c3f759a-6ff4-40ee-b9cd-21a754c0bc89,73.09,73.79,82.38,75.55,78.48,58.62,64.46,B,Amélioration,Facultatif,Oui,2023,,IQSS
+63447ce7-1505-43b1-87fb-4ab8153b9f42,28c3f5f5-9513-4474-b430-847a0c18e6bf,,,,,,,,DI,,Facultatif,Oui,2023,,IQSS
+63447ce7-1505-43b1-87fb-4ab8153b9f42,92e58cee-6d88-4316-b35e-dcaa716d3d4b,,,,,,,,DI,,Facultatif,Oui,2023,,IQSS
+2165947f-a8f5-4e24-8eeb-a986083a1dbb,84d93848-5744-4179-8941-95bd471ca273,76.59,73.79,82.02,80.83,77.98,67.91,64.52,B,Amélioration,Obligatoire,Oui,2023,,IQSS
+2165947f-a8f5-4e24-8eeb-a986083a1dbb,93da0f85-b062-4b5f-ad6b-df1f1f195cff,76.59,73.79,82.02,80.83,77.98,67.91,64.52,B,Amélioration,Obligatoire,Oui,2023,,IQSS
+28825a28-75cc-4de6-b489-7a58e3fc296e,7ca8bbc4-cb32-4922-8ed3-577ad3d416c3,,,,,,,,DI,,Facultatif,Oui,2023,,IQSS
+28825a28-75cc-4de6-b489-7a58e3fc296e,35537ed0-49c0-4980-9b40-e64fb233848c,,,,,,,,DI,,Facultatif,Oui,2023,,IQSS
+e9a10071-5611-46d3-8256-fd9d7624977b,9f14a1c5-d209-4d45-beca-62fff8f4db5d,,,,,,,,DI,,Facultatif,Oui,2023,,IQSS
+e9a10071-5611-46d3-8256-fd9d7624977b,2d24c16e-e266-49fb-a8d4-9b14e2f2c8aa,,,,,,,,DI,,Facultatif,Oui,2023,,IQSS
+0e0f6c89-0581-46d9-8e63-ddae6462968d,17ceee72-4798-446c-898d-9ff0a4103d35,58.05,73.79,62.84,59.82,63.43,55.03,47.35,D,Non calculable,Facultatif,Oui,2023,,IQSS
+0e0f6c89-0581-46d9-8e63-ddae6462968d,a3008a97-07a4-4887-b523-097ef6892ae2,58.05,73.79,62.84,59.82,63.43,55.03,47.35,D,Non calculable,Facultatif,Oui,2023,,IQSS
+4ca19e9b-23b0-4619-8657-387e191155b8,f8b3f806-3c9e-48a7-8187-63ae43d4b5ae,68.08,73.79,70.04,70.41,72.13,54.63,63.92,D,Non calculable,Facultatif,Oui,2023,,IQSS
+4ca19e9b-23b0-4619-8657-387e191155b8,1135cb88-eb53-492e-a3f4-36167fa7ca52,68.08,73.79,70.04,70.41,72.13,54.63,63.92,D,Non calculable,Facultatif,Oui,2023,,IQSS
+ba024162-0b25-4966-8268-9dcc2a361cb5,7ddf23a8-7d6f-4af6-878b-aa916b2c8d91,71.61,73.79,75.95,78.47,65.83,58.83,63.41,C,Non calculable,Facultatif,Oui,2023,,IQSS
+ba024162-0b25-4966-8268-9dcc2a361cb5,1cd16565-fd2c-4f2c-83e8-4962587332bb,71.61,73.79,75.95,78.47,65.83,58.83,63.41,C,Non calculable,Facultatif,Oui,2023,,IQSS
+b379fd3c-04c8-4a0b-86d6-de0f42830005,c578b04d-15e0-4fd9-9dac-d48f3f898d86,77.83,73.79,93.14,82.03,67.35,79.9,67.5,A,Amélioration,Facultatif,Oui,2023,,IQSS
+b379fd3c-04c8-4a0b-86d6-de0f42830005,bcb49d74-4ba3-415c-b53e-8b3b340cd921,77.83,73.79,93.14,82.03,67.35,79.9,67.5,A,Amélioration,Facultatif,Oui,2023,,IQSS
+9a1100c4-6f9b-4551-996a-5a97797feba8,a132064f-50d3-4ec1-ae64-b26cba5d03cb,69.63,73.79,77.93,72.0,77.61,50.43,62.12,C,Amélioration,Facultatif,Oui,2023,,IQSS
+9a1100c4-6f9b-4551-996a-5a97797feba8,052804f3-1fc8-4b4a-b623-4a1095b41014,69.63,73.79,77.93,72.0,77.61,50.43,62.12,C,Amélioration,Facultatif,Oui,2023,,IQSS
+61f0969a-8636-4a8c-b544-1af993f1a413,82d059e9-9eeb-4214-bf56-09d3e3234083,65.56,73.79,69.22,67.02,72.2,53.61,59.98,D,Stable,Obligatoire,Oui,2023,,IQSS
+61f0969a-8636-4a8c-b544-1af993f1a413,3f193d72-7c30-4b4a-a8c3-6d0ed9146ca5,65.56,73.79,69.22,67.02,72.2,53.61,59.98,D,Stable,Obligatoire,Oui,2023,,IQSS
+5fb94823-693c-4e2a-84c7-d66544408f54,21c7ddca-b160-4b7e-8627-6d442230edb5,67.76,73.79,71.5,67.52,77.22,61.59,60.11,D,Diminution,Obligatoire,Oui,2023,,IQSS
+5fb94823-693c-4e2a-84c7-d66544408f54,64ba2d1c-6686-4dec-8309-35877dea0de2,67.76,73.79,71.5,67.52,77.22,61.59,60.11,D,Diminution,Obligatoire,Oui,2023,,IQSS
+48561fc3-b7d7-4a12-adc7-b7e6f5fb82f1,5895abd0-153f-453a-9003-a17b0a67d272,72.63,73.79,79.37,77.17,67.08,67.19,65.09,C,Amélioration,Obligatoire,Oui,2023,,IQSS
+48561fc3-b7d7-4a12-adc7-b7e6f5fb82f1,300d07d8-74fd-4ac9-9002-7cd8fc43d0ce,72.63,73.79,79.37,77.17,67.08,67.19,65.09,C,Amélioration,Obligatoire,Oui,2023,,IQSS
+b0ef0c35-2533-4141-b061-7a0f28a1379b,ec3219bc-ff2e-44ad-a977-4b30ba2b71fa,,,,,,,,DI,,Facultatif,Oui,2023,,IQSS
+b0ef0c35-2533-4141-b061-7a0f28a1379b,b4f7d1dd-31c2-43ea-a298-7ab6dbb539f2,,,,,,,,DI,,Facultatif,Oui,2023,,IQSS
+25f68c8e-05d3-4ad3-bde9-5e65de3019bf,e78631ab-35af-4e2e-a3b1-4fea12737812,,,,,,,,DI,,Facultatif,Oui,2023,,IQSS
+25f68c8e-05d3-4ad3-bde9-5e65de3019bf,5736e348-81e5-41cb-a124-0ad29871d787,,,,,,,,DI,,Facultatif,Oui,2023,,IQSS
+59ba2077-22a8-46f6-99e2-70a8f1577ce1,07d43a52-4908-4005-988a-75ea3a8a0661,,,,,,,,DI,,Facultatif,Oui,2023,,IQSS
+59ba2077-22a8-46f6-99e2-70a8f1577ce1,2ebf8076-43fb-49ed-92dc-aec024256141,,,,,,,,DI,,Facultatif,Oui,2023,,IQSS
+51e1a521-c784-4ad7-a609-ea44ced54d16,b9ceb783-69a4-4da2-9b68-df8aa35ae521,,,,,,,,DI,,Facultatif,Oui,2023,,IQSS
+51e1a521-c784-4ad7-a609-ea44ced54d16,9c66bfd7-dac7-4ce8-8912-ebd0c06c37ea,,,,,,,,DI,,Facultatif,Oui,2023,,IQSS
+f5cfc41b-1729-4f1d-8051-283897e1667d,e951cd37-26ef-4f1e-ac16-6369968e8e4c,,,,,,,,DI,,Facultatif,Oui,2023,,IQSS
+f5cfc41b-1729-4f1d-8051-283897e1667d,769171ff-fd28-432e-9cb1-bc24efc385b6,,,,,,,,DI,,Facultatif,Oui,2023,,IQSS
+d66e3337-69fe-43bd-8a07-8d9653cb34ae,053d74e0-fecb-4bd2-8dd4-21bd5c21ce60,,,,,,,,DI,,Facultatif,Oui,2023,,IQSS
+d66e3337-69fe-43bd-8a07-8d9653cb34ae,819af245-9728-443f-bb87-d1a6c7cd28ca,,,,,,,,DI,,Facultatif,Oui,2023,,IQSS
+d5ded65c-f34c-4eb9-86bf-3f760aa1dbb9,6e362db9-5804-4547-9b57-7dcbf7b70990,,,,,,,,NV,,Obligatoire,Oui,2023,,IQSS
+d5ded65c-f34c-4eb9-86bf-3f760aa1dbb9,7ebfbd2d-e87f-4ee2-bbe7-58dd69d015b0,,,,,,,,NV,,Obligatoire,Oui,2023,,IQSS
+170eeb77-cbd7-45b6-aa1c-78fd1deb74a2,cf1f35ee-b098-4ba0-99d3-c53a4cf26cef,,,,,,,,DI,,Facultatif,Oui,2023,,IQSS
+170eeb77-cbd7-45b6-aa1c-78fd1deb74a2,12ef738a-19f5-4b8c-a489-076b0cf42795,,,,,,,,DI,,Facultatif,Oui,2023,,IQSS
+2a6aad65-697d-479d-a2b5-bb86da3238e3,7f96a905-bfcd-4165-a21f-4a242d220449,77.45,75.71,81.03,81.02,78.65,70.88,67.85,A,Non calculable,Obligatoire,Oui,2023,,IQSS
+2a6aad65-697d-479d-a2b5-bb86da3238e3,df33fb09-8233-4141-af8e-efc0d9aa1f69,77.45,75.71,81.03,81.02,78.65,70.88,67.85,A,Non calculable,Obligatoire,Oui,2023,,IQSS
+f2552cb6-2009-41a7-b05f-b52b2fbe3578,cf1f35ee-b098-4ba0-99d3-c53a4cf26cef,,,,,,,,DI,,Facultatif,Oui,2023,,IQSS
+f2552cb6-2009-41a7-b05f-b52b2fbe3578,12ef738a-19f5-4b8c-a489-076b0cf42795,,,,,,,,DI,,Facultatif,Oui,2023,,IQSS
+3f91ed2f-f19d-43db-8ca3-918fb208523c,81a984a5-64be-4901-afcb-8efb96843c5a,75.23,75.19,83.32,79.56,74.36,63.36,66.83,B,Stable,Obligatoire,Oui,2023,,IQSS
+3f91ed2f-f19d-43db-8ca3-918fb208523c,66569104-80f8-4bde-bb77-44e8e586d4f0,75.23,75.19,83.32,79.56,74.36,63.36,66.83,B,Stable,Obligatoire,Oui,2023,,IQSS
+195dda5c-7f7d-4517-87ad-e0f4b815aee1,59e2ebfe-c3fe-44fd-a123-ad39b99e6c63,71.2,75.19,81.03,72.11,80.03,65.21,57.3,C,Amélioration,Facultatif,Oui,2023,,IQSS
+195dda5c-7f7d-4517-87ad-e0f4b815aee1,69ad911b-ebde-4ef8-8d6b-c8f092eda005,71.2,75.19,81.03,72.11,80.03,65.21,57.3,C,Amélioration,Facultatif,Oui,2023,,IQSS
+4ef2183c-8acc-4758-b183-840771b35143,b6cb49bf-657b-4c73-94ad-982442714160,79.73,75.19,86.99,83.51,81.69,69.38,70.06,A,Amélioration,Facultatif,Oui,2023,,IQSS
+4ef2183c-8acc-4758-b183-840771b35143,cfaff0e5-798c-47c3-84cb-cc7b2c2b1af3,79.73,75.19,86.99,83.51,81.69,69.38,70.06,A,Amélioration,Facultatif,Oui,2023,,IQSS
+d6cb0fbf-69b7-4338-bb88-598e5f744289,d8322f33-badb-4979-a5c9-c4f551f9f82c,,,,,,,,DI,,Facultatif,Oui,2023,,IQSS
+d6cb0fbf-69b7-4338-bb88-598e5f744289,ec781837-4bd0-46dc-b61f-40da4cfd7a1c,,,,,,,,DI,,Facultatif,Oui,2023,,IQSS
+f0e6347f-67bf-4c05-b2ee-1bbdf450fb24,8dfe7375-e388-4828-8ec9-94ca327f6702,,,,,,,,DI,,Facultatif,Oui,2023,,IQSS
+f0e6347f-67bf-4c05-b2ee-1bbdf450fb24,64173864-eca6-423f-b728-e08aa0f233bf,,,,,,,,DI,,Facultatif,Oui,2023,,IQSS
+25ca368b-67e2-4553-831e-53ffe392e907,28a547b1-8b02-42cd-82a3-55a74dac6abb,66.89,75.19,78.07,70.33,76.27,31.27,63.76,D,Stable,Facultatif,Oui,2023,,IQSS
+25ca368b-67e2-4553-831e-53ffe392e907,7404a458-4a42-4977-9b11-d580ad6faa20,66.89,75.19,78.07,70.33,76.27,31.27,63.76,D,Stable,Facultatif,Oui,2023,,IQSS
+9e5998a0-be32-4b91-814d-e2fdd049155e,8496145f-73b1-47b3-a728-f8b2c34fb754,,,,,,,,DI,,Facultatif,Oui,2023,,IQSS
+9e5998a0-be32-4b91-814d-e2fdd049155e,61bcb0b4-9d4a-4eb3-8d78-f4690d5593a3,,,,,,,,DI,,Facultatif,Oui,2023,,IQSS
+e6d173ee-e525-4923-be36-514841e4ce72,e2656db1-472f-486a-a548-978e09594783,75.59,75.19,83.97,79.69,82.08,51.01,69.05,B,Diminution,Obligatoire,Oui,2023,,IQSS
+e6d173ee-e525-4923-be36-514841e4ce72,6721e0bb-a8ec-4ea6-875f-f2af2a47752f,75.59,75.19,83.97,79.69,82.08,51.01,69.05,B,Diminution,Obligatoire,Oui,2023,,IQSS
+02658ba9-9a2c-43df-9c93-928e969a12c3,fb392034-11be-4400-89e2-76a35b9eeae1,75.43,73.79,83.84,77.93,77.59,61.9,70.72,B,Stable,Facultatif,Oui,2023,,IQSS
+02658ba9-9a2c-43df-9c93-928e969a12c3,6e7f6c68-dbff-4d53-a227-8d1955771fcb,75.43,73.79,83.84,77.93,77.59,61.9,70.72,B,Stable,Facultatif,Oui,2023,,IQSS
+e32969e8-dd35-4531-b277-5e481b007a6a,534432db-79d7-402c-8bef-4669c3cd984d,,,,,,,,DI,,Facultatif,Oui,2023,,IQSS
+e32969e8-dd35-4531-b277-5e481b007a6a,88626512-1564-4aab-a4d8-75e6e4b861a7,,,,,,,,DI,,Facultatif,Oui,2023,,IQSS
+e552a6e7-96aa-4a85-b370-45fa732436be,1e582d88-d194-4f81-9df3-cf60a6b2cbfb,73.44,73.79,83.3,76.45,73.63,70.49,60.82,B,Stable,Facultatif,Oui,2023,,IQSS
+e552a6e7-96aa-4a85-b370-45fa732436be,250059d1-6181-4276-acaf-77f2a0350b81,73.44,73.79,83.3,76.45,73.63,70.49,60.82,B,Stable,Facultatif,Oui,2023,,IQSS
+3ad65fe3-6f5e-4039-be11-ee904ab0eaf8,267218b6-37f1-4279-9c77-75cfb936ba52,72.12,73.79,78.38,73.38,81.52,61.72,61.09,C,Amélioration,Obligatoire,Oui,2023,,IQSS
+3ad65fe3-6f5e-4039-be11-ee904ab0eaf8,6dbf192d-d320-43d9-8e3e-9ccedbdd4262,72.12,73.79,78.38,73.38,81.52,61.72,61.09,C,Amélioration,Obligatoire,Oui,2023,,IQSS
+1005ad5e-d7ad-4760-a8c7-8c0ce8a7123c,788b9e92-902b-4a3e-a827-9d921a826df6,,,,,,,,DI,,Facultatif,Oui,2023,,IQSS
+1005ad5e-d7ad-4760-a8c7-8c0ce8a7123c,e34db67f-5945-4f91-96ae-7bf5cd8da2ab,,,,,,,,DI,,Facultatif,Oui,2023,,IQSS
+ba824bac-3519-4e17-972a-977e38d7410b,209306fe-e090-4b90-bffd-ade70a946707,,,,,,,,DI,,Facultatif,Oui,2023,,IQSS
+ba824bac-3519-4e17-972a-977e38d7410b,e39131c1-bd4b-44bb-b066-66f46ad1afc2,,,,,,,,DI,,Facultatif,Oui,2023,,IQSS
+11526a2a-3e08-4f7b-9385-776b5d04840a,96240a54-7919-4209-9d80-326878d00227,,,,,,,,DI,,Facultatif,Oui,2023,,IQSS
+11526a2a-3e08-4f7b-9385-776b5d04840a,c4cd3825-e776-4f36-b058-46677b55dbec,,,,,,,,DI,,Facultatif,Oui,2023,,IQSS
+fe9ba3d7-78bd-409a-b3ff-0ba730fba4f8,bb6a83a3-81cb-4327-b4ff-f7f81f49ed74,72.6,73.79,80.46,76.42,69.53,68.41,63.45,C,Stable,Obligatoire,Oui,2023,,IQSS
+fe9ba3d7-78bd-409a-b3ff-0ba730fba4f8,35e4d259-a24a-4504-a5c5-d5341d3f4e75,72.6,73.79,80.46,76.42,69.53,68.41,63.45,C,Stable,Obligatoire,Oui,2023,,IQSS
+b89a018d-da2d-47e8-a44e-dd49d9fe735f,67122516-0618-41f1-809a-cd553772c922,66.19,73.79,73.28,72.31,67.32,46.98,55.51,D,Non calculable,Facultatif,Oui,2023,,IQSS
+b89a018d-da2d-47e8-a44e-dd49d9fe735f,9a7dd5ae-6bf1-47b4-80b2-a671e5a412c8,66.19,73.79,73.28,72.31,67.32,46.98,55.51,D,Non calculable,Facultatif,Oui,2023,,IQSS
+6775ab10-af35-486c-bde1-5dd34faa8b60,85e59d8a-6696-48f9-b748-c21e2678050e,71.64,73.79,83.61,75.43,66.69,60.73,68.01,C,Amélioration,Obligatoire,Oui,2023,,IQSS
+6775ab10-af35-486c-bde1-5dd34faa8b60,f8f74f38-0b06-49cc-b979-d7305013bda2,71.64,73.79,83.61,75.43,66.69,60.73,68.01,C,Amélioration,Obligatoire,Oui,2023,,IQSS
+7480bf5a-35e3-42ac-9fad-7ef403e137d6,48f84646-190d-4bcd-9b62-9b0ca9b3eb72,78.76,73.79,85.71,83.72,74.38,68.02,72.63,A,Amélioration,Facultatif,Oui,2023,,IQSS
+7480bf5a-35e3-42ac-9fad-7ef403e137d6,ae678b4f-6c8c-4a0b-bdbe-101f76c5a16d,78.76,73.79,85.71,83.72,74.38,68.02,72.63,A,Amélioration,Facultatif,Oui,2023,,IQSS
+dd4f0375-12f5-4c50-a667-81d5e313eef9,0561c169-9b76-4381-9f2a-dfc660aadcb1,,,,,,,,DI,,Facultatif,Oui,2023,,IQSS
+dd4f0375-12f5-4c50-a667-81d5e313eef9,ead0aeb3-fe46-4e44-8439-c92e65316152,,,,,,,,DI,,Facultatif,Oui,2023,,IQSS
+c98d01b8-fa5f-4c73-b3da-2a07f434ee19,759cc8cd-cc35-4310-8857-8ae5288038b4,73.57,73.79,81.23,74.15,79.26,73.66,60.98,B,Non calculable,Obligatoire,Oui,2023,,IQSS
+c98d01b8-fa5f-4c73-b3da-2a07f434ee19,363545d0-ac0d-4a85-bd06-6ec0b4b91441,73.57,73.79,81.23,74.15,79.26,73.66,60.98,B,Non calculable,Obligatoire,Oui,2023,,IQSS
+738fe382-4a99-42ba-a160-c3682ce7e2ab,edd0fa49-aa2e-49cd-94a0-741981758502,,,,,,,,DI,,Facultatif,Oui,2023,,IQSS
+738fe382-4a99-42ba-a160-c3682ce7e2ab,4de86d12-075f-4c75-9e09-d9abc08ccd1c,,,,,,,,DI,,Facultatif,Oui,2023,,IQSS
+f591d437-4c03-4f2e-bfd5-786c95add7e9,71780a31-9a68-4f32-b3d4-1644449128d3,,,,,,,,DI,,Facultatif,Oui,2023,,IQSS
+f591d437-4c03-4f2e-bfd5-786c95add7e9,0725a08f-d248-4859-b3e8-3b8df220ab74,,,,,,,,DI,,Facultatif,Oui,2023,,IQSS
+4f57d5f2-60c2-4523-896e-f09450458d24,11bd99ce-8bbb-40c6-9c30-f588353e24b0,71.84,73.79,80.31,74.06,77.96,58.69,63.15,C,Stable,Facultatif,Oui,2023,,IQSS
+4f57d5f2-60c2-4523-896e-f09450458d24,0d5ee166-1b78-4087-ad59-2bc1789ee7c1,71.84,73.79,80.31,74.06,77.96,58.69,63.15,C,Stable,Facultatif,Oui,2023,,IQSS
+64e46318-145b-4e3c-a069-3614d733cef9,e69e0b58-cc18-4dc7-8383-425a64c57983,67.18,73.79,76.26,71.87,63.13,58.98,59.12,D,Stable,Obligatoire,Oui,2023,,IQSS
+64e46318-145b-4e3c-a069-3614d733cef9,75093d15-2a02-4473-8621-2923ede34f69,67.18,73.79,76.26,71.87,63.13,58.98,59.12,D,Stable,Obligatoire,Oui,2023,,IQSS
+638e5319-35d0-4f6f-9fbe-53910932937e,925ee9c3-ee0f-4b10-b4c7-289d088fb8e1,77.78,73.79,85.25,81.59,72.21,71.53,73.7,A,Non calculable,Obligatoire,Oui,2023,,IQSS
+638e5319-35d0-4f6f-9fbe-53910932937e,5eaf6252-a60f-4c19-8d9b-463bcfa9dcbd,77.78,73.79,85.25,81.59,72.21,71.53,73.7,A,Non calculable,Obligatoire,Oui,2023,,IQSS
+1c956788-e26c-4531-a7b3-0052d450404d,da85b428-bde5-4224-bf80-e2fb36c9dd78,,,,,,,,NV,,Obligatoire,Oui,2023,,IQSS
+1c956788-e26c-4531-a7b3-0052d450404d,f501381a-e973-4836-a7fd-44803a86a2e8,,,,,,,,NV,,Obligatoire,Oui,2023,,IQSS
+f3f87ccb-31ba-4d51-9a57-b0531492d96b,57b7c449-5d56-4dc9-bb8c-58cddb3b05a5,,,,,,,,DI,,Facultatif,Oui,2023,,IQSS
+f3f87ccb-31ba-4d51-9a57-b0531492d96b,a7e28bc1-8749-415e-9c35-77270ece5304,,,,,,,,DI,,Facultatif,Oui,2023,,IQSS
+59bb8cbc-c16d-47be-92cd-e0302697fb10,bad0aba0-aa64-4057-b9ab-a874267c4236,,,,,,,,DI,,Facultatif,Oui,2023,,IQSS
+59bb8cbc-c16d-47be-92cd-e0302697fb10,a5ba41d6-26c4-444b-8208-a52a24660552,,,,,,,,DI,,Facultatif,Oui,2023,,IQSS
+cba2f734-0f43-4a53-9c82-53ac6e1cd7a1,0f16dda9-47bc-4213-8291-f4a97879088d,,,,,,,,DI,,Facultatif,Oui,2023,,IQSS
+cba2f734-0f43-4a53-9c82-53ac6e1cd7a1,a11427d5-66e7-450f-bdd8-4bdda9c46023,,,,,,,,DI,,Facultatif,Oui,2023,,IQSS
+c0a1f61a-49a0-4817-92ab-9de4efefb409,5c41f0d7-12e3-46d2-b105-be6b847c6dae,,,,,,,,DI,,Facultatif,Oui,2023,,IQSS
+c0a1f61a-49a0-4817-92ab-9de4efefb409,f3a6b548-1dd8-4ab8-9ca8-4229599192be,,,,,,,,DI,,Facultatif,Oui,2023,,IQSS
+fa348d5f-b036-41b6-99ff-d184816d824a,7a8f3d97-ae91-482e-94a7-27e43816ad0a,,,,,,,,DI,,Facultatif,Oui,2023,,IQSS
+fa348d5f-b036-41b6-99ff-d184816d824a,4213df7a-10dc-436d-8060-4c45ac8f1a81,,,,,,,,DI,,Facultatif,Oui,2023,,IQSS
+5d3739b8-08f8-4953-808a-10ce6376eb92,33a843a0-ca6e-476a-a895-3487ac8ec91b,64.68,73.79,76.69,66.46,68.5,49.59,59.55,D,Stable,Facultatif,Oui,2023,,IQSS
+5d3739b8-08f8-4953-808a-10ce6376eb92,498059f3-6023-4afb-bcab-6c4b680eb752,64.68,73.79,76.69,66.46,68.5,49.59,59.55,D,Stable,Facultatif,Oui,2023,,IQSS
+23ad7b4a-8d3f-4701-9d73-5ad81635a0c7,c1859d1f-5685-4605-854b-fa5aabcf89e5,,,,,,,,DI,,Facultatif,Oui,2023,,IQSS
+23ad7b4a-8d3f-4701-9d73-5ad81635a0c7,c45b3b49-6990-444e-b15f-0a7373ef9567,,,,,,,,DI,,Facultatif,Oui,2023,,IQSS
+7769fb32-4066-4ff5-baa6-8383c1b9279d,3a76dc77-12fc-4325-8c3f-667cd4523ed6,,,,,,,,DI,,Facultatif,Oui,2023,,IQSS
+7769fb32-4066-4ff5-baa6-8383c1b9279d,f2cc9c37-1240-4f53-b575-a6a407d6aa8f,,,,,,,,DI,,Facultatif,Oui,2023,,IQSS
+04116975-608e-429d-9101-9d3fbc272fa4,e2530722-45e9-48dd-aab2-2a178ba26bab,,,,,,,,DI,,Facultatif,Oui,2023,,IQSS
+04116975-608e-429d-9101-9d3fbc272fa4,7b489c11-d57d-4021-95e4-2d6c80a60fd1,,,,,,,,DI,,Facultatif,Oui,2023,,IQSS
+c4b3908e-ce00-4a1b-bbee-22b902a82378,c46d4bfb-33b9-4039-9aff-7c79bd26a594,69.41,73.79,77.61,74.79,66.15,53.29,63.5,C,Stable,Facultatif,Oui,2023,,IQSS
+c4b3908e-ce00-4a1b-bbee-22b902a82378,9a00a71a-11e5-4bc3-bc6b-140033b8810e,69.41,73.79,77.61,74.79,66.15,53.29,63.5,C,Stable,Facultatif,Oui,2023,,IQSS
+80d97e43-1a41-40be-82ca-eda998184612,a61cac7b-5534-4ca6-9fb3-bbb4cc1efd0e,,,,,,,,DI,,Facultatif,Oui,2023,,IQSS
+80d97e43-1a41-40be-82ca-eda998184612,119dc930-3b8c-43de-8d3c-185380f92e72,,,,,,,,DI,,Facultatif,Oui,2023,,IQSS
+8a62e6de-c604-48a2-842c-8cd9f2718f5d,58b484be-c4dc-4d45-a2f1-a8c5995278e3,74.24,73.79,79.75,78.12,74.73,62.67,67.63,B,Non calculable,Facultatif,Oui,2023,,IQSS
+8a62e6de-c604-48a2-842c-8cd9f2718f5d,bd4efa37-ebce-4968-9d46-c793e82c04da,74.24,73.79,79.75,78.12,74.73,62.67,67.63,B,Non calculable,Facultatif,Oui,2023,,IQSS
+1e63b5f3-62cb-4fb9-aa25-7170ef7af2af,809dee5f-dd22-4548-866f-32e15327bb0f,72.4,73.79,78.7,75.75,74.52,62.56,63.24,C,Diminution,Obligatoire,Oui,2023,,IQSS
+1e63b5f3-62cb-4fb9-aa25-7170ef7af2af,b5e62036-cf75-49fb-8787-0ad432fef6fc,72.4,73.79,78.7,75.75,74.52,62.56,63.24,C,Diminution,Obligatoire,Oui,2023,,IQSS
+e04d3acd-e87e-4d4e-93f6-924f39b1f1ba,c4255b75-f151-44d8-8ac0-b3fea9e77c57,81.32,73.79,87.77,83.57,84.98,68.57,75.1,A,Amélioration,Obligatoire,Oui,2023,,IQSS
+e04d3acd-e87e-4d4e-93f6-924f39b1f1ba,edef936f-386a-4eb5-8c00-5bdf63b28916,81.32,73.79,87.77,83.57,84.98,68.57,75.1,A,Amélioration,Obligatoire,Oui,2023,,IQSS
+f9eced01-3a1a-4782-b632-b0aa8dcdb24d,3bd0b65f-70fc-4f0c-a9e5-c81045f58a1c,,,,,,,,DI,,Facultatif,Oui,2023,,IQSS
+f9eced01-3a1a-4782-b632-b0aa8dcdb24d,e8445ce6-44b7-4585-94bf-05c96ad9e8c3,,,,,,,,DI,,Facultatif,Oui,2023,,IQSS
+e1c70f38-bd9f-4e9e-86e9-1271056ff8fe,82320e3b-abc6-4d73-94c0-a2879c7ee4a6,76.56,73.79,84.13,80.56,81.65,50.32,72.04,B,Stable,Facultatif,Oui,2023,,IQSS
+e1c70f38-bd9f-4e9e-86e9-1271056ff8fe,da35889a-988b-4e61-9954-86518edc75b0,76.56,73.79,84.13,80.56,81.65,50.32,72.04,B,Stable,Facultatif,Oui,2023,,IQSS
+34c38810-394e-44be-a1e0-b90c9a35c45b,2e5cbde7-0fd0-462a-bc6a-f46441d276a2,,,,,,,,NV,,Obligatoire,Oui,2023,,IQSS
+34c38810-394e-44be-a1e0-b90c9a35c45b,19803ebb-2a10-4b6f-804c-191f767299ed,,,,,,,,NV,,Obligatoire,Oui,2023,,IQSS
+e8d5ea83-3dea-4c71-9598-67bee03ebe1d,02961faa-6024-48b5-8c8b-c2ba516f9bdc,,,,,,,,NV,,Obligatoire,Oui,2023,,IQSS
+e8d5ea83-3dea-4c71-9598-67bee03ebe1d,b7ab432e-dab8-4090-8289-fba6052926f2,,,,,,,,NV,,Obligatoire,Oui,2023,,IQSS
+14638366-2bef-4ca8-a8fc-e2caf300385e,4c307f8a-be6d-4752-b288-4b71f85eeee3,72.55,73.79,79.86,75.22,73.44,71.1,60.57,C,Stable,Obligatoire,Oui,2023,,IQSS
+14638366-2bef-4ca8-a8fc-e2caf300385e,e6054ea5-8c17-4049-b292-6edbee0ba263,72.55,73.79,79.86,75.22,73.44,71.1,60.57,C,Stable,Obligatoire,Oui,2023,,IQSS
+f1f43543-3909-4648-8ee0-93347ed70e20,ceb6a843-2184-43dd-b275-5f4b403ab3c9,,,,,,,,DI,,Facultatif,Oui,2023,,IQSS
+f1f43543-3909-4648-8ee0-93347ed70e20,8b48d94e-cf13-4581-aeb7-165058532c6b,,,,,,,,DI,,Facultatif,Oui,2023,,IQSS
+74aa495c-9ba5-426d-9bad-eeee8a1cf8a0,9c257013-109f-44dc-a093-a765e96ece70,76.05,75.16,85.22,81.43,74.94,44.86,77.76,B,Amélioration,Facultatif,Oui,2023,,IQSS
+74aa495c-9ba5-426d-9bad-eeee8a1cf8a0,2e1c9aa1-aef4-465a-989d-a8ce5260be73,76.05,75.16,85.22,81.43,74.94,44.86,77.76,B,Amélioration,Facultatif,Oui,2023,,IQSS
+1a1571f5-4ca8-40bc-ae28-2dc1571d41e0,dee0ef5f-2506-450f-acc7-e59bda160415,,,,,,,,DI,,Facultatif,Oui,2023,,IQSS
+1a1571f5-4ca8-40bc-ae28-2dc1571d41e0,97efe399-f613-4550-b424-35ce5b1924a5,,,,,,,,DI,,Facultatif,Oui,2023,,IQSS
+a8c6fb6a-2c5d-41e1-9b63-4ce464c26bbe,741a4e29-766b-452b-be03-5b2e9e9e1369,,,,,,,,DI,,Facultatif,Oui,2023,,IQSS
+a8c6fb6a-2c5d-41e1-9b63-4ce464c26bbe,92f92245-3e5b-462e-817a-079617378360,,,,,,,,DI,,Facultatif,Oui,2023,,IQSS
+ed1f92d9-b38b-4c96-9002-9b4d09031174,f2c367e5-70b3-4ea9-9b4f-f086f1a420ee,,,,,,,,DI,,Facultatif,Oui,2023,,IQSS
+ed1f92d9-b38b-4c96-9002-9b4d09031174,2b3b0c7b-7739-4be0-b28b-5944c0eb239f,,,,,,,,DI,,Facultatif,Oui,2023,,IQSS
+80c26cd6-c6c7-4230-aba4-82fbac064341,07bd892f-89b1-4f63-9bcb-b34731fbe7e5,72.01,75.16,79.7,76.78,72.62,58.35,61.76,C,Diminution,Obligatoire,Oui,2023,,IQSS
+80c26cd6-c6c7-4230-aba4-82fbac064341,d9b7b921-76c7-48be-b8df-393241d134eb,72.01,75.16,79.7,76.78,72.62,58.35,61.76,C,Diminution,Obligatoire,Oui,2023,,IQSS
+218241bf-bcc5-4f5c-b9b5-7e87f5ff43e1,eb73f7ae-4635-4a46-b335-90611d12f533,73.11,75.16,79.25,75.64,79.51,58.23,64.24,B,Non calculable,Obligatoire,Oui,2023,,IQSS
+218241bf-bcc5-4f5c-b9b5-7e87f5ff43e1,e06e19dc-5d62-46a2-930a-98f9917409de,73.11,75.16,79.25,75.64,79.51,58.23,64.24,B,Non calculable,Obligatoire,Oui,2023,,IQSS
+4ee2430b-b5fd-4b55-85a6-a2a8720b4bdb,c66287e4-c119-4ec8-986a-abb747a9631c,,,,,,,,DI,,Facultatif,Oui,2023,,IQSS
+4ee2430b-b5fd-4b55-85a6-a2a8720b4bdb,87b217e3-48e1-4c9a-a8e3-b3808057d2f0,,,,,,,,DI,,Facultatif,Oui,2023,,IQSS
+b29b5f99-6a98-4072-a1b1-3de93e20dcad,3392d0ac-abda-42a2-a68e-5f54e7c746f9,75.73,76.02,84.52,76.35,82.72,65.36,68.4,B,Stable,Obligatoire,Oui,2023,,IQSS
+b29b5f99-6a98-4072-a1b1-3de93e20dcad,8d6cdcd0-9271-4136-94c9-21990137266d,75.73,76.02,84.52,76.35,82.72,65.36,68.4,B,Stable,Obligatoire,Oui,2023,,IQSS
+05fea8c2-30bb-4435-8179-03e8b7770974,2d1456f3-d1e2-4dbd-9c7d-38caf5a95140,,,,,,,,DI,,Facultatif,Oui,2023,,IQSS
+05fea8c2-30bb-4435-8179-03e8b7770974,16c3b0df-bdf1-4d67-996a-8f72a4ba7c77,,,,,,,,DI,,Facultatif,Oui,2023,,IQSS
+a12d6d9c-7b18-44c7-8282-e6bb9631afb1,f23cdb18-5d8c-467f-8d3b-23c954388b60,76.52,76.02,85.23,80.68,71.73,71.53,68.49,B,Stable,Facultatif,Oui,2023,,IQSS
+a12d6d9c-7b18-44c7-8282-e6bb9631afb1,202a8f56-2354-4d5f-870d-ea9c4db1de70,76.52,76.02,85.23,80.68,71.73,71.53,68.49,B,Stable,Facultatif,Oui,2023,,IQSS
+2ebede0c-ee44-4263-aee0-f64ec50a9eb0,b5f3855c-49bf-4512-9e8f-c5c13a3c4ead,81.44,76.84,88.39,84.36,81.56,79.51,70.58,A,Stable,Facultatif,Oui,2023,,IQSS
+2ebede0c-ee44-4263-aee0-f64ec50a9eb0,b247133d-8abd-4c31-adfc-57d8b6009ce9,81.44,76.84,88.39,84.36,81.56,79.51,70.58,A,Stable,Facultatif,Oui,2023,,IQSS
+651814cb-3eae-46f5-9cec-15d43ed65ee4,a0efd98e-997d-4caa-85cd-8a1dbc136e6c,,,,,,,,DI,,Facultatif,Oui,2023,,IQSS
+651814cb-3eae-46f5-9cec-15d43ed65ee4,eaa2c5bf-271d-493c-9ba4-03d97105eb17,,,,,,,,DI,,Facultatif,Oui,2023,,IQSS
+e0b2943f-cda6-4356-8ff3-f00cb511701b,8cf57e0b-6c2a-449d-b61d-cd85dcbf268f,76.28,76.84,85.59,81.5,80.35,45.99,70.64,B,Diminution,Obligatoire,Oui,2023,,IQSS
+e0b2943f-cda6-4356-8ff3-f00cb511701b,0e989d01-9061-4a4e-89b3-8e8042c870ed,76.28,76.84,85.59,81.5,80.35,45.99,70.64,B,Diminution,Obligatoire,Oui,2023,,IQSS
+4f1b67b6-eb3c-4de8-9196-08d4929640d3,db55da77-a170-441e-ae39-b5a0572a68c9,,,,,,,,DI,,Facultatif,Oui,2023,,IQSS
+4f1b67b6-eb3c-4de8-9196-08d4929640d3,0f688e04-ed3a-41f3-8f57-dadb5c3b626e,,,,,,,,DI,,Facultatif,Oui,2023,,IQSS
+84f8153f-ea9e-4b81-a1fe-86ddae061032,6a8454cd-468d-452a-8268-0779ead70bc3,72.78,76.84,80.52,73.67,77.95,65.32,64.88,C,Non calculable,Facultatif,Oui,2023,,IQSS
+84f8153f-ea9e-4b81-a1fe-86ddae061032,44021e0f-e474-40f0-8aac-8d53c875ddb5,72.78,76.84,80.52,73.67,77.95,65.32,64.88,C,Non calculable,Facultatif,Oui,2023,,IQSS
+ca943e2f-6566-4cd2-9f1a-efc0feb0b7bf,de87b066-869e-484d-9d64-dcfe5b75d85b,72.2,76.84,78.24,76.44,74.19,59.48,62.05,C,Diminution,Facultatif,Oui,2023,,IQSS
+ca943e2f-6566-4cd2-9f1a-efc0feb0b7bf,cb18906d-bb16-44b2-b0a8-0095f8bf2c1d,72.2,76.84,78.24,76.44,74.19,59.48,62.05,C,Diminution,Facultatif,Oui,2023,,IQSS
+e1abdf51-262b-4410-86b7-7a46c9b7a869,6bc7e73e-1418-4323-96f7-a23291a492b6,,,,,,,,DI,,Facultatif,Oui,2023,,IQSS
+e1abdf51-262b-4410-86b7-7a46c9b7a869,13138a4b-8c55-4d91-b7ff-9ebb8ec9ba44,,,,,,,,DI,,Facultatif,Oui,2023,,IQSS
+043fa0a4-0a23-4dea-86b1-0df8249d422e,772e9248-9644-4087-ba1c-44c8e6d8b3e3,69.22,76.84,82.42,76.76,55.25,49.67,67.82,C,Diminution,Facultatif,Oui,2023,,IQSS
+043fa0a4-0a23-4dea-86b1-0df8249d422e,bf2f6e97-11dd-4dce-8f20-636d55409462,69.22,76.84,82.42,76.76,55.25,49.67,67.82,C,Diminution,Facultatif,Oui,2023,,IQSS
+37cdd498-00f0-49d9-9f31-727f10ac9cfa,3f2f16b7-65c9-4d0f-b5e5-77c009ba4da6,75.8,76.84,81.01,78.38,76.12,66.33,71.91,B,Stable,Obligatoire,Oui,2023,,IQSS
+37cdd498-00f0-49d9-9f31-727f10ac9cfa,c6e6b26b-4741-4adc-9b73-3d6aa53bfc11,75.8,76.84,81.01,78.38,76.12,66.33,71.91,B,Stable,Obligatoire,Oui,2023,,IQSS
+eeb6aa66-614c-4b17-abf8-ff1e68fd0468,bc2c9c73-6309-4e73-8dbb-79cf8ec87748,75.19,76.84,81.93,78.21,76.34,69.71,64.94,B,Stable,Facultatif,Oui,2023,,IQSS
+eeb6aa66-614c-4b17-abf8-ff1e68fd0468,ce0b3b8d-c7e6-474b-b86c-280c2860d4ef,75.19,76.84,81.93,78.21,76.34,69.71,64.94,B,Stable,Facultatif,Oui,2023,,IQSS
+165601f4-f8d2-4bda-a79f-d4d8c6785df7,2e1d2198-8cbb-4c57-bc99-c8efc54bf191,,,,,,,,DI,,Facultatif,Oui,2023,,IQSS
+165601f4-f8d2-4bda-a79f-d4d8c6785df7,146737a4-2918-415d-93a3-875fa6aff72a,,,,,,,,DI,,Facultatif,Oui,2023,,IQSS
+100f62cc-b0fc-4325-9f65-675341b52480,0cd6f5ef-4d69-4a5a-ae33-20275df739aa,76.66,75.08,83.15,80.66,70.58,72.86,70.75,A,Stable,Facultatif,Oui,2023,,IQSS
+100f62cc-b0fc-4325-9f65-675341b52480,13c7c964-f981-4105-8ee7-56274ab19de5,76.66,75.08,83.15,80.66,70.58,72.86,70.75,A,Stable,Facultatif,Oui,2023,,IQSS
+5e4b4a52-c142-4d1a-b021-e4fb0e0c40f3,4d271c17-ce2d-416c-90ff-dd8096dd5920,69.81,75.08,77.11,73.28,78.72,56.15,57.44,C,Non calculable,Obligatoire,Oui,2023,,IQSS
+5e4b4a52-c142-4d1a-b021-e4fb0e0c40f3,ddf93a97-6ab0-4479-ab15-d5483ac45032,69.81,75.08,77.11,73.28,78.72,56.15,57.44,C,Non calculable,Obligatoire,Oui,2023,,IQSS
+8bed4b41-ea4a-43d7-8d03-3033dd2c2764,d55716f0-a8d9-46f9-9e0c-e1bd68ab118c,68.24,75.08,77.94,77.32,57.47,37.68,68.26,D,Stable,Obligatoire,Oui,2023,,IQSS
+8bed4b41-ea4a-43d7-8d03-3033dd2c2764,4d22c7a0-b686-4e32-8427-95fcabac6b18,68.24,75.08,77.94,77.32,57.47,37.68,68.26,D,Stable,Obligatoire,Oui,2023,,IQSS
+98e5660b-4cd0-4589-a634-fe9ce997fede,eea7f5e8-d308-4ea1-b812-0f01672b2e0d,74.06,77.76,82.98,76.84,79.83,62.11,61.68,B,Amélioration,Obligatoire,Oui,2023,,IQSS
+98e5660b-4cd0-4589-a634-fe9ce997fede,304b26dd-b680-4d43-b5f0-f9098ff11691,74.06,77.76,82.98,76.84,79.83,62.11,61.68,B,Amélioration,Obligatoire,Oui,2023,,IQSS
+88c4123f-9f9b-41bd-826b-0ee7ecd863dd,2213f5dd-b689-42fc-b934-ec8e0a5f84ec,72.17,77.76,76.91,74.8,78.68,64.23,59.2,C,Stable,Obligatoire,Oui,2023,,IQSS
+88c4123f-9f9b-41bd-826b-0ee7ecd863dd,7ccfcece-f761-4d81-b137-d4bd6208d546,72.17,77.76,76.91,74.8,78.68,64.23,59.2,C,Stable,Obligatoire,Oui,2023,,IQSS
+bf1a6753-a607-4e8c-a792-815ea639ba8e,979acb81-f1e1-490d-a150-c450b6a1a56f,,,,,,,,DI,,Facultatif,Oui,2023,,IQSS
+bf1a6753-a607-4e8c-a792-815ea639ba8e,c4338bbb-f80f-4374-af02-ac400c81be7b,,,,,,,,DI,,Facultatif,Oui,2023,,IQSS
+8d65e264-9d0a-4146-b814-b7ed59434d2a,d04d2d2c-1508-4e67-9926-6098e5d7375e,78.19,76.84,84.44,81.1,80.92,68.47,69.81,A,Stable,Obligatoire,Oui,2023,,IQSS
+8d65e264-9d0a-4146-b814-b7ed59434d2a,a97c8a53-995f-4cc2-a741-693a277f1143,78.19,76.84,84.44,81.1,80.92,68.47,69.81,A,Stable,Obligatoire,Oui,2023,,IQSS
+fe7385e4-8636-4984-a718-268a6a8a2cda,32aad40d-bf4c-435a-a101-869f3372c4b3,,,,,,,,DI,,Facultatif,Oui,2023,,IQSS
+fe7385e4-8636-4984-a718-268a6a8a2cda,ee820b83-edd8-4689-83f6-6508e0819d31,,,,,,,,DI,,Facultatif,Oui,2023,,IQSS
+72e5a494-994d-42bb-a194-9a7cb0db050b,6a39785e-cce8-4e8b-9a7f-d7e780449fde,,,,,,,,DI,,Facultatif,Oui,2023,,IQSS
+72e5a494-994d-42bb-a194-9a7cb0db050b,37dee862-62c2-4176-840c-2567ffabb360,,,,,,,,DI,,Facultatif,Oui,2023,,IQSS
+9e3cc144-34e8-4336-8240-efa949516390,5fa65302-e26c-4fe2-9f36-f39174d75df2,,,,,,,,DI,,Facultatif,Oui,2023,,IQSS
+9e3cc144-34e8-4336-8240-efa949516390,0fd77d8e-cda4-4f1a-9658-f4a0e9f6a293,,,,,,,,DI,,Facultatif,Oui,2023,,IQSS
+8ee1f6b1-31be-42cd-b669-c7bd35731ff1,32e50dd1-655a-49f0-88ac-4896d27d611c,75.73,76.84,81.42,78.57,79.49,59.9,71.37,B,Stable,Facultatif,Oui,2023,,IQSS
+8ee1f6b1-31be-42cd-b669-c7bd35731ff1,f89a8a95-9710-405e-9a64-687efbd9b4a7,75.73,76.84,81.42,78.57,79.49,59.9,71.37,B,Stable,Facultatif,Oui,2023,,IQSS
+43fe425d-d5c7-433f-839f-86c9d6086a59,a4e6d8f4-8344-483e-87f5-96346d990271,74.73,76.84,80.15,80.43,75.5,54.44,67.26,B,Amélioration,Obligatoire,Oui,2023,,IQSS
+43fe425d-d5c7-433f-839f-86c9d6086a59,b576f589-1a4a-4eb8-91a6-b47938afe7d2,74.73,76.84,80.15,80.43,75.5,54.44,67.26,B,Amélioration,Obligatoire,Oui,2023,,IQSS
+39254433-a85d-45da-b750-3ecd19e33fc4,731dd779-831e-4918-850c-cf4b9f97281f,,,,,,,,DI,,Facultatif,Oui,2023,,IQSS
+39254433-a85d-45da-b750-3ecd19e33fc4,317a1aa5-9a46-48bf-8607-dd0ff661064e,,,,,,,,DI,,Facultatif,Oui,2023,,IQSS
+b74b7ca8-9bf6-42b9-9147-40ffc78fc309,d9fa9994-37c0-4dbf-a88b-571ef547c1c6,,,,,,,,DI,,Facultatif,Oui,2023,,IQSS
+b74b7ca8-9bf6-42b9-9147-40ffc78fc309,2285353b-aaf2-4620-87ed-0472d348b3fd,,,,,,,,DI,,Facultatif,Oui,2023,,IQSS
+5b11bbd7-60f3-450d-8f13-366b5ea6ab23,cc6ae858-2a7b-4712-bc93-45439d035251,,,,,,,,DI,,Facultatif,Oui,2023,,IQSS
+5b11bbd7-60f3-450d-8f13-366b5ea6ab23,3397b524-a40d-41a4-89ad-0ef077be0077,,,,,,,,DI,,Facultatif,Oui,2023,,IQSS
+6220ee9e-14d2-4c35-baf0-44d1fbe3e4dd,5fea3e94-d1a9-4a51-8f44-cf4b09b224da,77.64,75.08,82.58,80.53,82.36,65.82,68.45,A,Amélioration,Facultatif,Oui,2023,,IQSS
+6220ee9e-14d2-4c35-baf0-44d1fbe3e4dd,f34e5fcc-4314-4289-9ca4-f52676f2a605,77.64,75.08,82.58,80.53,82.36,65.82,68.45,A,Amélioration,Facultatif,Oui,2023,,IQSS
+371c6850-259a-439f-a7cf-997cf35ac5be,61df94b1-2371-4abc-b113-304f65fb2f74,79.45,76.02,88.27,83.44,82.09,59.71,73.17,A,Stable,Facultatif,Oui,2023,,IQSS
+371c6850-259a-439f-a7cf-997cf35ac5be,ac7a8bf5-01a9-4700-b7d7-1d2f4cfc3dea,79.45,76.02,88.27,83.44,82.09,59.71,73.17,A,Stable,Facultatif,Oui,2023,,IQSS
+c9a7c77c-17fa-44b8-a600-e5f2c6d85727,fedeed3f-f6ca-435a-baa9-b1385b897496,,,,,,,,DI,,Facultatif,Oui,2023,,IQSS
+c9a7c77c-17fa-44b8-a600-e5f2c6d85727,2e10a97b-73e3-4e70-87ef-1ff16d251830,,,,,,,,DI,,Facultatif,Oui,2023,,IQSS
+9055494a-362e-4e8a-bed7-b71f9f872dad,98906a6b-2119-42b5-ad90-765e0706f58b,79.87,76.02,88.22,83.66,79.82,67.49,72.86,A,Stable,Obligatoire,Oui,2023,,IQSS
+9055494a-362e-4e8a-bed7-b71f9f872dad,3d43694f-33ac-44ee-aac0-7aa56cd2fee8,79.87,76.02,88.22,83.66,79.82,67.49,72.86,A,Stable,Obligatoire,Oui,2023,,IQSS
+6170bd7c-c0d4-4bda-8fc9-072ab18fd2d1,3b55b3ab-93fd-4ecf-8f90-1b37581254c3,76.22,76.02,82.55,80.9,82.2,49.15,69.96,B,Stable,Facultatif,Oui,2023,,IQSS
+6170bd7c-c0d4-4bda-8fc9-072ab18fd2d1,912d3baf-eb18-4667-a6ad-67e82912aea4,76.22,76.02,82.55,80.9,82.2,49.15,69.96,B,Stable,Facultatif,Oui,2023,,IQSS
+5d15a816-00ba-47de-a247-0e898e57355e,0d7e86a8-7b2e-449d-b3b1-6c7a74169e55,,,,,,,,DI,,Facultatif,Oui,2023,,IQSS
+5d15a816-00ba-47de-a247-0e898e57355e,f35df3a2-6251-4049-b3bf-4a918557652a,,,,,,,,DI,,Facultatif,Oui,2023,,IQSS
+b2e7761b-b486-43b6-95b4-165fb95077a0,4ed882af-99d3-4f68-8c48-1ffa6b7e1bab,69.01,75.16,83.69,71.65,67.29,58.39,62.63,C,Non calculable,Facultatif,Oui,2023,,IQSS
+b2e7761b-b486-43b6-95b4-165fb95077a0,a4ef5767-4ad0-4bcf-8255-486bb86318d7,69.01,75.16,83.69,71.65,67.29,58.39,62.63,C,Non calculable,Facultatif,Oui,2023,,IQSS
+c30abf67-89ca-4b9b-9616-95451cc21f94,deab1f6e-2adb-405e-8010-2c132e732963,,,,,,,,DI,,Facultatif,Oui,2023,,IQSS
+c30abf67-89ca-4b9b-9616-95451cc21f94,d3c08cc7-854f-41f2-b68a-d57d16bac346,,,,,,,,DI,,Facultatif,Oui,2023,,IQSS
+372cd5ad-5627-465c-b8d2-cc2c3323adbc,2e3439d5-f623-4823-8b5c-c7f24c0597a9,75.26,75.16,83.07,79.53,73.57,59.92,69.94,B,Stable,Obligatoire,Oui,2023,,IQSS
+372cd5ad-5627-465c-b8d2-cc2c3323adbc,a30f5653-def7-4508-9cd5-ba6925c89a0f,75.26,75.16,83.07,79.53,73.57,59.92,69.94,B,Stable,Obligatoire,Oui,2023,,IQSS
+f21f11aa-bb8a-464e-9d4d-4eafb9031551,e2ae7b43-76b7-4220-a254-aa7efc06ece9,77.0,75.0,82.36,80.17,79.38,71.2,65.04,A,Amélioration,Obligatoire,Oui,2023,,IQSS
+f21f11aa-bb8a-464e-9d4d-4eafb9031551,4a2eff23-0918-40f3-b32d-6e50b604acab,77.0,75.0,82.36,80.17,79.38,71.2,65.04,A,Amélioration,Obligatoire,Oui,2023,,IQSS
+bff11099-3e5c-4a33-ab07-fcb3aad460d9,58021a02-51fd-4f71-ac3a-0926885b5f3e,75.68,75.0,86.0,78.44,73.33,79.59,62.99,B,Amélioration,Facultatif,Oui,2023,,IQSS
+bff11099-3e5c-4a33-ab07-fcb3aad460d9,c6753db4-9416-4325-8e72-8a97b7da45c1,75.68,75.0,86.0,78.44,73.33,79.59,62.99,B,Amélioration,Facultatif,Oui,2023,,IQSS
+a296b754-40e3-49a3-99a0-a685ecf70a18,f81287e2-44e2-44d2-b8a5-d98119d25b93,,,,,,,,DI,,Obligatoire,Oui,2023,,IQSS
+a296b754-40e3-49a3-99a0-a685ecf70a18,37f9f0bc-d69a-4213-af01-e7b0ba330b39,,,,,,,,DI,,Obligatoire,Oui,2023,,IQSS
+57210ded-af96-4726-8025-6881de5cf727,75428047-df79-4c42-8642-189b4366c9c0,81.57,75.0,89.21,83.75,78.59,80.46,74.99,A,Stable,Obligatoire,Oui,2023,,IQSS
+57210ded-af96-4726-8025-6881de5cf727,7c22b840-d591-425a-bb59-6cc1f9398740,81.57,75.0,89.21,83.75,78.59,80.46,74.99,A,Stable,Obligatoire,Oui,2023,,IQSS
+254c01ef-da8a-43b3-b20a-47d9fd72460d,a1a9e683-f031-446a-9fa2-77653e9c1028,57.66,75.0,63.45,57.97,59.56,61.46,48.74,D,Stable,Facultatif,Oui,2023,,IQSS
+254c01ef-da8a-43b3-b20a-47d9fd72460d,6a707040-3ac6-4f39-be72-6ced4547c3bb,57.66,75.0,63.45,57.97,59.56,61.46,48.74,D,Stable,Facultatif,Oui,2023,,IQSS
+4a09216a-7f28-4794-aaf3-b76fa9331919,454ddb05-cf67-48d5-9e61-d62ecea4c9d7,81.31,75.0,91.56,84.49,71.33,85.2,76.07,A,Stable,Facultatif,Oui,2023,,IQSS
+4a09216a-7f28-4794-aaf3-b76fa9331919,35a27418-4ea9-4496-b93f-879ccffc8954,81.31,75.0,91.56,84.49,71.33,85.2,76.07,A,Stable,Facultatif,Oui,2023,,IQSS
+6e1ce70d-a196-4590-915a-823d2311f773,23a81470-0844-4dc6-a305-e4037ead620c,,,,,,,,DI,,Facultatif,Oui,2023,,IQSS
+6e1ce70d-a196-4590-915a-823d2311f773,1b7b4a90-db30-4832-8ba9-bd00a08f4466,,,,,,,,DI,,Facultatif,Oui,2023,,IQSS
+a74f6545-d330-4f14-ae64-31918ec20488,86fe03f2-1478-4a67-b876-53a74420585b,,,,,,,,DI,,Facultatif,Oui,2023,,IQSS
+a74f6545-d330-4f14-ae64-31918ec20488,205b7713-1bec-4232-b794-347023920df7,,,,,,,,DI,,Facultatif,Oui,2023,,IQSS
+c4ec982b-f095-4257-9faa-4bf1e06b0655,4c6e4889-99e0-48f0-9429-d6b9d211e713,,,,,,,,DI,,Facultatif,Oui,2023,,IQSS
+c4ec982b-f095-4257-9faa-4bf1e06b0655,b3694379-4d00-4d30-9d5f-913048ec69c0,,,,,,,,DI,,Facultatif,Oui,2023,,IQSS
+321ac52d-12dc-4482-b4c9-0f7264d5d3d7,498a872f-d081-481f-87e9-7495408eb1af,79.36,77.76,87.14,81.84,82.58,63.42,74.87,A,Stable,Obligatoire,Oui,2023,,IQSS
+321ac52d-12dc-4482-b4c9-0f7264d5d3d7,d4219373-7cc5-4c12-bc4f-c54da6915756,79.36,77.76,87.14,81.84,82.58,63.42,74.87,A,Stable,Obligatoire,Oui,2023,,IQSS
+d53914c3-a438-4e45-8674-34894a9dc02c,a9a38b5a-2b3d-4d36-93d2-f7bbfefed48c,79.9,77.76,86.12,83.58,79.47,72.55,70.6,A,Stable,Obligatoire,Oui,2023,,IQSS
+d53914c3-a438-4e45-8674-34894a9dc02c,eb201b5c-f037-4ee9-bb4a-0692afff1716,79.9,77.76,86.12,83.58,79.47,72.55,70.6,A,Stable,Obligatoire,Oui,2023,,IQSS
+9451b7c5-d2dc-4539-9919-1467286ebe8d,be4f2b44-242c-424f-8604-763b70b2d0b8,83.23,77.76,88.38,86.35,82.72,69.86,80.87,A,Stable,Facultatif,Oui,2023,,IQSS
+9451b7c5-d2dc-4539-9919-1467286ebe8d,43bdc73a-14ba-4b83-babb-3f2bdb671dd2,83.23,77.76,88.38,86.35,82.72,69.86,80.87,A,Stable,Facultatif,Oui,2023,,IQSS
+61c43e5f-30ee-457f-a60c-ba7336ade11e,73820321-ab02-4752-8568-a458431989eb,77.21,77.76,82.74,79.0,77.68,78.12,67.4,A,Stable,Obligatoire,Oui,2023,,IQSS
+61c43e5f-30ee-457f-a60c-ba7336ade11e,853ea703-7c33-4c2a-8696-cd232775d118,77.21,77.76,82.74,79.0,77.68,78.12,67.4,A,Stable,Obligatoire,Oui,2023,,IQSS
+964f92ae-36ff-477c-a5c8-0fb2042818a6,11e3e5ce-62e9-4205-9615-d899c35357e5,,,,,,,,DI,,Facultatif,Oui,2023,,IQSS
+964f92ae-36ff-477c-a5c8-0fb2042818a6,9ab8a03a-2b37-4243-970f-b055d91bb93e,,,,,,,,DI,,Facultatif,Oui,2023,,IQSS
+509d327d-6ff8-4799-b529-c48db5a1e7cb,f2699744-9e03-4820-80b4-761fe91c3ce9,76.13,77.76,82.73,80.07,80.59,56.4,68.62,B,Diminution,Obligatoire,Oui,2023,,IQSS
+509d327d-6ff8-4799-b529-c48db5a1e7cb,8e73036b-5864-40ed-b28a-de3bcc2f5be9,76.13,77.76,82.73,80.07,80.59,56.4,68.62,B,Diminution,Obligatoire,Oui,2023,,IQSS
+06b89279-76f1-4df0-9fce-e5f845208b3f,741570cb-bddc-424d-b651-dd2ee04a22c5,71.88,75.26,81.51,75.55,70.74,62.51,64.26,C,Diminution,Obligatoire,Oui,2023,,IQSS
+06b89279-76f1-4df0-9fce-e5f845208b3f,7407c4a8-20f3-406a-84a5-83a0a30ebfe8,71.88,75.26,81.51,75.55,70.74,62.51,64.26,C,Diminution,Obligatoire,Oui,2023,,IQSS
+4076fe9f-0686-4047-85b1-a6d3a1a6d679,01341395-637a-4871-87a8-8aa6389b36d2,,,,,,,,DI,,Facultatif,Oui,2023,,IQSS
+4076fe9f-0686-4047-85b1-a6d3a1a6d679,d6c1dbc8-24b8-45dc-b8cd-ad5912ff83c2,,,,,,,,DI,,Facultatif,Oui,2023,,IQSS
+c524077f-a4ea-4000-9d7a-61cf1393ca82,9f434513-eb9c-4c6b-a16b-fa8ba22ffa96,78.0,75.26,83.94,81.18,76.51,73.7,69.88,A,Stable,Facultatif,Oui,2023,,IQSS
+c524077f-a4ea-4000-9d7a-61cf1393ca82,c3b91035-e2cd-4796-bbc3-e1c894a6e49b,78.0,75.26,83.94,81.18,76.51,73.7,69.88,A,Stable,Facultatif,Oui,2023,,IQSS
+551192d2-74a8-4b17-a593-f9697f3b446c,13e4a380-c803-454f-8e3e-e4da6beff1f5,75.89,75.26,85.32,77.6,77.01,73.8,65.91,B,Stable,Obligatoire,Oui,2023,,IQSS
+551192d2-74a8-4b17-a593-f9697f3b446c,075abf23-4680-45df-80d9-18151a86af09,75.89,75.26,85.32,77.6,77.01,73.8,65.91,B,Stable,Obligatoire,Oui,2023,,IQSS
+b19ca95b-27be-4271-ba0a-c564106f5a63,c07296c3-c948-4a5e-94e1-846bed0bb196,,,,,,,,DI,,Facultatif,Oui,2023,,IQSS
+b19ca95b-27be-4271-ba0a-c564106f5a63,c65f9f1d-0475-4e1f-b16b-e7b8c2b656d8,,,,,,,,DI,,Facultatif,Oui,2023,,IQSS
+46333dad-caae-40c1-9135-a5276d9f884d,fb4cb1b7-5725-49d1-9950-676adb8a917e,74.76,75.19,87.18,75.38,82.42,73.38,58.66,B,Non calculable,Obligatoire,Oui,2023,,IQSS
+46333dad-caae-40c1-9135-a5276d9f884d,973e918a-8a24-4598-9426-82ba1d92922e,74.76,75.19,87.18,75.38,82.42,73.38,58.66,B,Non calculable,Obligatoire,Oui,2023,,IQSS
+34b6367a-632a-4b0b-b07f-ce9f2d1a8651,e724aed2-e398-4dfb-96d2-e4643df88269,,,,,,,,DI,,Facultatif,Oui,2023,,IQSS
+34b6367a-632a-4b0b-b07f-ce9f2d1a8651,2c17fe97-9b01-4d02-ad47-cb3f3cdec341,,,,,,,,DI,,Facultatif,Oui,2023,,IQSS
+f1e806f1-4d92-4bf7-a351-89b7589186ea,606e126f-73bb-4d0c-ae9d-5f2c99450ec5,68.44,75.19,73.94,74.35,64.09,53.05,62.46,D,Diminution,Obligatoire,Oui,2023,,IQSS
+f1e806f1-4d92-4bf7-a351-89b7589186ea,b1c65d9f-acd7-4f79-9448-244f8635f3a2,68.44,75.19,73.94,74.35,64.09,53.05,62.46,D,Diminution,Obligatoire,Oui,2023,,IQSS
+27e4cb7c-2f34-47c7-8e84-d6b85eafa70e,572f82e0-a1cb-40bc-ba9c-c9b9eaa4ab61,,,,,,,,DI,,Facultatif,Oui,2023,,IQSS
+27e4cb7c-2f34-47c7-8e84-d6b85eafa70e,159a0f4d-64aa-439f-b73f-ebf07e9e76b0,,,,,,,,DI,,Facultatif,Oui,2023,,IQSS
+d646b64f-831b-4417-9a6d-540738bc94fc,6c86bebd-6bf9-4721-b020-f0a2a091298e,78.33,75.19,82.49,81.46,78.71,66.98,74.68,A,Amélioration,Obligatoire,Oui,2023,,IQSS
+d646b64f-831b-4417-9a6d-540738bc94fc,d93aed46-39a3-4f15-87af-bfd4de6484f6,78.33,75.19,82.49,81.46,78.71,66.98,74.68,A,Amélioration,Obligatoire,Oui,2023,,IQSS
+f7c06e89-8a48-4078-b85b-a07cf449ddf9,d81dc6ab-600e-45ac-bb31-ffc676c01229,,,,,,,,DI,,Facultatif,Oui,2023,,IQSS
+f7c06e89-8a48-4078-b85b-a07cf449ddf9,c49c9ff9-7fad-4217-9431-51546dd9b7bb,,,,,,,,DI,,Facultatif,Oui,2023,,IQSS
+a42c9812-4dee-4984-96f3-acf63ea6d8ba,e7ad59c2-7495-4b54-bed4-b6654beaf927,,,,,,,,DI,,Facultatif,Oui,2023,,IQSS
+a42c9812-4dee-4984-96f3-acf63ea6d8ba,19b00a0c-c1cb-499c-afb0-1eae141cdcea,,,,,,,,DI,,Facultatif,Oui,2023,,IQSS
+1c49aeec-1612-404f-89b4-6f1883924d24,0676716a-2130-4351-8f71-ea8eeb0e6e59,,,,,,,,DI,,Facultatif,Oui,2023,,IQSS
+1c49aeec-1612-404f-89b4-6f1883924d24,88c85b2f-9970-4083-9c09-6a5fbbdb4796,,,,,,,,DI,,Facultatif,Oui,2023,,IQSS
+f56864b3-5372-4341-aa9e-1fbd1f01c3cb,53dddd07-4fd3-41da-8746-ed7e594c3f95,,,,,,,,DI,,Facultatif,Oui,2023,,IQSS
+f56864b3-5372-4341-aa9e-1fbd1f01c3cb,e1f8ec92-b529-4d72-95e3-dc7e63bd72e9,,,,,,,,DI,,Facultatif,Oui,2023,,IQSS
+9d412728-3be2-40bb-9863-7f01534e5218,75c3c483-c6e3-4a4d-b71c-efc1e1e8aac8,69.38,75.19,78.68,75.83,58.11,57.0,66.65,C,Non calculable,Facultatif,Oui,2023,,IQSS
+9d412728-3be2-40bb-9863-7f01534e5218,80d6998e-afd1-4747-87f3-1601286936d4,69.38,75.19,78.68,75.83,58.11,57.0,66.65,C,Non calculable,Facultatif,Oui,2023,,IQSS
+381972e9-0c94-4adf-a174-a1c161ac547f,541414d6-ae35-4e2e-b518-d2b177837328,,,,,,,,DI,,Facultatif,Oui,2023,,IQSS
+381972e9-0c94-4adf-a174-a1c161ac547f,fd844d82-bb67-4cb7-b903-5d82bf586c9b,,,,,,,,DI,,Facultatif,Oui,2023,,IQSS
+a4065f15-be64-404f-a673-42469c13da6a,d0d09cae-99f5-42d8-bef6-cdf78b13379f,72.15,75.19,77.46,76.27,70.72,67.16,61.5,C,Stable,Obligatoire,Oui,2023,,IQSS
+a4065f15-be64-404f-a673-42469c13da6a,b458c5a6-d870-4cef-b80c-16d22f3a69f0,72.15,75.19,77.46,76.27,70.72,67.16,61.5,C,Stable,Obligatoire,Oui,2023,,IQSS
+82340c95-262e-448b-bee4-c110337e0767,0dbcd4c0-e167-4547-b741-2376b9670f76,69.26,75.19,78.36,74.61,71.59,53.08,56.49,C,Non calculable,Obligatoire,Oui,2023,,IQSS
+82340c95-262e-448b-bee4-c110337e0767,ba63e5ac-22ad-4d08-8747-440f25216366,69.26,75.19,78.36,74.61,71.59,53.08,56.49,C,Non calculable,Obligatoire,Oui,2023,,IQSS
+a3ca1cd2-f29f-497b-a3e4-7f4498839324,ea07b05b-3787-4e30-8863-50980cfd2339,80.54,75.19,86.28,85.21,74.22,72.44,75.83,A,Stable,Obligatoire,Oui,2023,,IQSS
+a3ca1cd2-f29f-497b-a3e4-7f4498839324,ede8891a-8456-42dc-8b46-7ab372e3f1c7,80.54,75.19,86.28,85.21,74.22,72.44,75.83,A,Stable,Obligatoire,Oui,2023,,IQSS
+597d7590-a63a-47cb-b381-23a093ef8687,8679f6e6-aae7-40b9-82a2-d8f5a4152f70,74.28,75.19,78.35,74.82,82.47,64.04,68.32,B,Amélioration,Facultatif,Oui,2023,,IQSS
+597d7590-a63a-47cb-b381-23a093ef8687,44a3d3cd-c786-467d-8f01-c7381d430517,74.28,75.19,78.35,74.82,82.47,64.04,68.32,B,Amélioration,Facultatif,Oui,2023,,IQSS
+2d45a6b8-fb52-45dc-bda5-06a5b49b35ea,f55f9386-135f-4b2d-93d5-e54b84f376ba,75.67,75.19,85.09,79.4,74.61,68.68,64.08,B,Stable,Facultatif,Oui,2023,,IQSS
+2d45a6b8-fb52-45dc-bda5-06a5b49b35ea,8f0593f0-e6f7-4c71-aada-8e692d3b0c47,75.67,75.19,85.09,79.4,74.61,68.68,64.08,B,Stable,Facultatif,Oui,2023,,IQSS
+c393864a-bceb-4435-841b-d2e977522917,aca00605-cdb2-427a-b5b4-2ceee88b10b6,,,,,,,,DI,,Facultatif,Oui,2023,,IQSS
+c393864a-bceb-4435-841b-d2e977522917,8d467ea8-c0ed-4d2e-9449-350141e1ca69,,,,,,,,DI,,Facultatif,Oui,2023,,IQSS
+10ec7957-c8a9-42ff-bb41-c8d359537d51,9f037d0c-c24a-45ec-8d43-16d9edb201d6,79.82,75.19,85.67,84.49,74.27,75.44,72.02,A,Amélioration,Obligatoire,Oui,2023,,IQSS
+10ec7957-c8a9-42ff-bb41-c8d359537d51,90d73085-94a1-4876-830f-6a6015f1357a,79.82,75.19,85.67,84.49,74.27,75.44,72.02,A,Amélioration,Obligatoire,Oui,2023,,IQSS
+7a09f18d-ad7b-4929-9de3-593339fbff9a,78192a83-6d67-49af-a8c4-241f3573296a,,,,,,,,DI,,Facultatif,Oui,2023,,IQSS
+7a09f18d-ad7b-4929-9de3-593339fbff9a,c72ffa1a-f400-48b4-ae23-b687a51f52f7,,,,,,,,DI,,Facultatif,Oui,2023,,IQSS
+cc3ccfe5-6497-4c0f-9b06-f0e40c826af9,c031252d-dc31-4e5a-993e-5574354ec940,,,,,,,,DI,,Facultatif,Oui,2023,,IQSS
+cc3ccfe5-6497-4c0f-9b06-f0e40c826af9,81e16932-4eb8-443d-b975-07d6518cc04e,,,,,,,,DI,,Facultatif,Oui,2023,,IQSS
+79f591be-21a2-4d8f-b010-d6007306e2cc,989661bc-5f88-458f-9612-8f8c5745f598,69.98,75.19,70.51,75.13,70.29,58.49,60.95,C,Amélioration,Facultatif,Oui,2023,,IQSS
+79f591be-21a2-4d8f-b010-d6007306e2cc,512e83af-4770-440f-aba4-519e974f6747,69.98,75.19,70.51,75.13,70.29,58.49,60.95,C,Amélioration,Facultatif,Oui,2023,,IQSS
+28145eb6-3f8b-47c5-8906-b6c88f7a7b73,64398c17-addc-40d0-b76d-bfe2f3fe88a2,67.38,75.19,68.88,71.09,67.71,52.35,64.88,D,Non calculable,Obligatoire,Oui,2023,,IQSS
+28145eb6-3f8b-47c5-8906-b6c88f7a7b73,8c73ca4e-4842-4e0a-8533-db41051e913a,67.38,75.19,68.88,71.09,67.71,52.35,64.88,D,Non calculable,Obligatoire,Oui,2023,,IQSS
+ec0cd884-70c4-42b3-b38b-573edc937a43,ace819ea-992a-4f0d-9628-642f6c322855,74.0,75.19,79.62,76.44,75.85,68.2,66.89,B,Non calculable,Facultatif,Oui,2023,,IQSS
+ec0cd884-70c4-42b3-b38b-573edc937a43,d052a161-2b5c-4d3a-b467-473f0c9ae14f,74.0,75.19,79.62,76.44,75.85,68.2,66.89,B,Non calculable,Facultatif,Oui,2023,,IQSS
+646d9bf7-3f72-43ef-8843-833ab9b2880a,6f91127f-26ce-4bfe-8504-505ed4e3b727,67.15,75.19,71.97,70.23,75.05,48.68,58.89,D,Diminution,Obligatoire,Oui,2023,,IQSS
+646d9bf7-3f72-43ef-8843-833ab9b2880a,f5dc4836-4e53-477c-a43d-2ef21bd10566,67.15,75.19,71.97,70.23,75.05,48.68,58.89,D,Diminution,Obligatoire,Oui,2023,,IQSS
+e8d25c12-c075-4939-8ce1-40812ce4970e,d83f0d2e-ac67-43c2-886c-0a06cc318148,72.1,75.19,74.54,75.14,76.42,55.45,67.42,C,Non calculable,Obligatoire,Oui,2023,,IQSS
+e8d25c12-c075-4939-8ce1-40812ce4970e,ef9082ce-fc08-426d-bd89-89d444c02ec7,72.1,75.19,74.54,75.14,76.42,55.45,67.42,C,Non calculable,Obligatoire,Oui,2023,,IQSS
+9feab7c3-0934-4aa3-a2e5-87b0dc18bc14,557a28ef-c3da-4cf3-9c7a-b7ac6eac42ef,,,,,,,,DI,,Facultatif,Oui,2023,,IQSS
+9feab7c3-0934-4aa3-a2e5-87b0dc18bc14,3b5b772f-59f3-4912-98ce-18d09418a184,,,,,,,,DI,,Facultatif,Oui,2023,,IQSS
+267cbe03-d21f-4de8-be30-00bea6e386b8,34385afb-d262-4611-b964-99ffbce6d260,73.13,75.19,79.99,75.92,75.34,57.26,68.94,B,Stable,Facultatif,Oui,2023,,IQSS
+267cbe03-d21f-4de8-be30-00bea6e386b8,9fa2eadd-ae85-42b4-bca6-aad4908802fe,73.13,75.19,79.99,75.92,75.34,57.26,68.94,B,Stable,Facultatif,Oui,2023,,IQSS
+db92708f-6b0d-458c-8323-608fe887ec9b,a3d6e450-cc5e-4bd0-b433-dbb5f27fcdac,73.67,76.84,79.03,79.26,75.29,55.73,64.23,B,Non calculable,Facultatif,Oui,2023,,IQSS
+db92708f-6b0d-458c-8323-608fe887ec9b,3bf46cb5-a682-4258-a551-abd0e2610a71,73.67,76.84,79.03,79.26,75.29,55.73,64.23,B,Non calculable,Facultatif,Oui,2023,,IQSS
+b96b5fc5-0b14-4208-976c-16fbf964590c,60b0520d-b195-49cc-a61d-86832fd41d9b,81.05,76.84,84.93,85.04,84.58,63.0,75.33,A,Stable,Obligatoire,Oui,2023,,IQSS
+b96b5fc5-0b14-4208-976c-16fbf964590c,c1d553df-96ef-4b04-927c-90f030d6505d,81.05,76.84,84.93,85.04,84.58,63.0,75.33,A,Stable,Obligatoire,Oui,2023,,IQSS
+bfd84899-2f11-4931-8d6b-b282bf8170bb,c545555f-f440-49fd-b41a-215a66840e6a,76.41,76.84,80.17,78.39,79.99,63.74,72.52,B,Amélioration,Obligatoire,Oui,2023,,IQSS
+bfd84899-2f11-4931-8d6b-b282bf8170bb,398ae6d7-d942-4c66-a968-7332aee42aee,76.41,76.84,80.17,78.39,79.99,63.74,72.52,B,Amélioration,Obligatoire,Oui,2023,,IQSS
+9f78926c-9f61-4d2f-9ecd-ca247217864c,96dbd923-75ed-47f9-a568-7bcc2695cad8,,,,,,,,DI,,Facultatif,Oui,2023,,IQSS
+9f78926c-9f61-4d2f-9ecd-ca247217864c,e6ec6358-2f29-46b8-935f-f75dcfee8bd6,,,,,,,,DI,,Facultatif,Oui,2023,,IQSS
+4d524d96-b9fa-4ade-b416-1800969d6f88,fbbc935c-b033-467b-afbd-335ee4182c0a,,,,,,,,DI,,Facultatif,Oui,2023,,IQSS
+4d524d96-b9fa-4ade-b416-1800969d6f88,6536f0fe-de50-4777-bfda-bfc781c2fd86,,,,,,,,DI,,Facultatif,Oui,2023,,IQSS
+2dff0cd8-5033-4d19-922b-217a8a1942ab,68ed828d-799b-4f4c-9f0e-3dc2e8fdb199,68.89,76.84,72.87,73.13,71.43,54.33,61.07,C,Stable,Facultatif,Oui,2023,,IQSS
+2dff0cd8-5033-4d19-922b-217a8a1942ab,330c8cf1-4b4c-43b2-922d-5028119ca807,68.89,76.84,72.87,73.13,71.43,54.33,61.07,C,Stable,Facultatif,Oui,2023,,IQSS
+64ff11bd-40c2-4e97-aced-6f37dc554d28,f37bfab5-d08a-4bc7-b083-5584b603db21,,,,,,,,DI,,Facultatif,Oui,2023,,IQSS
+64ff11bd-40c2-4e97-aced-6f37dc554d28,42bd51ea-2f12-4aa7-a48a-c8cb94c0420a,,,,,,,,DI,,Facultatif,Oui,2023,,IQSS
+aa0694d7-ae3b-43d8-b7a4-6a623c1593b5,1eafe2bd-53e6-48bb-a8b4-94a1fc68095f,80.74,76.84,86.03,82.74,78.06,78.76,76.66,A,Stable,Obligatoire,Oui,2023,,IQSS
+aa0694d7-ae3b-43d8-b7a4-6a623c1593b5,f852060b-7efb-4b2b-a506-31ab1da31b96,80.74,76.84,86.03,82.74,78.06,78.76,76.66,A,Stable,Obligatoire,Oui,2023,,IQSS
+f25a578b-e9a4-490f-ad08-022a046e998f,0d8f9b43-377a-49cf-9b5e-a0bef185ec2f,77.72,76.84,85.66,82.15,76.74,64.54,70.21,A,Amélioration,Obligatoire,Oui,2023,,IQSS
+f25a578b-e9a4-490f-ad08-022a046e998f,8fd0ca27-c9e8-428b-90f6-ff916fed8488,77.72,76.84,85.66,82.15,76.74,64.54,70.21,A,Amélioration,Obligatoire,Oui,2023,,IQSS
+12713fc9-37d6-4696-814a-29b491949e93,4cfb805e-ad69-4c71-94af-734c3b677e99,,,,,,,,DI,,Facultatif,Oui,2023,,IQSS
+12713fc9-37d6-4696-814a-29b491949e93,038f34b9-aa60-4b43-9baa-f91fab34a214,,,,,,,,DI,,Facultatif,Oui,2023,,IQSS
+53113eec-dff4-4053-be0a-f47be8c81b6c,e5099a89-1edb-4de6-bb7b-218da8d618c0,,,,,,,,DI,,Facultatif,Oui,2023,,IQSS
+53113eec-dff4-4053-be0a-f47be8c81b6c,8b3d82ce-a864-4fad-b703-bf745b55a6a9,,,,,,,,DI,,Facultatif,Oui,2023,,IQSS
+ca6af32a-7878-4040-b270-1b1887f10fd5,55cf7ddd-cd13-413d-bddb-bb7cce12ac9b,77.89,76.84,83.79,80.22,80.8,71.66,68.64,A,Stable,Obligatoire,Oui,2023,,IQSS
+ca6af32a-7878-4040-b270-1b1887f10fd5,8423a1c5-8382-4bc2-bede-81a536b04dda,77.89,76.84,83.79,80.22,80.8,71.66,68.64,A,Stable,Obligatoire,Oui,2023,,IQSS
+b9a28402-f026-473e-beb8-68b2fe3de170,a2487bb9-ba62-4c73-ac24-e2e0fdefe56b,76.22,76.84,78.74,79.54,73.95,71.73,70.19,B,Stable,Obligatoire,Oui,2023,,IQSS
+b9a28402-f026-473e-beb8-68b2fe3de170,9a896a86-03cc-482b-8e9d-648289edc0b0,76.22,76.84,78.74,79.54,73.95,71.73,70.19,B,Stable,Obligatoire,Oui,2023,,IQSS
+aa97119d-f5bb-43ad-b09e-7eee1d53aead,9680a5b5-daf9-44c9-8851-876d6f62b144,,,,,,,,DI,,Facultatif,Oui,2023,,IQSS
+aa97119d-f5bb-43ad-b09e-7eee1d53aead,aadcfd03-50ee-4860-9232-825443673af8,,,,,,,,DI,,Facultatif,Oui,2023,,IQSS
+12e71873-d562-4ace-ab67-9a6964ac80f6,6934bd8b-b526-4b3c-b4e9-204da45e2921,,,,,,,,DI,,Facultatif,Oui,2023,,IQSS
+12e71873-d562-4ace-ab67-9a6964ac80f6,81e0e05b-2675-4cc8-b393-8c7d4fe8447a,,,,,,,,DI,,Facultatif,Oui,2023,,IQSS
+d3a6ff67-00dd-4984-8dcc-5e066ef27ecb,ac585b45-058b-4d3c-91ff-f6473934f71b,69.2,76.84,78.9,69.94,75.68,63.41,58.55,C,Amélioration,Facultatif,Oui,2023,,IQSS
+d3a6ff67-00dd-4984-8dcc-5e066ef27ecb,0825ab9c-b3b3-452c-ac04-9175b48763d1,69.2,76.84,78.9,69.94,75.68,63.41,58.55,C,Amélioration,Facultatif,Oui,2023,,IQSS
+f9f29f3c-5ebe-4b13-82ad-826c4b85ca9c,9f97f1fd-f2aa-4c42-b4e8-9a2ac0daaccc,71.6,76.84,78.35,77.1,73.49,47.1,65.71,C,Stable,Obligatoire,Oui,2023,,IQSS
+f9f29f3c-5ebe-4b13-82ad-826c4b85ca9c,0065fd87-17e9-49b9-8337-dab5c6b8d574,71.6,76.84,78.35,77.1,73.49,47.1,65.71,C,Stable,Obligatoire,Oui,2023,,IQSS
+3ad1f9bb-3f66-43ef-88f0-92b2b7a5c745,be8b00da-e09d-4a04-8cca-3b0ef0dd2ad7,81.07,75.19,88.42,82.61,83.0,75.37,75.28,A,Amélioration,Facultatif,Oui,2023,,IQSS
+3ad1f9bb-3f66-43ef-88f0-92b2b7a5c745,b2f6bd85-9e7c-43f5-b670-ec861db745f4,81.07,75.19,88.42,82.61,83.0,75.37,75.28,A,Amélioration,Facultatif,Oui,2023,,IQSS
+6f72af61-8d51-4fe7-af63-15f6dfa241a1,7492c935-4c40-4b99-9ae9-89340feaf0b8,78.98,75.19,84.49,82.22,76.96,75.21,71.36,A,Stable,Obligatoire,Oui,2023,,IQSS
+6f72af61-8d51-4fe7-af63-15f6dfa241a1,d5462094-bb77-4c8b-b74a-0e24cbc5dafd,78.98,75.19,84.49,82.22,76.96,75.21,71.36,A,Stable,Obligatoire,Oui,2023,,IQSS
+3f5371d7-267c-44dc-8a83-f85e531947d8,6982a011-af99-4124-9c87-ea0f214bf7be,,,,,,,,DI,,Facultatif,Oui,2023,,IQSS
+3f5371d7-267c-44dc-8a83-f85e531947d8,fbba69b1-5b63-4fa0-95e2-cea212bdc0ab,,,,,,,,DI,,Facultatif,Oui,2023,,IQSS
+76f2d5ec-a57b-4ba0-85a4-44064786d240,0bab977a-a47c-494a-b5f0-8ad0beb46d70,,,,,,,,DI,,Obligatoire,Oui,2023,,IQSS
+76f2d5ec-a57b-4ba0-85a4-44064786d240,cbb156da-b8ec-43ff-a791-d467833a6ca9,,,,,,,,DI,,Obligatoire,Oui,2023,,IQSS
+f86ec303-9b73-4f14-b45d-ff2e87213c7f,1d48f930-d32d-4e7c-ad08-93a01a80e8d2,71.31,75.19,77.16,73.67,75.72,60.02,63.72,C,Stable,Facultatif,Oui,2023,,IQSS
+f86ec303-9b73-4f14-b45d-ff2e87213c7f,08f1617d-f691-4ecc-988e-c6f97e09a30b,71.31,75.19,77.16,73.67,75.72,60.02,63.72,C,Stable,Facultatif,Oui,2023,,IQSS
+0c153c04-4545-4769-8f70-d1b3223b2079,01e04b1b-f7f8-40ab-8c66-7b222ceb81e7,69.6,75.19,78.18,71.83,78.93,54.82,57.29,C,Stable,Facultatif,Oui,2023,,IQSS
+0c153c04-4545-4769-8f70-d1b3223b2079,1b7c4f90-5b1d-4ac3-ae52-37060ed47abd,69.6,75.19,78.18,71.83,78.93,54.82,57.29,C,Stable,Facultatif,Oui,2023,,IQSS
+5a797bea-4008-439b-b513-2039b503c955,35cf4be3-54cf-4300-84e8-bafbfade11c3,81.65,75.19,88.37,84.33,81.37,77.81,72.59,A,Stable,Obligatoire,Oui,2023,,IQSS
+5a797bea-4008-439b-b513-2039b503c955,43c9cf98-7920-4a83-8989-631cc26705aa,81.65,75.19,88.37,84.33,81.37,77.81,72.59,A,Stable,Obligatoire,Oui,2023,,IQSS
+99f59a10-ebee-4c1c-9b8c-55b5eebb51d5,48ae4c8d-edc2-42b0-a414-a7729c2d1c6b,75.08,75.19,78.07,78.11,75.35,66.15,69.88,B,Stable,Obligatoire,Oui,2023,,IQSS
+99f59a10-ebee-4c1c-9b8c-55b5eebb51d5,2abc3784-7a9f-482f-bc98-3e9c610e8251,75.08,75.19,78.07,78.11,75.35,66.15,69.88,B,Stable,Obligatoire,Oui,2023,,IQSS
+6f0fcdab-7a8f-4cb9-8f5d-636953290e9a,a83752ac-9ca8-4026-9340-a01233eefaaa,64.17,75.19,68.8,65.18,68.78,63.78,55.28,D,Stable,Facultatif,Oui,2023,,IQSS
+6f0fcdab-7a8f-4cb9-8f5d-636953290e9a,d2817ff0-abfb-470c-b51b-4789907142af,64.17,75.19,68.8,65.18,68.78,63.78,55.28,D,Stable,Facultatif,Oui,2023,,IQSS
+9dac113a-b6c9-4e72-9602-0538655c4eac,8bf445ad-b4a4-4a23-96d9-22d924fc2ba0,79.67,75.19,86.75,81.85,84.56,68.3,71.07,A,Stable,Obligatoire,Oui,2023,,IQSS
+9dac113a-b6c9-4e72-9602-0538655c4eac,23538bec-618a-4a95-8a9b-a6fdfd72fe5a,79.67,75.19,86.75,81.85,84.56,68.3,71.07,A,Stable,Obligatoire,Oui,2023,,IQSS
+917f32f5-9683-4d3f-a49a-b10249bb353e,c6bca322-f368-4718-93d9-d6e9eaac29e4,75.74,75.19,76.51,76.89,71.24,84.98,70.99,B,Stable,Obligatoire,Oui,2023,,IQSS
+917f32f5-9683-4d3f-a49a-b10249bb353e,12629f55-8818-4768-b1aa-1b5184e809ae,75.74,75.19,76.51,76.89,71.24,84.98,70.99,B,Stable,Obligatoire,Oui,2023,,IQSS
+528b7909-f9d8-41ff-9599-e2dce8a87156,e7bac6cb-1f4e-4e82-b85a-c51cd4951239,,,,,,,,DI,,Facultatif,Oui,2023,,IQSS
+528b7909-f9d8-41ff-9599-e2dce8a87156,6017bb45-5c46-4c41-8e10-a07e6851a736,,,,,,,,DI,,Facultatif,Oui,2023,,IQSS
+68efa0bb-92ec-4216-8476-255cac701ae7,100a4a5f-2773-485a-8815-28e475b87ad6,74.6,75.19,77.43,78.15,69.37,73.58,68.66,B,Non calculable,Facultatif,Oui,2023,,IQSS
+68efa0bb-92ec-4216-8476-255cac701ae7,df9801ff-52da-4382-8fd5-ab1e0fce220a,74.6,75.19,77.43,78.15,69.37,73.58,68.66,B,Non calculable,Facultatif,Oui,2023,,IQSS
+8c3612a9-8ba3-4135-ae04-4644b7a191d7,10d8253f-71f6-4830-bcc9-a56d9c430928,79.11,75.19,83.56,81.5,77.56,79.46,70.98,A,Amélioration,Obligatoire,Oui,2023,,IQSS
+8c3612a9-8ba3-4135-ae04-4644b7a191d7,397f27cf-4657-45ed-a248-533a28652061,79.11,75.19,83.56,81.5,77.56,79.46,70.98,A,Amélioration,Obligatoire,Oui,2023,,IQSS
+755ff506-2b3b-4b35-9349-c0114539d341,773b69fc-d69e-4a3a-a848-7658e2e05f59,70.46,75.19,75.35,75.15,63.86,65.16,64.75,C,Diminution,Obligatoire,Oui,2023,,IQSS
+755ff506-2b3b-4b35-9349-c0114539d341,619ce69e-8f38-4ecf-abb5-2b1692101d18,70.46,75.19,75.35,75.15,63.86,65.16,64.75,C,Diminution,Obligatoire,Oui,2023,,IQSS
+1c2fd377-81cb-4a3d-87fa-d79b03515d0c,7875474d-8598-479f-9af7-70dc77eb7c8e,73.63,75.19,79.31,77.76,76.56,54.56,67.45,B,Amélioration,Facultatif,Oui,2023,,IQSS
+1c2fd377-81cb-4a3d-87fa-d79b03515d0c,854be752-79bc-4852-8263-0c58d35b9d99,73.63,75.19,79.31,77.76,76.56,54.56,67.45,B,Amélioration,Facultatif,Oui,2023,,IQSS
+45587fc7-0615-4005-be70-ad001a622fd3,cd594b8c-9846-44f4-b5d5-5ff82c3af329,,,,,,,,DI,,Facultatif,Oui,2023,,IQSS
+45587fc7-0615-4005-be70-ad001a622fd3,fc19e8a2-4fd8-4539-a5dd-f35142bf964f,,,,,,,,DI,,Facultatif,Oui,2023,,IQSS
+a662e40d-c78a-431b-9f52-911e975cf603,65c4fe76-80bf-46fe-8e81-d2b6b28c7c1d,,,,,,,,DI,,Facultatif,Oui,2023,,IQSS
+a662e40d-c78a-431b-9f52-911e975cf603,e96e8af8-393d-4e5c-9d73-d63c072fad62,,,,,,,,DI,,Facultatif,Oui,2023,,IQSS
+c7c31283-f4f1-4c6e-bedf-5f3b2d08e683,044fdf72-1564-4fc4-b9ff-b5f5c5a28d76,80.42,77.76,87.21,82.57,78.96,76.94,74.73,A,Stable,Obligatoire,Oui,2023,,IQSS
+c7c31283-f4f1-4c6e-bedf-5f3b2d08e683,83c66865-0628-409e-b63a-d3960bf0abc5,80.42,77.76,87.21,82.57,78.96,76.94,74.73,A,Stable,Obligatoire,Oui,2023,,IQSS
+d63de55d-b386-4c0f-b5a9-f47067e7f303,ab34451b-5a32-43a8-bef3-40dda0d3d35d,,,,,,,,DI,,Facultatif,Oui,2023,,IQSS
+d63de55d-b386-4c0f-b5a9-f47067e7f303,08544243-9138-457f-b2db-6ba898024219,,,,,,,,DI,,Facultatif,Oui,2023,,IQSS
+76d9e43b-12ab-43c1-a69f-683d5359aa0e,09a1d7b9-8e9c-492a-a51d-b22a15eaf106,75.5,77.76,79.0,77.79,74.58,70.88,70.71,B,Stable,Obligatoire,Oui,2023,,IQSS
+76d9e43b-12ab-43c1-a69f-683d5359aa0e,62fcaf30-ee83-473d-b4cd-7a81ccdbb994,75.5,77.76,79.0,77.79,74.58,70.88,70.71,B,Stable,Obligatoire,Oui,2023,,IQSS
+e85f4817-c31e-41d7-b55e-9120c451e052,50a77c42-13ce-437e-8955-8e263add3c0b,,,,,,,,DI,,Facultatif,Oui,2023,,IQSS
+e85f4817-c31e-41d7-b55e-9120c451e052,20f072e6-1f98-429f-8e2b-fd48b04dfbb4,,,,,,,,DI,,Facultatif,Oui,2023,,IQSS
+cd173bfd-a016-4fba-a104-7c75aa28a5d5,889f2b52-aa1c-47c1-a5e0-905bfb031e28,80.12,77.76,86.96,84.76,80.22,59.07,77.04,A,Non calculable,Facultatif,Oui,2023,,IQSS
+cd173bfd-a016-4fba-a104-7c75aa28a5d5,26b80307-e096-48d6-af99-dc2d5cb7c3ad,80.12,77.76,86.96,84.76,80.22,59.07,77.04,A,Non calculable,Facultatif,Oui,2023,,IQSS
+5c68db15-77e9-4570-8231-07cc476b023d,06a5562c-e787-4cda-b15a-1523edb3152d,,,,,,,,DI,,Facultatif,Oui,2023,,IQSS
+5c68db15-77e9-4570-8231-07cc476b023d,e8c5374d-3f81-47ac-81de-3d7964d2bf6f,,,,,,,,DI,,Facultatif,Oui,2023,,IQSS
+e5a1710b-4b83-4bc7-b1f7-7295e64839d6,e4a295c0-5391-4e1a-bd8c-69d8fb8802fe,74.7,75.0,81.69,76.2,74.8,75.53,64.27,B,Non calculable,Obligatoire,Oui,2023,,IQSS
+e5a1710b-4b83-4bc7-b1f7-7295e64839d6,51029ba7-a252-44b3-a098-808e887b30ca,74.7,75.0,81.69,76.2,74.8,75.53,64.27,B,Non calculable,Obligatoire,Oui,2023,,IQSS
+c4dfc9eb-a94d-4b1e-857f-90d0c5a9a63b,21401c6d-bdc4-4fb5-9d8c-06357bcb94bb,72.89,75.0,79.93,76.85,71.91,64.99,63.39,C,Non calculable,Obligatoire,Oui,2023,,IQSS
+c4dfc9eb-a94d-4b1e-857f-90d0c5a9a63b,f9faa5d1-1bc4-4077-9e87-6ffe3a05febe,72.89,75.0,79.93,76.85,71.91,64.99,63.39,C,Non calculable,Obligatoire,Oui,2023,,IQSS
+1cbd1397-1008-41a9-ab26-c8444a85bc51,b1573ff2-be6a-4bb8-8082-de575e81592a,79.33,75.0,88.11,82.38,73.06,80.05,72.82,A,Stable,Facultatif,Oui,2023,,IQSS
+1cbd1397-1008-41a9-ab26-c8444a85bc51,eb840277-aac1-49c8-b274-f736a4efe305,79.33,75.0,88.11,82.38,73.06,80.05,72.82,A,Stable,Facultatif,Oui,2023,,IQSS
+9dcf910d-d69d-431f-91aa-03c5ca1880fc,df9d8aad-1465-4bff-b41f-74b5cd2d1378,,,,,,,,DI,,Facultatif,Oui,2023,,IQSS
+9dcf910d-d69d-431f-91aa-03c5ca1880fc,10005375-a463-44cd-9185-64eae5fec9d7,,,,,,,,DI,,Facultatif,Oui,2023,,IQSS
+262d1fdc-1130-43a7-ad7e-479f3965e1e1,16d92683-6b62-4f2d-bd3b-d357a3bc328d,,,,,,,,DI,,Facultatif,Oui,2023,,IQSS
+262d1fdc-1130-43a7-ad7e-479f3965e1e1,d9729929-995c-4ccb-ab39-a2c01d5d9442,,,,,,,,DI,,Facultatif,Oui,2023,,IQSS
+04cab485-b086-44e3-91b0-8a30cf5f70bf,7a3ab4dd-a59b-4c64-9d8f-482127bbc867,,,,,,,,DI,,Facultatif,Oui,2023,,IQSS
+04cab485-b086-44e3-91b0-8a30cf5f70bf,8f7660d6-7a67-44f3-8b25-8b3d4b283c88,,,,,,,,DI,,Facultatif,Oui,2023,,IQSS
+19e905b7-6259-462d-8e91-65f7a9269193,3a49a4e1-3d79-4cc7-a7ed-886a9ad55406,,,,,,,,NV,,Obligatoire,Oui,2023,,IQSS
+19e905b7-6259-462d-8e91-65f7a9269193,59069b90-7cc9-4c78-9548-81e5cef609f0,,,,,,,,NV,,Obligatoire,Oui,2023,,IQSS
+a79d5eaf-4f33-4743-8a8f-b5617679095b,abb60091-43ca-4969-9a25-4d1f35fd2360,78.33,75.0,82.85,79.25,78.86,77.39,73.54,A,Stable,Obligatoire,Oui,2023,,IQSS
+a79d5eaf-4f33-4743-8a8f-b5617679095b,9adffdea-4ae2-402e-8cd3-c159b436c20b,78.33,75.0,82.85,79.25,78.86,77.39,73.54,A,Stable,Obligatoire,Oui,2023,,IQSS
+604771b1-7d6c-49d2-8698-b7e1a38bd7db,840fa307-2d6f-4f20-9af5-01b39fb8a4ca,73.01,76.02,76.8,74.04,75.77,64.28,70.91,B,Amélioration,Facultatif,Oui,2023,,IQSS
+604771b1-7d6c-49d2-8698-b7e1a38bd7db,223df5b2-b90c-4dd9-b4fa-7dc00d7d37ee,73.01,76.02,76.8,74.04,75.77,64.28,70.91,B,Amélioration,Facultatif,Oui,2023,,IQSS
+aeb36721-a328-4355-8aa0-c7abd1b8c2b0,b9b6cb1b-d3c8-40a0-a7f3-a15e69b18814,80.86,76.02,86.84,83.15,82.87,78.05,70.38,A,Stable,Obligatoire,Oui,2023,,IQSS
+aeb36721-a328-4355-8aa0-c7abd1b8c2b0,f9ecf919-c3c6-4502-a4ed-2dc8290ba04b,80.86,76.02,86.84,83.15,82.87,78.05,70.38,A,Stable,Obligatoire,Oui,2023,,IQSS
+fc87be33-c978-4a2a-b24b-c8a91ec5b102,2d76060f-b1d2-4ab4-948c-567cc96f696f,,,,,,,,DI,,Facultatif,Oui,2023,,IQSS
+fc87be33-c978-4a2a-b24b-c8a91ec5b102,c0544275-1567-4b15-8c84-c69b91173d3d,,,,,,,,DI,,Facultatif,Oui,2023,,IQSS
+3c583bfb-ff66-4a90-9ce9-82aaf6b96a1f,7c858301-c9f6-4a04-b18c-fbe7b5f79215,75.43,76.02,84.6,80.5,78.51,54.25,64.93,B,Amélioration,Facultatif,Oui,2023,,IQSS
+3c583bfb-ff66-4a90-9ce9-82aaf6b96a1f,3abb24fc-44d9-4134-b263-5f2d35a134ea,75.43,76.02,84.6,80.5,78.51,54.25,64.93,B,Amélioration,Facultatif,Oui,2023,,IQSS
+c2a377d9-dbfa-4a03-91e3-476b6774352e,4579af7b-e159-4ca7-af7d-e1f01e05eef4,,,,,,,,DI,,Facultatif,Oui,2023,,IQSS
+c2a377d9-dbfa-4a03-91e3-476b6774352e,9231d2f0-6bb5-4e90-bd3f-f6d36bc3944c,,,,,,,,DI,,Facultatif,Oui,2023,,IQSS
+815ad373-70a9-4cd7-83c0-28e502f81f36,edee1fa8-d7b8-4bad-99e2-608f41638b7d,80.49,76.02,87.11,83.29,82.82,70.28,72.46,A,Non calculable,Obligatoire,Oui,2023,,IQSS
+815ad373-70a9-4cd7-83c0-28e502f81f36,697b4aa1-15d6-4c8d-baa3-778da3324ab5,80.49,76.02,87.11,83.29,82.82,70.28,72.46,A,Non calculable,Obligatoire,Oui,2023,,IQSS
+53f39204-d381-48ed-ab7b-b24ef91b4319,9b32500b-db3b-4545-95b9-e121038ae4fd,80.97,75.08,88.7,84.02,83.94,67.66,73.6,A,Stable,Obligatoire,Oui,2023,,IQSS
+53f39204-d381-48ed-ab7b-b24ef91b4319,f4c92c45-3aa9-48c5-bc95-a5d893f5f5c8,80.97,75.08,88.7,84.02,83.94,67.66,73.6,A,Stable,Obligatoire,Oui,2023,,IQSS
+cfed14fa-e9a3-4408-b5df-4a68b9bc9207,a21974fb-d5a4-412d-9770-acfa88302f92,78.17,76.84,83.25,83.62,71.48,64.16,75.89,A,Amélioration,Obligatoire,Oui,2023,,IQSS
+cfed14fa-e9a3-4408-b5df-4a68b9bc9207,1acbb2c3-7e91-4970-ae71-fb6d8cabee10,78.17,76.84,83.25,83.62,71.48,64.16,75.89,A,Amélioration,Obligatoire,Oui,2023,,IQSS
+ceffc578-e303-47df-89b6-be30c8a96131,f7ab61b1-ef94-42dd-91aa-a3f88f88ab87,,,,,,,,DI,,Facultatif,Oui,2023,,IQSS
+ceffc578-e303-47df-89b6-be30c8a96131,4b56373d-659b-4cb2-8e05-481c84fbd810,,,,,,,,DI,,Facultatif,Oui,2023,,IQSS
+edb2bda1-5de6-4d90-b8f1-68ed2d8a2863,c61aecd2-b9ed-415d-96a3-10a371e9999e,,,,,,,,DI,,Facultatif,Oui,2023,,IQSS
+edb2bda1-5de6-4d90-b8f1-68ed2d8a2863,fe6e3b62-6c8c-4ac3-83ae-40a06d285280,,,,,,,,DI,,Facultatif,Oui,2023,,IQSS
+e50188ed-bcef-452a-a32d-44feaa3624b1,1ee0b6c6-78be-4845-b70a-f3456971f237,79.04,76.84,88.03,83.18,83.12,60.97,69.11,A,Amélioration,Facultatif,Oui,2023,,IQSS
+e50188ed-bcef-452a-a32d-44feaa3624b1,6bf7019b-aba1-42ed-8b12-bee5ec6554df,79.04,76.84,88.03,83.18,83.12,60.97,69.11,A,Amélioration,Facultatif,Oui,2023,,IQSS
+da647946-bf46-4853-8f2d-f13a7eb50ab9,7c13fab3-b026-44c2-8e6f-6c19ccf833b0,,,,,,,,DI,,Facultatif,Oui,2023,,IQSS
+da647946-bf46-4853-8f2d-f13a7eb50ab9,aa9b9314-99e5-4551-8323-0b4ba3872b4a,,,,,,,,DI,,Facultatif,Oui,2023,,IQSS
+ca56bbe9-54a7-43b1-b1bb-e2d7b92de941,d17825c8-65aa-45a8-a90c-50de3ddf21c3,78.49,76.84,88.62,82.98,70.82,69.45,73.45,A,Amélioration,Obligatoire,Oui,2023,,IQSS
+ca56bbe9-54a7-43b1-b1bb-e2d7b92de941,94589356-1e4a-4145-9c14-45c8ee6c08de,78.49,76.84,88.62,82.98,70.82,69.45,73.45,A,Amélioration,Obligatoire,Oui,2023,,IQSS
+eeb9647c-dc79-446a-9c8d-ff9545746808,3e3df3a8-0825-4f4e-88b5-29c70c616cf5,74.98,75.0,81.82,76.36,80.19,71.05,63.79,B,Amélioration,Obligatoire,Oui,2023,,IQSS
+eeb9647c-dc79-446a-9c8d-ff9545746808,24adc40f-4b9b-4a9c-958b-4a25f842d059,74.98,75.0,81.82,76.36,80.19,71.05,63.79,B,Amélioration,Obligatoire,Oui,2023,,IQSS
+33d044b8-0ec2-4b0f-89c2-554f6088d16a,c02cceed-a013-4141-9ac2-0f80ca362301,,,,,,,,DI,,Facultatif,Oui,2023,,IQSS
+33d044b8-0ec2-4b0f-89c2-554f6088d16a,cd91fe6d-87f5-46bf-ad7d-43060cffa47e,,,,,,,,DI,,Facultatif,Oui,2023,,IQSS
+98846c40-bfcc-4779-a595-a4fe7a2d7c9e,34a618e0-ece4-44c7-970b-b0c612f00c7a,74.31,75.0,77.18,76.44,74.5,76.01,64.02,B,Stable,Obligatoire,Oui,2023,,IQSS
+98846c40-bfcc-4779-a595-a4fe7a2d7c9e,a17399dc-25bb-42d0-9687-43073cd786d7,74.31,75.0,77.18,76.44,74.5,76.01,64.02,B,Stable,Obligatoire,Oui,2023,,IQSS
+127825f9-f7e3-40e1-9e3c-f50f70090d24,0405a004-3c3e-4281-a0fb-5838c5cbcc68,,,,,,,,DI,,Facultatif,Oui,2023,,IQSS
+127825f9-f7e3-40e1-9e3c-f50f70090d24,0efa2b34-540a-4ddf-a937-b9fcf8b76f19,,,,,,,,DI,,Facultatif,Oui,2023,,IQSS
+9261e15f-8557-4b92-9d13-4c7ede31d625,f08f54f5-1138-4b75-ad95-fbac3061b0d5,,,,,,,,DI,,Facultatif,Oui,2023,,IQSS
+9261e15f-8557-4b92-9d13-4c7ede31d625,b5b0c4e1-6883-4b0e-af9a-698967b231b4,,,,,,,,DI,,Facultatif,Oui,2023,,IQSS
+159000df-b011-43d7-8359-db94d1b37171,70a9893b-7db4-46b3-9901-06feafe907f4,,,,,,,,DI,,Facultatif,Oui,2023,,IQSS
+159000df-b011-43d7-8359-db94d1b37171,30194d8f-5e92-4e2c-beb4-e90816c2a6d5,,,,,,,,DI,,Facultatif,Oui,2023,,IQSS
+50423a41-25f0-40e8-91e2-5f3199375b5f,bf44ae49-1131-4038-81d4-9430b8d82aef,78.96,76.02,84.87,81.21,77.95,76.26,72.49,A,Stable,Obligatoire,Oui,2023,,IQSS
+50423a41-25f0-40e8-91e2-5f3199375b5f,e4189f08-fd52-465c-af95-0d2199e31b99,78.96,76.02,84.87,81.21,77.95,76.26,72.49,A,Stable,Obligatoire,Oui,2023,,IQSS
+dec5da7b-3bfa-4cb6-a879-84c6a68085ee,75b231fa-5d5c-40d2-b010-6a504b15e4d1,,,,,,,,DI,,Facultatif,Oui,2023,,IQSS
+dec5da7b-3bfa-4cb6-a879-84c6a68085ee,3483b103-538c-4b2d-a603-2bac9a7f9e93,,,,,,,,DI,,Facultatif,Oui,2023,,IQSS
+0fe4912d-5b66-4d68-a1ec-8fefec263a0a,8a25f7c1-e8b5-40e8-aa23-62b84aa6cedd,,,,,,,,NV,,Obligatoire,Oui,2023,,IQSS
+0fe4912d-5b66-4d68-a1ec-8fefec263a0a,16322851-da5b-4f64-8b65-eb4604406eac,,,,,,,,NV,,Obligatoire,Oui,2023,,IQSS
+f8393f14-0148-45ad-921c-9f1b591a347f,b1f05c48-b65e-496b-a7e5-3ea8bf6986bb,,,,,,,,DI,,Facultatif,Oui,2023,,IQSS
+f8393f14-0148-45ad-921c-9f1b591a347f,01630bdf-4b84-43e4-9077-2c55857ebde4,,,,,,,,DI,,Facultatif,Oui,2023,,IQSS
+879054d6-6974-470b-bf4f-04e5c242f2cc,f3445afb-e1bc-4401-a1d8-3c28a760c9ba,,,,,,,,DI,,Facultatif,Oui,2023,,IQSS
+879054d6-6974-470b-bf4f-04e5c242f2cc,1769d39b-f749-4e1b-bdfb-57cdb90c5fb3,,,,,,,,DI,,Facultatif,Oui,2023,,IQSS
+e7b5b693-91d3-4f5d-a153-4305a053b54d,09b87ee9-7169-43c9-93ab-47fd04ba9bdc,73.25,76.02,76.79,76.77,79.88,63.52,59.95,B,Non calculable,Facultatif,Oui,2023,,IQSS
+e7b5b693-91d3-4f5d-a153-4305a053b54d,bab9116f-565d-4d48-b746-05b795cccbec,73.25,76.02,76.79,76.77,79.88,63.52,59.95,B,Non calculable,Facultatif,Oui,2023,,IQSS
+3f610cad-5e09-4b47-b0f4-7eaa0efbf357,2877f4c1-53b2-4dad-9852-15778b360fa3,80.92,76.02,89.49,81.81,85.2,79.63,70.11,A,Non calculable,Facultatif,Oui,2023,,IQSS
+3f610cad-5e09-4b47-b0f4-7eaa0efbf357,86f37ccc-a990-4e0b-b1c3-df9b0b4d9d2a,80.92,76.02,89.49,81.81,85.2,79.63,70.11,A,Non calculable,Facultatif,Oui,2023,,IQSS
+4683ae91-c35f-4431-aac6-f89d2b7065da,ef52cd81-40f5-4e35-b625-f35850ec18f9,75.13,76.02,82.15,76.69,73.96,71.85,71.13,B,Amélioration,Obligatoire,Oui,2023,,IQSS
+4683ae91-c35f-4431-aac6-f89d2b7065da,a034935e-fbc1-4024-9591-a14a7439ee88,75.13,76.02,82.15,76.69,73.96,71.85,71.13,B,Amélioration,Obligatoire,Oui,2023,,IQSS
+c91f5661-7b4d-498f-94da-434214030fa1,03edfcf4-2654-4eae-94aa-9cf7471ee160,78.85,76.48,85.67,82.47,78.23,65.96,73.88,A,Stable,Facultatif,Oui,2023,,IQSS
+c91f5661-7b4d-498f-94da-434214030fa1,98a07b74-5140-4387-b79b-e66ae49e881e,78.85,76.48,85.67,82.47,78.23,65.96,73.88,A,Stable,Facultatif,Oui,2023,,IQSS
+cb366a6a-e762-4850-b664-90d07aca9dba,4ec282ff-e79b-4e18-917b-f1d39fe2dd8d,,,,,,,,DI,,Facultatif,Oui,2023,,IQSS
+cb366a6a-e762-4850-b664-90d07aca9dba,4dc618d2-24ba-4377-8828-c827942b3428,,,,,,,,DI,,Facultatif,Oui,2023,,IQSS
+0f0a2061-1d91-41e0-b784-dfa80969b7b5,1ccd2ec2-c2ad-4c0f-8dab-ce3c6e577b9b,69.08,76.48,76.27,74.6,72.81,48.24,58.33,C,Stable,Obligatoire,Oui,2023,,IQSS
+0f0a2061-1d91-41e0-b784-dfa80969b7b5,6301948a-b6c6-4133-bb0a-06998fb128c3,69.08,76.48,76.27,74.6,72.81,48.24,58.33,C,Stable,Obligatoire,Oui,2023,,IQSS
+38fa880e-49f1-45ce-bc7e-b2eb89fa3b26,9aa04693-95f1-4d77-8177-931fc2eca8d2,,,,,,,,DI,,Facultatif,Oui,2023,,IQSS
+38fa880e-49f1-45ce-bc7e-b2eb89fa3b26,1c1ed889-d299-43bd-8c89-972412631d3e,,,,,,,,DI,,Facultatif,Oui,2023,,IQSS
+e363a1b7-5a46-4796-8aa5-a3bc55411fdc,fd0f3f4d-5246-4243-a98d-05d0d4099ab3,,,,,,,,NV,,Obligatoire,Oui,2023,,IQSS
+e363a1b7-5a46-4796-8aa5-a3bc55411fdc,17be63b3-f467-4da1-a402-c4f609d7e4d8,,,,,,,,NV,,Obligatoire,Oui,2023,,IQSS
+81d923a8-7b24-45e8-8a3d-39460858b5fd,44e5c879-ebe2-4b23-bf14-b311e149e590,76.42,76.48,83.06,78.91,80.53,64.75,67.09,B,Non calculable,Facultatif,Oui,2023,,IQSS
+81d923a8-7b24-45e8-8a3d-39460858b5fd,e3d11cfa-885f-43eb-bb5f-49cb35d1babc,76.42,76.48,83.06,78.91,80.53,64.75,67.09,B,Non calculable,Facultatif,Oui,2023,,IQSS
+67653220-4345-4f02-be0e-2a3832e23c3e,a93a7fbb-3116-4cb3-a88f-905ae187a123,,,,,,,,DI,,Facultatif,Oui,2023,,IQSS
+67653220-4345-4f02-be0e-2a3832e23c3e,3e683115-a49a-4e91-a042-024a14972181,,,,,,,,DI,,Facultatif,Oui,2023,,IQSS
+0fba34c6-df72-4030-a263-cf2bfb109616,588fcd4b-1b84-4607-ad83-e001b4423ab2,,,,,,,,DI,,Facultatif,Oui,2023,,IQSS
+0fba34c6-df72-4030-a263-cf2bfb109616,b9aa52bb-5f55-42fc-a3dd-efa329e5cebc,,,,,,,,DI,,Facultatif,Oui,2023,,IQSS
+24a1bb3d-9500-4732-abfb-76251b754105,b5cb679d-a5cd-4fd0-ba7e-b466eb93e095,81.96,76.48,88.66,84.25,86.04,70.48,74.33,A,Stable,Facultatif,Oui,2023,,IQSS
+24a1bb3d-9500-4732-abfb-76251b754105,c2aafeb2-33e2-40bd-b80e-1788111d8496,81.96,76.48,88.66,84.25,86.04,70.48,74.33,A,Stable,Facultatif,Oui,2023,,IQSS
+59076944-5a62-47cd-a0ba-7eb7de2b520d,1c36bff8-d955-42c8-ac79-dfb9789e0572,71.51,76.48,74.39,76.22,70.73,59.5,64.69,C,Non calculable,Facultatif,Oui,2023,,IQSS
+59076944-5a62-47cd-a0ba-7eb7de2b520d,b3dc8547-bd16-4d72-a87b-a7c5c227d73e,71.51,76.48,74.39,76.22,70.73,59.5,64.69,C,Non calculable,Facultatif,Oui,2023,,IQSS
+21563ff9-db23-4c87-8342-d0e254cc350e,fa7e8f1a-7e9b-49fd-9da0-c33323ff8010,72.04,75.0,76.16,74.06,74.5,67.9,64.08,C,Stable,Obligatoire,Oui,2023,,IQSS
+21563ff9-db23-4c87-8342-d0e254cc350e,f071b663-1181-4425-9041-3f2410f8cc98,72.04,75.0,76.16,74.06,74.5,67.9,64.08,C,Stable,Obligatoire,Oui,2023,,IQSS
+d265afc0-6d05-4bdd-9c7c-fd9f995f26ae,e68ad18c-ba46-43b9-85bb-65e8d4741e79,73.52,75.0,79.74,75.58,77.08,65.71,65.49,B,Stable,Facultatif,Oui,2023,,IQSS
+d265afc0-6d05-4bdd-9c7c-fd9f995f26ae,0d12d97b-6189-4c29-9fe6-e8237c8a6369,73.52,75.0,79.74,75.58,77.08,65.71,65.49,B,Stable,Facultatif,Oui,2023,,IQSS
+b6551950-de6a-4c52-b594-c72fb4936cc9,191dc8cb-0f91-4fdd-ba3a-23850380798f,80.44,75.0,88.05,83.42,84.83,64.38,73.04,A,Stable,Facultatif,Oui,2023,,IQSS
+b6551950-de6a-4c52-b594-c72fb4936cc9,2a4309c5-9f9b-47cf-98eb-6f5d1aa7a764,80.44,75.0,88.05,83.42,84.83,64.38,73.04,A,Stable,Facultatif,Oui,2023,,IQSS
+10a058dc-dad7-42c9-a2cb-5596292dacd3,0c331f5d-70d4-4810-b670-bb6c760f0b0f,76.73,75.0,82.55,82.53,77.23,55.53,69.42,A,Amélioration,Facultatif,Oui,2023,,IQSS
+10a058dc-dad7-42c9-a2cb-5596292dacd3,e5f540a9-83df-4828-9fb6-5d18ccd4e22e,76.73,75.0,82.55,82.53,77.23,55.53,69.42,A,Amélioration,Facultatif,Oui,2023,,IQSS
+e7c95ce5-e42e-4c5b-9b21-b5e5fbab5580,e7b7bfc7-f4ac-409f-8db1-fab223611a16,,,,,,,,DI,,Facultatif,Oui,2023,,IQSS
+e7c95ce5-e42e-4c5b-9b21-b5e5fbab5580,62a06bff-e491-4c99-bc79-08fc4d935daf,,,,,,,,DI,,Facultatif,Oui,2023,,IQSS
+609e6fa2-a66b-4bbc-b7f8-9fdfdc7fe35c,b55c9a35-b9b0-4ffe-8088-10fc2dd93207,68.18,75.0,74.79,69.79,72.8,66.94,55.81,D,Stable,Obligatoire,Oui,2023,,IQSS
+609e6fa2-a66b-4bbc-b7f8-9fdfdc7fe35c,af358b02-c53f-46bd-bccd-d7cf36678dc7,68.18,75.0,74.79,69.79,72.8,66.94,55.81,D,Stable,Obligatoire,Oui,2023,,IQSS
+0d607b29-bca9-441b-8991-581e31b4f06b,98169344-e0f5-4b44-8727-bcec58742cd0,77.3,75.0,83.9,81.27,76.34,68.22,68.57,A,Non calculable,Facultatif,Oui,2023,,IQSS
+0d607b29-bca9-441b-8991-581e31b4f06b,1d244ffd-85e4-4704-a324-b11bf3282c64,77.3,75.0,83.9,81.27,76.34,68.22,68.57,A,Non calculable,Facultatif,Oui,2023,,IQSS
+143730e4-8944-4773-a1a5-9caece835ef8,c1f044ec-037b-41fb-b156-76c475f50545,79.25,75.19,87.4,83.32,79.97,66.31,70.54,A,Amélioration,Obligatoire,Oui,2023,,IQSS
+143730e4-8944-4773-a1a5-9caece835ef8,f35033b5-718f-4ac6-b2a1-3deb1bc83a2e,79.25,75.19,87.4,83.32,79.97,66.31,70.54,A,Amélioration,Obligatoire,Oui,2023,,IQSS
+0edfaa73-c2d0-45f6-a491-1fb17333610e,0cc4787a-eb73-487a-a425-51c506d12c72,,,,,,,,DI,,Facultatif,Oui,2023,,IQSS
+0edfaa73-c2d0-45f6-a491-1fb17333610e,e4a91db8-b8af-4e8d-a214-89cdabdc9237,,,,,,,,DI,,Facultatif,Oui,2023,,IQSS
+2bf48bcc-c0e6-4223-ad5e-6561a0e8fd1b,0f56ac3c-0dd4-4c30-b38f-4d2112b7e892,,,,,,,,DI,,Facultatif,Oui,2023,,IQSS
+2bf48bcc-c0e6-4223-ad5e-6561a0e8fd1b,79938836-0b4e-4d6f-9c64-ac3561f7d393,,,,,,,,DI,,Facultatif,Oui,2023,,IQSS
+da8ec258-0e93-4aaa-9d85-63250033047d,8a64fb4f-57b9-442b-adcf-c81d8b907fc1,74.95,75.19,83.0,76.98,77.19,64.12,68.81,B,Diminution,Facultatif,Oui,2023,,IQSS
+da8ec258-0e93-4aaa-9d85-63250033047d,55486a3c-7328-48b6-b642-290899919fb5,74.95,75.19,83.0,76.98,77.19,64.12,68.81,B,Diminution,Facultatif,Oui,2023,,IQSS
+f32af57c-1902-43fc-b944-70959dc45d5c,473550c5-aacf-4c15-a482-97f77766dd4e,,,,,,,,DI,,Facultatif,Oui,2023,,IQSS
+f32af57c-1902-43fc-b944-70959dc45d5c,5e0286cd-881b-4620-bc59-b3a689a5e840,,,,,,,,DI,,Facultatif,Oui,2023,,IQSS
+58f2c70e-83af-474b-8927-870e5ea0058a,bb321a8e-63bb-4ac3-b929-b964d1a36d29,81.69,76.84,90.19,86.2,76.96,70.22,77.14,A,Non calculable,Facultatif,Oui,2023,,IQSS
+58f2c70e-83af-474b-8927-870e5ea0058a,1d0291e4-9382-4101-8f20-0d3e45b2f111,81.69,76.84,90.19,86.2,76.96,70.22,77.14,A,Non calculable,Facultatif,Oui,2023,,IQSS
+bf88a823-f794-42cc-bbc8-0175998d0cb5,730618fa-44c9-49ac-a2b2-eeab498b8422,,,,,,,,DI,,Facultatif,Oui,2023,,IQSS
+bf88a823-f794-42cc-bbc8-0175998d0cb5,9ce7636e-f5d2-4fec-be49-06cff400e137,,,,,,,,DI,,Facultatif,Oui,2023,,IQSS
+38e29a66-60ca-43a4-869f-497f6b40c717,59da4c27-b62c-4898-ab2f-cb11fd06548e,83.94,75.19,92.16,85.99,83.33,80.22,76.85,A,Non calculable,Facultatif,Oui,2023,,IQSS
+38e29a66-60ca-43a4-869f-497f6b40c717,4ee6ca09-5b53-47ba-a2d9-255450e9438b,83.94,75.19,92.16,85.99,83.33,80.22,76.85,A,Non calculable,Facultatif,Oui,2023,,IQSS
+20534407-72c6-492c-a22f-b31b6b61e9e2,9cff7df0-3a70-4978-99bc-948b5e7f02f3,83.39,75.19,90.91,84.44,82.47,81.2,79.45,A,Stable,Facultatif,Oui,2023,,IQSS
+20534407-72c6-492c-a22f-b31b6b61e9e2,3b4da06e-2f26-4a8f-a9cb-b5b057437b9a,83.39,75.19,90.91,84.44,82.47,81.2,79.45,A,Stable,Facultatif,Oui,2023,,IQSS
+a2f8af63-3d84-48e0-8901-0d1a7d417fb9,06c452a4-9609-45b8-8932-2b427cf1b770,,,,,,,,DI,,Facultatif,Oui,2023,,IQSS
+a2f8af63-3d84-48e0-8901-0d1a7d417fb9,8716aa0b-b986-482f-bedb-7c99c6998e77,,,,,,,,DI,,Facultatif,Oui,2023,,IQSS
+a946abf1-cda6-4074-b772-425bc3b0563c,8a6bc40c-99e3-424b-85c0-9621a6467296,72.83,75.19,84.9,78.09,65.86,63.5,65.28,C,Diminution,Facultatif,Oui,2023,,IQSS
+a946abf1-cda6-4074-b772-425bc3b0563c,e27fe5b4-0ce1-43ad-ae3e-8a0fc1238a21,72.83,75.19,84.9,78.09,65.86,63.5,65.28,C,Diminution,Facultatif,Oui,2023,,IQSS
+fa68a027-f220-4f4e-8000-1d439174d718,ac66684d-b370-42ec-bef5-a27359004f0c,,,,,,,,DI,,Facultatif,Oui,2023,,IQSS
+fa68a027-f220-4f4e-8000-1d439174d718,63ed1d8c-c53e-4a19-b8a2-507708d9608f,,,,,,,,DI,,Facultatif,Oui,2023,,IQSS
+7c133fd4-948c-44e3-9ba4-5ff8b72575a4,2505b765-d85d-46c7-890c-720f458060f1,,,,,,,,DI,,Facultatif,Oui,2023,,IQSS
+7c133fd4-948c-44e3-9ba4-5ff8b72575a4,b0ac158d-a579-48a2-85e7-7c2a462e9d45,,,,,,,,DI,,Facultatif,Oui,2023,,IQSS
+1dbd1f5d-0d62-4481-9a8e-5f6da5c249fa,38321948-eb4e-45de-bb97-b57693e5b3b7,77.82,76.48,87.69,82.3,73.17,63.25,74.82,A,Stable,Obligatoire,Oui,2023,,IQSS
+1dbd1f5d-0d62-4481-9a8e-5f6da5c249fa,c824348a-7b89-49b1-ba29-76db30fcf1f6,77.82,76.48,87.69,82.3,73.17,63.25,74.82,A,Stable,Obligatoire,Oui,2023,,IQSS
+3f84e158-b858-429c-b9c6-d3149fcf7a11,33852af6-26a0-4256-94fb-55bd83e6072a,75.99,76.48,82.43,80.2,76.52,55.43,73.23,B,Non calculable,Facultatif,Oui,2023,,IQSS
+3f84e158-b858-429c-b9c6-d3149fcf7a11,3d531e0e-237c-4b25-98f1-ea9ac6e1d8b9,75.99,76.48,82.43,80.2,76.52,55.43,73.23,B,Non calculable,Facultatif,Oui,2023,,IQSS
+513ab09f-6b26-4df5-b07b-652536f17c93,1ab64d8a-b321-458c-a9bc-a6c952dd4baf,,,,,,,,DI,,Facultatif,Oui,2023,,IQSS
+513ab09f-6b26-4df5-b07b-652536f17c93,1cc47e3d-af1a-4786-91e1-85f4f3ed36c8,,,,,,,,DI,,Facultatif,Oui,2023,,IQSS
+2555315c-d0ab-49b3-821b-29f9d734bc27,24269ec6-9cc8-402b-b0ec-5b36e68bcad6,,,,,,,,DI,,Facultatif,Oui,2023,,IQSS
+2555315c-d0ab-49b3-821b-29f9d734bc27,2ee80540-2e58-406a-bf30-754e4c7776f9,,,,,,,,DI,,Facultatif,Oui,2023,,IQSS
+e7f32b72-4c71-4e94-86b1-0d58fe248b0b,45cfe07f-b524-4b42-9a51-79bb7e159d65,77.63,75.16,85.27,81.88,70.56,73.9,71.65,A,Amélioration,Obligatoire,Oui,2023,,IQSS
+e7f32b72-4c71-4e94-86b1-0d58fe248b0b,a5420d0c-b1aa-4dcd-9912-a3160dd65f77,77.63,75.16,85.27,81.88,70.56,73.9,71.65,A,Amélioration,Obligatoire,Oui,2023,,IQSS
+1b5c6533-6b9c-431f-912a-92401494cc6d,1d9e6d43-fdc5-4836-b80c-51ab2096edce,74.74,75.16,83.71,78.84,71.16,68.39,66.95,B,Amélioration,Obligatoire,Oui,2023,,IQSS
+1b5c6533-6b9c-431f-912a-92401494cc6d,a21900d9-ccd8-4739-b535-2130851f2aa4,74.74,75.16,83.71,78.84,71.16,68.39,66.95,B,Amélioration,Obligatoire,Oui,2023,,IQSS
+53d394ab-0d81-4792-b657-b84fd8882d5e,0591420c-d5db-4338-a83b-530cd61714eb,,,,,,,,DI,,Facultatif,Oui,2023,,IQSS
+53d394ab-0d81-4792-b657-b84fd8882d5e,29408a23-cac2-4eb7-9638-02c6353bf364,,,,,,,,DI,,Facultatif,Oui,2023,,IQSS
+7a791f37-facc-432b-b782-bb5b054fecd5,77c026ea-6121-4c54-89da-e4bcc4ea1c4d,75.88,75.16,83.34,78.19,78.74,68.28,67.03,B,Stable,Obligatoire,Oui,2023,,IQSS
+7a791f37-facc-432b-b782-bb5b054fecd5,b01006c4-346f-4cff-bdaa-aa190ba958ec,75.88,75.16,83.34,78.19,78.74,68.28,67.03,B,Stable,Obligatoire,Oui,2023,,IQSS
+a686aa29-a4e3-40d4-a5a9-31cae139a8d2,1adcd7ce-3e2f-4bca-a46d-5f69dc0afa8f,79.05,75.16,87.0,83.22,73.47,74.24,72.21,A,Non calculable,Facultatif,Oui,2023,,IQSS
+a686aa29-a4e3-40d4-a5a9-31cae139a8d2,ad9aa7b2-488c-4e75-a4f3-f29e7e1430ae,79.05,75.16,87.0,83.22,73.47,74.24,72.21,A,Non calculable,Facultatif,Oui,2023,,IQSS
+df0783a8-bbf2-45b3-8879-4a93f858f644,7791e640-5d93-4b34-86a3-5acb329ab95b,,,,,,,,DI,,Facultatif,Oui,2023,,IQSS
+df0783a8-bbf2-45b3-8879-4a93f858f644,39d422c9-bf81-4bde-8437-4b62d7a553f1,,,,,,,,DI,,Facultatif,Oui,2023,,IQSS
+a2ff4614-76da-48e9-9206-3172fbecb74e,c2a0d008-122c-4a79-aea6-485a61754337,69.9,75.71,74.12,74.15,68.64,58.83,64.44,C,Stable,Obligatoire,Oui,2023,,IQSS
+a2ff4614-76da-48e9-9206-3172fbecb74e,2544747c-3a33-4279-9d87-4b08c6f48c45,69.9,75.71,74.12,74.15,68.64,58.83,64.44,C,Stable,Obligatoire,Oui,2023,,IQSS
+db40299e-de4d-4caa-85ea-38d1efa52df0,d3d5bdae-ed24-4000-832e-07fdc926a549,,,,,,,,NV,,Obligatoire,Oui,2023,,IQSS
+db40299e-de4d-4caa-85ea-38d1efa52df0,80a7c93a-2acd-4d63-a0a8-0bfce04fc23a,,,,,,,,NV,,Obligatoire,Oui,2023,,IQSS
+38cc75ec-5eb9-4861-b048-b744d1b9de6f,adcbcf39-592d-4909-855c-1751a60fd08a,,,,,,,,DI,,Facultatif,Oui,2023,,IQSS
+38cc75ec-5eb9-4861-b048-b744d1b9de6f,ea09bd89-4a3a-4690-89e4-3b310afdc02c,,,,,,,,DI,,Facultatif,Oui,2023,,IQSS
+77b83c34-d34a-48cd-8cbb-1b2b869819d2,962ae7be-396d-4e5d-be99-57047b74ccff,,,,,,,,DI,,Facultatif,Oui,2023,,IQSS
+77b83c34-d34a-48cd-8cbb-1b2b869819d2,981f8e78-58cc-411d-8212-965f47e4390e,,,,,,,,DI,,Facultatif,Oui,2023,,IQSS
+3560f9f6-79bf-43e5-977a-ba144d20a6b9,7ff419bd-2908-4905-8f06-daeb6a78b9bc,,,,,,,,DI,,Facultatif,Oui,2023,,IQSS
+3560f9f6-79bf-43e5-977a-ba144d20a6b9,4d5e8828-90a4-49e4-9de6-58e8f91674d9,,,,,,,,DI,,Facultatif,Oui,2023,,IQSS
+24e58133-88ab-4a1c-99a3-597333d5b44c,acb827ab-49d1-4246-8f7b-3238144ffb0a,70.91,75.71,76.47,76.62,71.56,64.64,54.47,C,Non calculable,Facultatif,Oui,2023,,IQSS
+24e58133-88ab-4a1c-99a3-597333d5b44c,8f71d01d-2142-4e5c-aa6e-3e1962a48ed6,70.91,75.71,76.47,76.62,71.56,64.64,54.47,C,Non calculable,Facultatif,Oui,2023,,IQSS
+1a3001d5-67b4-46c3-9f00-af2e339cf37c,d1e78bf9-ec5d-4460-9df6-eb63c47e496b,,,,,,,,DI,,Facultatif,Oui,2023,,IQSS
+1a3001d5-67b4-46c3-9f00-af2e339cf37c,8288bd31-8231-4031-bf3c-6667722c5236,,,,,,,,DI,,Facultatif,Oui,2023,,IQSS
+b95d4429-4a98-4395-90d0-906f4aea48ce,c918d170-2fac-4567-96c5-ac6a6ef3f418,,,,,,,,DI,,Facultatif,Oui,2023,,IQSS
+b95d4429-4a98-4395-90d0-906f4aea48ce,e18451ce-784f-49bd-9f71-2d530c3476cb,,,,,,,,DI,,Facultatif,Oui,2023,,IQSS
+f0daad74-8c38-41aa-ba45-ede1b1caa35e,d299efe6-cafe-4595-bb86-8d0525d78586,,,,,,,,DI,,Facultatif,Oui,2023,,IQSS
+f0daad74-8c38-41aa-ba45-ede1b1caa35e,811c80fe-7e73-4182-8bbb-de308610bfbf,,,,,,,,DI,,Facultatif,Oui,2023,,IQSS
+b34ffc08-782d-4fd6-962b-84ea67ab53aa,ba252dfb-0621-484d-9e04-e9d9391b68d6,78.39,75.71,86.7,81.72,80.17,67.81,67.35,A,Amélioration,Obligatoire,Oui,2023,,IQSS
+b34ffc08-782d-4fd6-962b-84ea67ab53aa,bf8691ae-e24e-48d4-80d0-315ac391a4e6,78.39,75.71,86.7,81.72,80.17,67.81,67.35,A,Amélioration,Obligatoire,Oui,2023,,IQSS
+e55364e8-70a6-48e1-9917-f67eaef855df,81d59dab-365c-47e8-b95a-14a023d1007c,,,,,,,,DI,,Facultatif,Oui,2023,,IQSS
+e55364e8-70a6-48e1-9917-f67eaef855df,3c069057-f742-4ffc-9b65-3e63fa58fbc3,,,,,,,,DI,,Facultatif,Oui,2023,,IQSS
+f3c754ce-a574-4ca0-8529-ef5b5e3d9f36,b51ea89c-5100-4e14-ae98-1e418999e69d,79.12,75.71,87.23,84.17,73.5,71.84,70.51,A,Amélioration,Facultatif,Oui,2023,,IQSS
+f3c754ce-a574-4ca0-8529-ef5b5e3d9f36,2246f939-f20e-4dec-aa15-7109e5cb5932,79.12,75.71,87.23,84.17,73.5,71.84,70.51,A,Amélioration,Facultatif,Oui,2023,,IQSS
+74346b60-977d-4555-9f94-7bdf96685ffa,2b1905cc-81c7-4857-a1c7-2f274086ef6c,,,,,,,,DI,,Facultatif,Oui,2023,,IQSS
+74346b60-977d-4555-9f94-7bdf96685ffa,d9375b76-f120-47f6-88ca-820902e247a5,,,,,,,,DI,,Facultatif,Oui,2023,,IQSS
+1a313cf5-a12c-4332-97b9-4c81f9020e80,40db3abf-99e6-46d9-a630-f0a494fc5750,82.25,75.71,90.34,86.3,84.69,60.77,77.38,A,Stable,Facultatif,Oui,2023,,IQSS
+1a313cf5-a12c-4332-97b9-4c81f9020e80,98aa4a72-0ce8-40cd-b4b2-b834cd97f967,82.25,75.71,90.34,86.3,84.69,60.77,77.38,A,Stable,Facultatif,Oui,2023,,IQSS
+75e17c65-f55f-4874-ba90-3446cb12b5c4,1c1f130a-12a2-4b7c-ad7c-b32583c1442b,72.21,75.71,78.99,74.88,75.77,64.54,62.16,C,Non calculable,Obligatoire,Oui,2023,,IQSS
+75e17c65-f55f-4874-ba90-3446cb12b5c4,28776a4f-13fc-4ab8-8470-fafde626ea96,72.21,75.71,78.99,74.88,75.77,64.54,62.16,C,Non calculable,Obligatoire,Oui,2023,,IQSS
+1579f0df-7e50-4150-a7d7-0c5014061f2c,69ed2b31-a705-4053-84ed-bd2c8e5f2deb,,,,,,,,DI,,Facultatif,Oui,2023,,IQSS
+1579f0df-7e50-4150-a7d7-0c5014061f2c,1e6defba-8bb5-4380-bb43-6664e29f1496,,,,,,,,DI,,Facultatif,Oui,2023,,IQSS
+2a7bf3ca-9acb-403d-a64d-bb514fdbed88,967ed048-a66c-48e8-9bd0-403c16193ba2,79.74,77.76,86.29,82.78,81.75,69.04,72.01,A,Stable,Obligatoire,Oui,2023,,IQSS
+2a7bf3ca-9acb-403d-a64d-bb514fdbed88,c6cf776b-74e9-4c22-b03c-4979300a3a3a,79.74,77.76,86.29,82.78,81.75,69.04,72.01,A,Stable,Obligatoire,Oui,2023,,IQSS
+dfd4632a-7a66-4398-b149-dcad930edf0a,7985a24d-0b5f-4e55-a156-78db14d3a90e,,,,,,,,DI,,Facultatif,Oui,2023,,IQSS
+dfd4632a-7a66-4398-b149-dcad930edf0a,241abafb-66a2-4cd6-969e-1fd9875b6632,,,,,,,,DI,,Facultatif,Oui,2023,,IQSS
+0e970cc7-9caf-4e97-9b98-dd2697888c93,9ef847b3-7a8d-4809-ba7a-8188497df6cd,,,,,,,,DI,,Facultatif,Oui,2023,,IQSS
+0e970cc7-9caf-4e97-9b98-dd2697888c93,9a148297-c1a7-4105-be78-445139306c7f,,,,,,,,DI,,Facultatif,Oui,2023,,IQSS
+ec0a28c2-343e-4c5e-8b02-30d389050276,19181cd5-64ba-48ea-b93f-6a08a482bf43,,,,,,,,DI,,Facultatif,Oui,2023,,IQSS
+ec0a28c2-343e-4c5e-8b02-30d389050276,e7f7521e-bb2a-476e-9f7e-e8b8d86d2190,,,,,,,,DI,,Facultatif,Oui,2023,,IQSS
+20e0693c-706f-47cc-87b6-ef525b6221b4,6f988491-040c-4567-9dd8-afe9e9a9681e,,,,,,,,DI,,Facultatif,Oui,2023,,IQSS
+20e0693c-706f-47cc-87b6-ef525b6221b4,b54ce8c3-3349-4eaf-88bb-000282e4225d,,,,,,,,DI,,Facultatif,Oui,2023,,IQSS
+eeeb9594-ae64-4e4b-9693-f972fb7e62ae,026298dc-4b63-4628-ab58-43b3ff43e838,,,,,,,,DI,,Facultatif,Oui,2023,,IQSS
+eeeb9594-ae64-4e4b-9693-f972fb7e62ae,3617dfb4-1bd3-48bc-80d6-a44d0c94a1c0,,,,,,,,DI,,Facultatif,Oui,2023,,IQSS
+bb063d79-9782-4ed9-9b12-a0a2f06d2760,154b8693-a30d-419d-9367-129c4cea4f63,,,,,,,,DI,,Facultatif,Oui,2023,,IQSS
+bb063d79-9782-4ed9-9b12-a0a2f06d2760,c799b39a-b7fe-4db9-b292-d8b496e658f2,,,,,,,,DI,,Facultatif,Oui,2023,,IQSS
+1efecd7a-8d89-4fb5-b731-4ac00990aac8,b819cb0c-8c89-412e-86b7-d141f04e5ba1,,,,,,,,DI,,Facultatif,Oui,2023,,IQSS
+1efecd7a-8d89-4fb5-b731-4ac00990aac8,a5b72bdd-5a50-4205-beef-7259d6fc3c46,,,,,,,,DI,,Facultatif,Oui,2023,,IQSS
+5c2c7968-6b25-44b3-b37d-07c1b1287517,1a324710-f339-4083-b498-fec0c27e40e5,,,,,,,,DI,,Facultatif,Oui,2023,,IQSS
+5c2c7968-6b25-44b3-b37d-07c1b1287517,dd1d6172-a9f8-47e9-8aef-28bc29e330ba,,,,,,,,DI,,Facultatif,Oui,2023,,IQSS
+e0d3ce5f-efa2-4810-a7d8-d229b3351c4b,9af914b1-1acf-4543-bfa0-3c6bbdc19f3e,,,,,,,,DI,,Facultatif,Oui,2023,,IQSS
+e0d3ce5f-efa2-4810-a7d8-d229b3351c4b,792ce290-e000-4a95-b8ec-fb90e5db9590,,,,,,,,DI,,Facultatif,Oui,2023,,IQSS
+001421eb-5133-49ec-ab26-32fb4389e39f,c0b0aefc-8ddc-461b-a7b4-b9f9d71d39f7,,,,,,,,DI,,Facultatif,Oui,2023,,IQSS
+001421eb-5133-49ec-ab26-32fb4389e39f,2a34d274-5d89-4102-8d6d-94c1be2b4e8c,,,,,,,,DI,,Facultatif,Oui,2023,,IQSS
+f3197fd9-758b-4dfe-8220-849dbab3c0f2,a6bb2e2f-cc74-4c0f-b3f5-58a0a7f55f84,,,,,,,,DI,,Facultatif,Oui,2023,,IQSS
+f3197fd9-758b-4dfe-8220-849dbab3c0f2,b0ea211a-65c2-4faa-97ed-75281df03c6a,,,,,,,,DI,,Facultatif,Oui,2023,,IQSS
+c9b68b4e-7d98-482c-bdcb-5ea4e3936bfd,3d7ab3a7-44b3-4a4d-8f19-0568325458db,,,,,,,,DI,,Facultatif,Oui,2023,,IQSS
+c9b68b4e-7d98-482c-bdcb-5ea4e3936bfd,2f7163a7-7493-40e8-a44c-45d04a6fe788,,,,,,,,DI,,Facultatif,Oui,2023,,IQSS
+af22d0f5-3248-4e2e-832e-4736255f4021,52f306a7-1772-4a96-ba77-37c02d7f0596,,,,,,,,DI,,Facultatif,Oui,2023,,IQSS
+af22d0f5-3248-4e2e-832e-4736255f4021,bf36df95-1d91-4b34-bf06-a12e7494d438,,,,,,,,DI,,Facultatif,Oui,2023,,IQSS
+4e1eb41b-ffb3-4add-a232-c6ff9567e89a,dec2d2ef-8303-49b4-afee-9df9723aa5c9,80.47,75.71,84.54,84.41,82.08,74.44,67.67,A,Amélioration,Facultatif,Oui,2023,,IQSS
+4e1eb41b-ffb3-4add-a232-c6ff9567e89a,f9fd2aed-8edf-46ac-9c18-4cec09b30e23,80.47,75.71,84.54,84.41,82.08,74.44,67.67,A,Amélioration,Facultatif,Oui,2023,,IQSS
+9e267282-42b1-4088-bad6-33d0bf24f1ae,a10edede-0936-47bf-9586-c6ad7a8ba316,,,,,,,,DI,,Facultatif,Oui,2023,,IQSS
+9e267282-42b1-4088-bad6-33d0bf24f1ae,e4870f01-8c77-4bf0-a866-4069103e5c74,,,,,,,,DI,,Facultatif,Oui,2023,,IQSS
+c8a5c783-4c21-46cb-ab8f-060900d48fb5,303f8ecf-36e2-4bf1-a0e8-24c22422d2cb,,,,,,,,DI,,Facultatif,Oui,2023,,IQSS
+c8a5c783-4c21-46cb-ab8f-060900d48fb5,138d42e1-d88d-48e9-8f01-4003aaba612b,,,,,,,,DI,,Facultatif,Oui,2023,,IQSS
+c85aadcc-648c-47ba-8576-d6610f67833c,f50cea40-9175-45d5-9594-8b78fb6732d8,80.63,75.71,88.29,84.37,74.06,80.37,72.43,A,Non calculable,Facultatif,Oui,2023,,IQSS
+c85aadcc-648c-47ba-8576-d6610f67833c,a9ed674f-1a7e-42b8-ac80-468645050b8c,80.63,75.71,88.29,84.37,74.06,80.37,72.43,A,Non calculable,Facultatif,Oui,2023,,IQSS
+2b78aa7f-ab77-40ba-9dea-d67a308cbcfc,b923d137-4324-4c5b-b360-5f2fa8f868a0,,,,,,,,DI,,Facultatif,Oui,2023,,IQSS
+2b78aa7f-ab77-40ba-9dea-d67a308cbcfc,3966f7b7-474b-4dbe-9e1e-1be17b240bee,,,,,,,,DI,,Facultatif,Oui,2023,,IQSS
+e8820453-64d7-4ef9-984d-84a8adf39cd7,8001187b-00ff-4516-862b-43b1ffadd11c,,,,,,,,DI,,Facultatif,Oui,2023,,IQSS
+e8820453-64d7-4ef9-984d-84a8adf39cd7,e2011f30-8e3c-49e3-8737-5d74a1e95e4e,,,,,,,,DI,,Facultatif,Oui,2023,,IQSS
+7e9138d9-e4f0-4d49-9814-71dbf27abbc0,b0612ddf-2ab3-402f-9319-289b551e27c3,,,,,,,,DI,,Facultatif,Oui,2023,,IQSS
+7e9138d9-e4f0-4d49-9814-71dbf27abbc0,74d9f7d1-7b33-4fdf-a74a-42bca4432c71,,,,,,,,DI,,Facultatif,Oui,2023,,IQSS
+60cc4a6c-9ce0-4456-bd03-260fc605d91d,a0fc608f-60b5-4ddf-8b04-ada153e5103d,,,,,,,,DI,,Facultatif,Oui,2023,,IQSS
+60cc4a6c-9ce0-4456-bd03-260fc605d91d,d1787914-7a2b-4613-b439-3c08f98a75b2,,,,,,,,DI,,Facultatif,Oui,2023,,IQSS
+f0b56edf-7464-4e4a-b362-aba9cb66eaf7,89724712-1c2a-4b05-9974-7f6bddeca0cf,,,,,,,,DI,,Facultatif,Oui,2023,,IQSS
+f0b56edf-7464-4e4a-b362-aba9cb66eaf7,f9d03bd3-b80d-4da2-a298-fbdb013cc368,,,,,,,,DI,,Facultatif,Oui,2023,,IQSS
+b09d6f3d-5adc-4f96-996b-85b36480fbc2,5cc3a64e-3549-4bb3-9e54-6c6290370b05,,,,,,,,DI,,Facultatif,Oui,2023,,IQSS
+b09d6f3d-5adc-4f96-996b-85b36480fbc2,d5a74b62-5512-49a7-8aad-11c0e30c6c44,,,,,,,,DI,,Facultatif,Oui,2023,,IQSS
+56709baf-1847-4cf9-97a4-0d603908d921,13c76221-711b-4320-8508-0a16a7dc4d1e,,,,,,,,DI,,Facultatif,Oui,2023,,IQSS
+56709baf-1847-4cf9-97a4-0d603908d921,f6af1b88-2187-4093-b9bd-9259ea0c9ad0,,,,,,,,DI,,Facultatif,Oui,2023,,IQSS
+8b6eca9a-9fad-4eca-b4e9-1a4f15da6d03,bbf30f22-bf05-48a4-9353-ed850efe7d7f,75.28,77.66,82.9,80.7,75.89,52.0,70.14,B,Stable,Facultatif,Oui,2023,,IQSS
+8b6eca9a-9fad-4eca-b4e9-1a4f15da6d03,d397c50f-8304-470e-b3b7-ad11b519c25c,75.28,77.66,82.9,80.7,75.89,52.0,70.14,B,Stable,Facultatif,Oui,2023,,IQSS
+65220c53-1c54-4c17-895b-f649617caa39,45660fbc-d73f-4859-b41a-620cc57bb734,,,,,,,,DI,,Facultatif,Oui,2023,,IQSS
+65220c53-1c54-4c17-895b-f649617caa39,647c9a21-8d5c-439e-9ad6-5b58f47b16b1,,,,,,,,DI,,Facultatif,Oui,2023,,IQSS
+881b7718-f143-4ec9-9441-aad6422ce730,99259973-1bee-4228-9194-df7ae16b18d0,84.2,77.66,90.62,89.49,82.53,65.39,79.66,A,Stable,Facultatif,Oui,2023,,IQSS
+881b7718-f143-4ec9-9441-aad6422ce730,958bdd5f-1ef1-4b7e-8cb8-f17498059bba,84.2,77.66,90.62,89.49,82.53,65.39,79.66,A,Stable,Facultatif,Oui,2023,,IQSS
+68d7db70-c940-4e34-9f82-8573e41f3574,0b28e9fe-1a05-4537-96d9-b45ea5e5155e,,,,,,,,DI,,Facultatif,Oui,2023,,IQSS
+68d7db70-c940-4e34-9f82-8573e41f3574,de1e9689-c465-4b97-85e3-48135dba08c1,,,,,,,,DI,,Facultatif,Oui,2023,,IQSS
+4aadb633-f927-4032-ba28-7429c630c9cf,a84b71ad-df7f-46c6-b806-727b7fa6e31c,,,,,,,,DI,,Facultatif,Oui,2023,,IQSS
+4aadb633-f927-4032-ba28-7429c630c9cf,a2eee385-473b-4627-8502-5c868ba5e646,,,,,,,,DI,,Facultatif,Oui,2023,,IQSS
+7123c31b-fdca-4dc7-984b-95a1c223bdc1,b783a24e-9763-4d80-9948-588593217b8e,,,,,,,,DI,,Facultatif,Oui,2023,,IQSS
+7123c31b-fdca-4dc7-984b-95a1c223bdc1,b35d91b9-4e38-4737-b15b-46b6572b54db,,,,,,,,DI,,Facultatif,Oui,2023,,IQSS
+9b90add6-8d1c-4d29-9d1a-95937caf86e9,7bacd1bc-04a1-4b39-8e31-4f0034a3029e,,,,,,,,DI,,Facultatif,Oui,2023,,IQSS
+9b90add6-8d1c-4d29-9d1a-95937caf86e9,4be2b26a-0d39-44eb-b580-38606177f91b,,,,,,,,DI,,Facultatif,Oui,2023,,IQSS
+7fcebd89-8fec-4bcf-a2db-9913caa1548e,cbac4720-82c2-4884-bc09-455c05776ca7,80.22,77.66,86.33,84.66,75.71,65.95,78.62,A,Stable,Obligatoire,Oui,2023,,IQSS
+7fcebd89-8fec-4bcf-a2db-9913caa1548e,492c99b8-8f26-41fa-ac30-e2da48de4288,80.22,77.66,86.33,84.66,75.71,65.95,78.62,A,Stable,Obligatoire,Oui,2023,,IQSS
+13552043-d069-4336-9953-a383c48f081a,bbce9a34-8442-453b-b5cc-255a2238c2e0,,,,,,,,DI,,Facultatif,Oui,2023,,IQSS
+13552043-d069-4336-9953-a383c48f081a,c49bb5eb-88be-4d4c-a587-9a3a6813e7e2,,,,,,,,DI,,Facultatif,Oui,2023,,IQSS
+0a4d9003-746a-40bf-8d89-2dce893a9a51,d70ea6c9-c1bd-4044-ad94-e85ea5182d79,,,,,,,,DI,,Facultatif,Oui,2023,,IQSS
+0a4d9003-746a-40bf-8d89-2dce893a9a51,3baac9b0-6447-4ccf-ab90-805865022a58,,,,,,,,DI,,Facultatif,Oui,2023,,IQSS
+d07a1a24-dc77-487a-8e50-020ed66631e5,6759508d-565c-4936-8a37-56a638ac4f38,,,,,,,,DI,,Facultatif,Oui,2023,,IQSS
+d07a1a24-dc77-487a-8e50-020ed66631e5,13bea495-0ae5-4072-b0fd-ff4823a61bfc,,,,,,,,DI,,Facultatif,Oui,2023,,IQSS
+2b22dab4-0617-4aba-adbc-a1e0104916c2,9c50ccee-8c2e-4942-ada4-26b8a9cfe4b6,,,,,,,,DI,,Facultatif,Oui,2023,,IQSS
+2b22dab4-0617-4aba-adbc-a1e0104916c2,f6cf9999-51f8-4490-9f1f-45d2b06fc382,,,,,,,,DI,,Facultatif,Oui,2023,,IQSS
+cc8152fc-b4fb-46c6-b4b1-cd95e0232b7b,04a709c0-6d4e-4453-ba0b-accb4bd598ea,,,,,,,,DI,,Facultatif,Oui,2023,,IQSS
+cc8152fc-b4fb-46c6-b4b1-cd95e0232b7b,7a05f991-b9b2-4a8b-928b-6342ba83a5fc,,,,,,,,DI,,Facultatif,Oui,2023,,IQSS
+c4db3c39-6b9e-467d-a54a-7bbb54096c13,f2825d94-f399-456d-be80-9893ec4c1529,,,,,,,,DI,,Facultatif,Oui,2023,,IQSS
+c4db3c39-6b9e-467d-a54a-7bbb54096c13,687892d7-c603-4dff-9153-731ac78986e9,,,,,,,,DI,,Facultatif,Oui,2023,,IQSS
+cd752f12-1161-4d2a-a991-ba5cc3b0a1a7,eb228fee-cc26-41a6-995b-a5b66591e265,,,,,,,,DI,,Facultatif,Oui,2023,,IQSS
+cd752f12-1161-4d2a-a991-ba5cc3b0a1a7,18d5f5b2-87af-41be-9344-93f4a6d482b6,,,,,,,,DI,,Facultatif,Oui,2023,,IQSS
+6960c807-7f41-4ad5-bcd9-e47849e98a94,5f1fedaf-ca28-4d35-96f9-169cfb26aa9b,,,,,,,,DI,,Facultatif,Oui,2023,,IQSS
+6960c807-7f41-4ad5-bcd9-e47849e98a94,2736c39f-a67b-40ad-ada9-9838d2d06702,,,,,,,,DI,,Facultatif,Oui,2023,,IQSS
+41e54f30-6ecf-4282-9a05-08d0a7e2546a,4398dd90-7e08-46e8-aef8-753563b1e75c,,,,,,,,DI,,Facultatif,Oui,2023,,IQSS
+41e54f30-6ecf-4282-9a05-08d0a7e2546a,c9bfade4-f2a5-4663-9826-fc93d7515b3e,,,,,,,,DI,,Facultatif,Oui,2023,,IQSS
+78392eee-a17a-4881-92ba-c5bc35854065,43a34254-0dd5-4897-a36b-93e1624c20c0,78.31,77.66,87.42,81.62,78.24,65.82,72.16,A,Amélioration,Obligatoire,Oui,2023,,IQSS
+78392eee-a17a-4881-92ba-c5bc35854065,db727d60-f45d-4a6f-8011-4f8483399617,78.31,77.66,87.42,81.62,78.24,65.82,72.16,A,Amélioration,Obligatoire,Oui,2023,,IQSS
+3b1e4113-4f72-4926-9163-cfec732588bf,f48820d1-e382-4565-ae6c-8e3930f2623f,79.7,77.66,89.21,82.97,78.76,72.87,71.04,A,Stable,Obligatoire,Oui,2023,,IQSS
+3b1e4113-4f72-4926-9163-cfec732588bf,7893882b-c0c0-4786-8b0c-b109d77671a2,79.7,77.66,89.21,82.97,78.76,72.87,71.04,A,Stable,Obligatoire,Oui,2023,,IQSS
+94325dde-563d-41f4-96df-3cb81167b288,b23fa9e5-50d6-456e-bd3b-4240cc89bb71,70.0,77.66,73.86,73.36,75.23,56.76,60.56,C,Non calculable,Obligatoire,Oui,2023,,IQSS
+94325dde-563d-41f4-96df-3cb81167b288,95c4b847-adc5-4dda-ba75-551ffeeb4ff6,70.0,77.66,73.86,73.36,75.23,56.76,60.56,C,Non calculable,Obligatoire,Oui,2023,,IQSS
+e38b3f67-d199-4506-9c5f-f5f7d66497ed,b878c791-5113-4d20-b4cb-c6f44f198f1a,72.08,77.66,77.87,76.07,70.06,61.2,66.82,C,Non calculable,Obligatoire,Oui,2023,,IQSS
+e38b3f67-d199-4506-9c5f-f5f7d66497ed,d8248ce1-88e5-42cf-92e5-1154bc4414e9,72.08,77.66,77.87,76.07,70.06,61.2,66.82,C,Non calculable,Obligatoire,Oui,2023,,IQSS
+5af0bb83-8b7c-4ccd-8755-6ea6fc4c499b,cc8eb734-f1ee-44c2-9253-9e7af7fdbe4f,,,,,,,,DI,,Facultatif,Oui,2023,,IQSS
+5af0bb83-8b7c-4ccd-8755-6ea6fc4c499b,60e962f3-5dae-452a-a7f4-3deb0d337d8d,,,,,,,,DI,,Facultatif,Oui,2023,,IQSS
+03bef993-967b-4c23-b76e-523182493fd6,9fe08102-0e9e-4bb1-b8fa-ea8dd03a3544,,,,,,,,DI,,Facultatif,Oui,2023,,IQSS
+03bef993-967b-4c23-b76e-523182493fd6,7450872a-2a87-4317-8316-0ede41926a34,,,,,,,,DI,,Facultatif,Oui,2023,,IQSS
+74589d54-8a32-4b48-a981-f858db023ab1,6059de1b-a8fc-4743-9fea-8ffa3505c7a9,79.29,77.66,87.38,84.89,78.15,62.08,70.57,A,Non calculable,Facultatif,Oui,2023,,IQSS
+74589d54-8a32-4b48-a981-f858db023ab1,0110da65-3dac-418e-ba8e-e21980db9889,79.29,77.66,87.38,84.89,78.15,62.08,70.57,A,Non calculable,Facultatif,Oui,2023,,IQSS
+b4912d13-4935-4be8-9e2a-c88901f40309,ff94f3c1-70c9-4eac-9b36-6554634f3ffc,,,,,,,,DI,,Facultatif,Oui,2023,,IQSS
+b4912d13-4935-4be8-9e2a-c88901f40309,ece70923-2be4-46cb-b608-e799371f2e97,,,,,,,,DI,,Facultatif,Oui,2023,,IQSS
+2f78bec9-405d-4575-814c-bc3eef597ec9,17490d9c-610f-4e67-9bf2-37a7633de937,,,,,,,,DI,,Facultatif,Oui,2023,,IQSS
+2f78bec9-405d-4575-814c-bc3eef597ec9,a716e234-713c-4c8d-a612-c472cb528401,,,,,,,,DI,,Facultatif,Oui,2023,,IQSS
+8d4cf165-e323-4c99-8130-baead3d45727,936fdaa8-4c0b-4143-899a-0db12ed25085,,,,,,,,DI,,Facultatif,Oui,2023,,IQSS
+8d4cf165-e323-4c99-8130-baead3d45727,2cbf93ed-bad2-4ed1-844e-cfc619d94e7a,,,,,,,,DI,,Facultatif,Oui,2023,,IQSS
+7115d578-6466-4775-af16-a8a995ad6e98,69d9b437-e7c0-4093-9d9c-6e31da314868,,,,,,,,NV,,Obligatoire,Oui,2023,,IQSS
+7115d578-6466-4775-af16-a8a995ad6e98,62da0e42-0ec9-45f9-8631-c13d5051f6dc,,,,,,,,NV,,Obligatoire,Oui,2023,,IQSS
+64f43c1c-87e5-4699-86d9-f8bbb7db9add,1b338b15-86de-4ea7-84cb-a1c0843ee65a,75.02,77.66,82.43,77.01,83.27,67.19,61.81,B,Non calculable,Facultatif,Oui,2023,,IQSS
+64f43c1c-87e5-4699-86d9-f8bbb7db9add,18089ce2-4138-4ac4-ac5f-ff57c902408a,75.02,77.66,82.43,77.01,83.27,67.19,61.81,B,Non calculable,Facultatif,Oui,2023,,IQSS
+8089f5d0-8e94-464c-97f5-66dd29b7e83b,0674cb3c-58c7-40c7-bbe5-6d90cd2d0ae1,,,,,,,,DI,,Facultatif,Oui,2023,,IQSS
+8089f5d0-8e94-464c-97f5-66dd29b7e83b,baebce07-cbd2-40fc-90fb-ab9950c757a5,,,,,,,,DI,,Facultatif,Oui,2023,,IQSS
+5acca1a7-971b-45b8-b670-d19dfbb55618,c31e9087-0bb8-4a3d-abaa-4244a2520df4,74.24,77.66,84.2,77.85,75.05,63.41,63.89,B,Non calculable,Facultatif,Oui,2023,,IQSS
+5acca1a7-971b-45b8-b670-d19dfbb55618,bf345d7d-3add-4831-8c8c-908d0d6af2f9,74.24,77.66,84.2,77.85,75.05,63.41,63.89,B,Non calculable,Facultatif,Oui,2023,,IQSS
+1b3f9f48-8c7b-4d5c-b506-754650243fee,6d6e6b28-c2e3-44ea-932d-cb9b8327181c,72.31,77.66,77.56,74.26,80.3,60.84,61.73,C,Stable,Obligatoire,Oui,2023,,IQSS
+1b3f9f48-8c7b-4d5c-b506-754650243fee,79dc8658-c65d-4df9-a4b7-30ecf3190f6d,72.31,77.66,77.56,74.26,80.3,60.84,61.73,C,Stable,Obligatoire,Oui,2023,,IQSS
+50d3c8b0-4d3f-4cf2-99a6-ba2f78a87f36,832bec54-1ec4-4915-ad7f-4cec738e4637,73.86,77.66,85.27,80.77,76.85,51.04,57.83,B,Stable,Facultatif,Oui,2023,,IQSS
+50d3c8b0-4d3f-4cf2-99a6-ba2f78a87f36,2e5fdf10-67f1-4b33-9712-a37c3f76f794,73.86,77.66,85.27,80.77,76.85,51.04,57.83,B,Stable,Facultatif,Oui,2023,,IQSS
+8b17587c-e39c-4973-a439-a142d29b39a9,fa4e30a5-c3be-4562-9645-8fbf74381b25,78.49,77.66,86.29,80.39,81.33,71.52,70.67,A,Stable,Facultatif,Oui,2023,,IQSS
+8b17587c-e39c-4973-a439-a142d29b39a9,a3a1d359-40ef-4054-8610-7d79ed5ecc02,78.49,77.66,86.29,80.39,81.33,71.52,70.67,A,Stable,Facultatif,Oui,2023,,IQSS
+f2253a36-4dfd-4da8-89f0-e7224cec7d9d,ec5ad7e6-fd2e-430f-a7a7-cdddccd915eb,,,,,,,,DI,,Facultatif,Oui,2023,,IQSS
+f2253a36-4dfd-4da8-89f0-e7224cec7d9d,94599a6c-41ff-4a0f-a01f-f0759830a59f,,,,,,,,DI,,Facultatif,Oui,2023,,IQSS
+69d54706-9a13-490e-88fd-271d2741a7aa,3aede916-bbcb-4d33-a764-e3816b509862,,,,,,,,DI,,Facultatif,Oui,2023,,IQSS
+69d54706-9a13-490e-88fd-271d2741a7aa,9b1c4bdc-2f8a-46ae-9d16-d2e653987413,,,,,,,,DI,,Facultatif,Oui,2023,,IQSS
+49372977-467d-4d2d-9682-d64035e50286,85257520-eb5c-4c1e-b600-11d3e60074fb,,,,,,,,DI,,Facultatif,Oui,2023,,IQSS
+49372977-467d-4d2d-9682-d64035e50286,1f8ca007-42ee-484e-b345-8c90a345b778,,,,,,,,DI,,Facultatif,Oui,2023,,IQSS
+940b87e9-c86b-435c-85e4-4c65a199fad8,7034324e-3257-4582-98e2-af62f1b5e9f4,80.59,75.16,87.91,82.57,83.41,73.6,72.66,A,Stable,Obligatoire,Oui,2023,,IQSS
+940b87e9-c86b-435c-85e4-4c65a199fad8,49af8546-bb0a-4275-856d-a6670a37eecc,80.59,75.16,87.91,82.57,83.41,73.6,72.66,A,Stable,Obligatoire,Oui,2023,,IQSS
+6da15b97-c036-45c7-8e81-f7f1b286c792,6e2ca007-f78b-45e0-bb5e-ac6451c4e5dd,,,,,,,,DI,,Facultatif,Oui,2023,,IQSS
+6da15b97-c036-45c7-8e81-f7f1b286c792,d2c969c1-5a5c-4d1e-a8a9-6dfad4efad0e,,,,,,,,DI,,Facultatif,Oui,2023,,IQSS
+d5e827bc-c0be-4256-b76f-3d9b05df9add,1db4d30b-7655-4532-84c9-bb8e78ae4a74,,,,,,,,DI,,Facultatif,Oui,2023,,IQSS
+d5e827bc-c0be-4256-b76f-3d9b05df9add,1d134a13-3081-4b6e-b60d-f0510ab1ecf3,,,,,,,,DI,,Facultatif,Oui,2023,,IQSS
+a8155457-51d7-4296-8b41-6d8edebf4aa3,96484756-e900-4abb-9958-53e6d24dd135,76.56,77.66,86.37,82.21,70.69,57.26,74.78,B,Non calculable,Facultatif,Oui,2023,,IQSS
+a8155457-51d7-4296-8b41-6d8edebf4aa3,002f0e9d-c2f0-45ca-b3e6-d5e0692895d1,76.56,77.66,86.37,82.21,70.69,57.26,74.78,B,Non calculable,Facultatif,Oui,2023,,IQSS
+72b5e309-373b-48a0-9ea5-a305b09a6cd5,eeecf91b-798f-4ba7-bd7b-acae87b0dd84,,,,,,,,DI,,Facultatif,Oui,2023,,IQSS
+72b5e309-373b-48a0-9ea5-a305b09a6cd5,5d8f8468-1536-4baa-8621-3ffd70cfcfb3,,,,,,,,DI,,Facultatif,Oui,2023,,IQSS
+4f243325-c4a3-4a69-a1d3-509527b847f3,0a0a1e66-2bf0-4d43-a00a-f42640564e5e,80.38,77.66,88.18,85.9,73.13,75.39,71.05,A,Stable,Facultatif,Oui,2023,,IQSS
+4f243325-c4a3-4a69-a1d3-509527b847f3,3104f8ea-74a1-4488-924b-776fe180233e,80.38,77.66,88.18,85.9,73.13,75.39,71.05,A,Stable,Facultatif,Oui,2023,,IQSS
+6e52b63c-ff27-4670-b64e-45ca366be8c1,ea04026d-4b2d-4249-a1b6-b485f3b5bbce,79.91,77.66,88.81,83.74,78.52,71.27,70.85,A,Stable,Obligatoire,Oui,2023,,IQSS
+6e52b63c-ff27-4670-b64e-45ca366be8c1,28683578-fee8-433a-8b6b-1d81dd91a711,79.91,77.66,88.81,83.74,78.52,71.27,70.85,A,Stable,Obligatoire,Oui,2023,,IQSS
+f1da3a75-267f-4f63-9089-fa563a7872bc,dc8ef9ab-2c77-416e-88b9-31541253b70d,,,,,,,,DI,,Facultatif,Oui,2023,,IQSS
+f1da3a75-267f-4f63-9089-fa563a7872bc,d27e0073-6705-47b0-a4e4-e121f7517dad,,,,,,,,DI,,Facultatif,Oui,2023,,IQSS
+dcd920bc-0cb0-428f-ac6e-328f42e751bd,24207153-72ad-4370-a12d-c39fa8e71867,74.38,77.66,79.48,78.46,77.0,60.25,65.65,B,Non calculable,Facultatif,Oui,2023,,IQSS
+dcd920bc-0cb0-428f-ac6e-328f42e751bd,a287cd60-678b-4c2d-8ce6-2d6f5b2456e2,74.38,77.66,79.48,78.46,77.0,60.25,65.65,B,Non calculable,Facultatif,Oui,2023,,IQSS
+9fd9002b-47fb-45f3-b4da-a580aacde22b,dd9987d4-6e0e-47ad-ad8a-73069850dd74,76.24,77.66,83.02,79.95,77.82,67.5,64.93,B,Stable,Facultatif,Oui,2023,,IQSS
+9fd9002b-47fb-45f3-b4da-a580aacde22b,9616e65c-2642-416b-b751-390d0d0e448a,76.24,77.66,83.02,79.95,77.82,67.5,64.93,B,Stable,Facultatif,Oui,2023,,IQSS
+b2973fdc-cfe4-4a0e-be4c-8e4cc176b3b2,abbb82f5-6b0a-4ff8-8c48-d3cca01fe82c,,,,,,,,NV,,Obligatoire,Oui,2023,,IQSS
+b2973fdc-cfe4-4a0e-be4c-8e4cc176b3b2,127dc5ed-5745-4189-9daf-f7d08d8a0067,,,,,,,,NV,,Obligatoire,Oui,2023,,IQSS
+898c518f-bd81-46ff-8488-a241ce4c1726,fe84876f-b0ee-4e0c-84f3-86cbd671af26,79.86,77.66,85.32,83.28,80.89,66.13,74.85,A,Stable,Obligatoire,Oui,2023,,IQSS
+898c518f-bd81-46ff-8488-a241ce4c1726,9608fa67-fa0f-40e3-b845-d205b3967160,79.86,77.66,85.32,83.28,80.89,66.13,74.85,A,Stable,Obligatoire,Oui,2023,,IQSS
+acbcc1b8-a405-4c87-8754-f0be3d29f72e,6b334cc0-edfc-4d1e-ae9c-375a65196ed3,,,,,,,,DI,,Facultatif,Oui,2023,,IQSS
+acbcc1b8-a405-4c87-8754-f0be3d29f72e,86b6f916-8b6a-4995-8880-3abf8c3e2ebf,,,,,,,,DI,,Facultatif,Oui,2023,,IQSS
+fa986895-36a4-4872-aa08-2f4fa3e8eca8,1a876bab-6c6a-486f-8d94-c66586313dc5,,,,,,,,DI,,Facultatif,Oui,2023,,IQSS
+fa986895-36a4-4872-aa08-2f4fa3e8eca8,15c076ee-d5ec-4ded-bebc-7937205756e7,,,,,,,,DI,,Facultatif,Oui,2023,,IQSS
+7f001d98-9856-4c4a-8980-3d934d5c02fb,7820f603-3b01-4c38-b2b7-5eace3c292c2,83.0,77.66,88.4,89.45,75.31,65.75,81.1,A,Stable,Facultatif,Oui,2023,,IQSS
+7f001d98-9856-4c4a-8980-3d934d5c02fb,47c73a64-ba62-4604-8fab-43a8b3ba5301,83.0,77.66,88.4,89.45,75.31,65.75,81.1,A,Stable,Facultatif,Oui,2023,,IQSS
+53848465-7b95-4bda-94c8-c2432973e769,71628a6e-d9a3-4d6a-b6af-cabb55837012,,,,,,,,DI,,Facultatif,Oui,2023,,IQSS
+53848465-7b95-4bda-94c8-c2432973e769,6b8304b4-0eb1-4191-95bf-6c921a2a7f98,,,,,,,,DI,,Facultatif,Oui,2023,,IQSS
+54ac922e-ad12-491d-9967-87faa9299600,5ecf1719-88f4-4354-a20e-330bb87c67d5,,,,,,,,DI,,Facultatif,Oui,2023,,IQSS
+54ac922e-ad12-491d-9967-87faa9299600,2f93fc5f-3e1b-444e-912c-577f9370642f,,,,,,,,DI,,Facultatif,Oui,2023,,IQSS
+65b828ad-bad8-41a7-98e3-54b2e05a611f,d0b9f5e7-4ede-49a2-adcb-24ef1c11709e,,,,,,,,DI,,Facultatif,Oui,2023,,IQSS
+65b828ad-bad8-41a7-98e3-54b2e05a611f,3fca3548-3f6d-47ed-849e-a885915d1f02,,,,,,,,DI,,Facultatif,Oui,2023,,IQSS
+bc1551b1-5fec-480b-b49e-a2c54a98d899,85bffb73-39f7-4ba6-a4f7-4ed2a9e35a15,78.01,76.02,84.92,78.44,81.27,76.5,70.83,A,Amélioration,Obligatoire,Oui,2023,,IQSS
+bc1551b1-5fec-480b-b49e-a2c54a98d899,df023ded-1b0a-47a2-a755-19b25d3a648b,78.01,76.02,84.92,78.44,81.27,76.5,70.83,A,Amélioration,Obligatoire,Oui,2023,,IQSS
+a7f6f0be-07fe-49cd-ace4-f853b867cfb6,dcc84627-a1eb-45f3-9dc5-23a546b479e9,79.24,76.02,87.49,81.83,75.22,76.28,73.78,A,Amélioration,Facultatif,Oui,2023,,IQSS
+a7f6f0be-07fe-49cd-ace4-f853b867cfb6,26dbe4d9-1a67-4706-a977-19ccf95e7587,79.24,76.02,87.49,81.83,75.22,76.28,73.78,A,Amélioration,Facultatif,Oui,2023,,IQSS
+f2b4060a-269a-45d0-8e85-d48ed3d16989,db3dd592-6db5-4731-ac6c-020f895247ef,72.17,76.02,75.9,74.61,76.94,66.96,60.78,C,Non calculable,Obligatoire,Oui,2023,,IQSS
+f2b4060a-269a-45d0-8e85-d48ed3d16989,c6a46135-e053-4c2d-aaf4-2b5d923de272,72.17,76.02,75.9,74.61,76.94,66.96,60.78,C,Non calculable,Obligatoire,Oui,2023,,IQSS
+13553aee-d57f-45b3-9f36-3cf873653907,1427c6cf-d7bc-4d06-bd52-b0db2d310dbd,70.42,76.02,77.51,71.24,73.98,73.75,58.44,C,Diminution,Facultatif,Oui,2023,,IQSS
+13553aee-d57f-45b3-9f36-3cf873653907,a2a5d2a3-c7d2-4393-93bb-90747f41f020,70.42,76.02,77.51,71.24,73.98,73.75,58.44,C,Diminution,Facultatif,Oui,2023,,IQSS
+ef5d849e-575d-4ffc-9af8-f9a37caa7a53,9d286b3e-cb11-41c5-9a9b-d98c52800568,,,,,,,,DI,,Facultatif,Oui,2023,,IQSS
+ef5d849e-575d-4ffc-9af8-f9a37caa7a53,87219c4d-530e-4dbf-9335-2b146758bea0,,,,,,,,DI,,Facultatif,Oui,2023,,IQSS
+a4a5542d-31b4-4b59-908c-a71ba90f273d,fa4a5bda-33a2-4103-af65-bc94831b9123,,,,,,,,DI,,Facultatif,Oui,2023,,IQSS
+a4a5542d-31b4-4b59-908c-a71ba90f273d,dfe695c1-e3cb-40e6-958c-1927c14d6700,,,,,,,,DI,,Facultatif,Oui,2023,,IQSS
+6f736f47-16dd-4ca9-980b-9cedf7999fcf,535c0c81-84b2-4b7b-8848-87a3077c7fdc,,,,,,,,DI,,Facultatif,Oui,2023,,IQSS
+6f736f47-16dd-4ca9-980b-9cedf7999fcf,131f55eb-785e-4723-bd61-ea4099e974c6,,,,,,,,DI,,Facultatif,Oui,2023,,IQSS
+2c0f197f-40b8-4c68-b757-bead0ab99331,7c9f53b2-9bec-4ac5-96a8-c6ff4b2899ef,,,,,,,,DI,,Facultatif,Oui,2023,,IQSS
+2c0f197f-40b8-4c68-b757-bead0ab99331,43589c7f-1b8e-4781-8a47-83c1d7b6aca2,,,,,,,,DI,,Facultatif,Oui,2023,,IQSS
+52ac6946-5bb4-469f-a6f0-d4055fc8a6a8,76e025e9-4ee6-449a-ae06-c36d18c180db,,,,,,,,DI,,Facultatif,Oui,2023,,IQSS
+52ac6946-5bb4-469f-a6f0-d4055fc8a6a8,924e9b0e-18d9-4cc9-a768-36b94bd0e98e,,,,,,,,DI,,Facultatif,Oui,2023,,IQSS
+abf00f36-a92d-465c-b101-1ab6c4040ae6,4924eb72-3d79-4410-b92e-553d3e959788,,,,,,,,NV,,Obligatoire,Oui,2023,,IQSS
+abf00f36-a92d-465c-b101-1ab6c4040ae6,674e6129-6cfb-4cd0-8133-e928aeaf7c94,,,,,,,,NV,,Obligatoire,Oui,2023,,IQSS
+8f292745-33fe-4b19-9b9a-f28b04a31ae8,fdc1b0b0-8a16-4a33-adb4-8299e8425950,77.98,76.84,85.88,80.54,78.59,70.31,70.75,A,Amélioration,Obligatoire,Oui,2023,,IQSS
+8f292745-33fe-4b19-9b9a-f28b04a31ae8,19855662-1f99-4dcc-bf78-33be0562a0ba,77.98,76.84,85.88,80.54,78.59,70.31,70.75,A,Amélioration,Obligatoire,Oui,2023,,IQSS
+bea0af3d-fbf0-42d7-98f9-abe1f872c9d8,24a937c7-adec-4505-8400-66e9ddd10fdf,76.98,76.84,83.66,79.98,81.77,69.76,63.14,A,Stable,Obligatoire,Oui,2023,,IQSS
+bea0af3d-fbf0-42d7-98f9-abe1f872c9d8,c3b43daa-e031-4122-9c81-5de4175d6026,76.98,76.84,83.66,79.98,81.77,69.76,63.14,A,Stable,Obligatoire,Oui,2023,,IQSS
+e1516026-aae4-4247-aa4a-6ed92212fb85,d4666984-f7db-4711-8cc8-affd547f6fe4,82.93,76.84,89.49,86.32,82.81,70.52,77.79,A,Stable,Obligatoire,Oui,2023,,IQSS
+e1516026-aae4-4247-aa4a-6ed92212fb85,b72312e5-6ac0-4765-8b1d-419543855ab7,82.93,76.84,89.49,86.32,82.81,70.52,77.79,A,Stable,Obligatoire,Oui,2023,,IQSS
+6092cfaf-3722-482a-9148-5f60d9d46eab,dae94a39-f97c-4bb9-b66e-f2280c88fea2,81.32,76.84,88.39,85.08,78.37,75.84,73.66,A,Amélioration,Facultatif,Oui,2023,,IQSS
+6092cfaf-3722-482a-9148-5f60d9d46eab,d33baeac-0144-4848-badd-42e7ddacf973,81.32,76.84,88.39,85.08,78.37,75.84,73.66,A,Amélioration,Facultatif,Oui,2023,,IQSS
+7d114174-e922-40f0-98f6-0455dabd2424,bd0e199d-f1f6-4f28-bb15-06b92f286453,,,,,,,,DI,,Facultatif,Oui,2023,,IQSS
+7d114174-e922-40f0-98f6-0455dabd2424,7e688527-362b-4725-8eea-f90920a8aa17,,,,,,,,DI,,Facultatif,Oui,2023,,IQSS
+25a2d4c8-ced2-4e31-86f5-6009d1669b2f,0f2b19fb-e751-4037-a3c8-7da9fa3cea28,80.41,76.84,86.53,82.58,79.98,80.35,71.17,A,Stable,Obligatoire,Oui,2023,,IQSS
+25a2d4c8-ced2-4e31-86f5-6009d1669b2f,3a8bc6ae-f0f4-4145-aac8-c7e2e5481b26,80.41,76.84,86.53,82.58,79.98,80.35,71.17,A,Stable,Obligatoire,Oui,2023,,IQSS
+539d1f24-a5a9-4217-92a7-16542477b728,c3c27ca7-28d7-4688-9ef9-0edb28fb449a,80.74,76.84,86.61,82.45,83.72,79.96,69.72,A,Non calculable,Obligatoire,Oui,2023,,IQSS
+539d1f24-a5a9-4217-92a7-16542477b728,46822835-500c-4f24-a033-0697c9472acd,80.74,76.84,86.61,82.45,83.72,79.96,69.72,A,Non calculable,Obligatoire,Oui,2023,,IQSS
+50239b81-a229-4386-b300-6905273894dd,b8803019-15f4-4881-8640-1b44fd7229d6,78.93,76.84,85.76,83.44,78.26,64.56,72.08,A,Amélioration,Obligatoire,Oui,2023,,IQSS
+50239b81-a229-4386-b300-6905273894dd,1cc7a535-9533-452c-907a-93197d9eadb3,78.93,76.84,85.76,83.44,78.26,64.56,72.08,A,Amélioration,Obligatoire,Oui,2023,,IQSS
+645f5177-3e26-4952-bff7-0496f69ca8f3,6464e8df-0a3c-4f23-8fdc-a33568710b2e,72.19,76.84,78.54,77.12,76.59,56.45,60.13,C,Diminution,Facultatif,Oui,2023,,IQSS
+645f5177-3e26-4952-bff7-0496f69ca8f3,9c951997-596d-4ce4-896d-0585f60ff293,72.19,76.84,78.54,77.12,76.59,56.45,60.13,C,Diminution,Facultatif,Oui,2023,,IQSS
+74de2bae-e456-4892-9647-de3f62ca2407,00092410-240d-4151-be7f-985e15a1b458,74.65,76.84,81.24,76.85,77.28,64.67,68.7,B,Stable,Facultatif,Oui,2023,,IQSS
+74de2bae-e456-4892-9647-de3f62ca2407,2007a9ee-d41e-43f5-8a6d-9e5ebcbb6d90,74.65,76.84,81.24,76.85,77.28,64.67,68.7,B,Stable,Facultatif,Oui,2023,,IQSS
+70ca6034-0c61-47d9-89f4-58e0640059fe,90d87033-8798-4825-b0c7-148f204b736d,81.42,76.84,86.72,85.4,78.54,73.37,74.63,A,Stable,Obligatoire,Oui,2023,,IQSS
+70ca6034-0c61-47d9-89f4-58e0640059fe,cfbca34d-22f2-4dc9-a2ff-094fb5fc9050,81.42,76.84,86.72,85.4,78.54,73.37,74.63,A,Stable,Obligatoire,Oui,2023,,IQSS
+1b3729ef-5cac-4c9b-85f5-d57488b756a1,b414ec7b-70c3-4876-b34c-985b829a388c,,,,,,,,DI,,Obligatoire,Oui,2023,,IQSS
+1b3729ef-5cac-4c9b-85f5-d57488b756a1,f9265c65-3d06-4149-a783-ca22d365b362,,,,,,,,DI,,Obligatoire,Oui,2023,,IQSS
+c2d43a9c-a498-402c-81ba-9206174daeb6,d5da7a25-8c23-473c-83f0-c9a341712ab3,,,,,,,,DI,,Facultatif,Oui,2023,,IQSS
+c2d43a9c-a498-402c-81ba-9206174daeb6,4949e2bb-3b28-4d33-80e5-0eea53a4c4e9,,,,,,,,DI,,Facultatif,Oui,2023,,IQSS
+416a6fef-33b5-4798-940a-72977bc4925e,4ebd6dd8-0105-4059-afc5-6e18d2e7bed3,,,,,,,,DI,,Facultatif,Oui,2023,,IQSS
+416a6fef-33b5-4798-940a-72977bc4925e,b6d23706-8be5-4a1e-88e7-91a553c31346,,,,,,,,DI,,Facultatif,Oui,2023,,IQSS
+058c9615-7c0d-4280-a085-f920b6ae707c,6bdc9841-442d-4988-82ed-9259e42e30b9,82.63,75.19,85.84,85.13,81.6,79.82,76.07,A,Stable,Facultatif,Oui,2023,,IQSS
+058c9615-7c0d-4280-a085-f920b6ae707c,4dad4754-8342-4cb4-b2df-43948d6f745a,82.63,75.19,85.84,85.13,81.6,79.82,76.07,A,Stable,Facultatif,Oui,2023,,IQSS
+61f678e4-a71f-4445-b008-5772d95b1167,2f8f7af5-3283-41ab-96b7-a01154586bb8,78.16,75.19,84.57,78.65,81.48,78.41,70.13,A,Non calculable,Facultatif,Oui,2023,,IQSS
+61f678e4-a71f-4445-b008-5772d95b1167,4515b4a1-a2f9-419f-b98a-2ac3d3a1e75a,78.16,75.19,84.57,78.65,81.48,78.41,70.13,A,Non calculable,Facultatif,Oui,2023,,IQSS
+72a49a25-a620-4bf5-8d8b-97f63f5c7dda,b320a596-b686-48ff-b9d2-a1aa54a2ac28,75.98,75.19,82.79,80.86,81.35,51.82,67.24,B,Stable,Obligatoire,Oui,2023,,IQSS
+72a49a25-a620-4bf5-8d8b-97f63f5c7dda,37a1a73a-7da2-47f7-934a-94313d0e8b61,75.98,75.19,82.79,80.86,81.35,51.82,67.24,B,Stable,Obligatoire,Oui,2023,,IQSS
+ae487099-561d-4dc8-97ff-c6969539a6d2,26e28292-0ae2-40e9-8b50-23bb1c0e7284,77.02,75.19,85.71,81.22,70.03,77.41,67.6,A,Amélioration,Obligatoire,Oui,2023,,IQSS
+ae487099-561d-4dc8-97ff-c6969539a6d2,386cd6d6-fe2e-406d-9a60-4623f5ac1dcb,77.02,75.19,85.71,81.22,70.03,77.41,67.6,A,Amélioration,Obligatoire,Oui,2023,,IQSS
+a96ac9d2-1223-4480-a5a9-291c05744c17,21b8b48a-2294-4fd0-b2e7-ec549b16ea1d,74.56,75.19,83.16,77.62,77.16,64.27,63.78,B,Stable,Facultatif,Oui,2023,,IQSS
+a96ac9d2-1223-4480-a5a9-291c05744c17,fa4eb0eb-c443-48e1-866f-9e7bc94d1d50,74.56,75.19,83.16,77.62,77.16,64.27,63.78,B,Stable,Facultatif,Oui,2023,,IQSS
+f6befee0-b63e-4473-903c-3102ff0a475d,853c1184-562b-415b-8c92-e2b51c0f01a8,74.49,75.19,80.96,79.25,74.7,59.33,66.5,B,Stable,Obligatoire,Oui,2023,,IQSS
+f6befee0-b63e-4473-903c-3102ff0a475d,4800ee59-828f-42ac-87b7-3dccab2166b8,74.49,75.19,80.96,79.25,74.7,59.33,66.5,B,Stable,Obligatoire,Oui,2023,,IQSS
+59ecb11a-03bb-48ba-b615-11a4ebc49631,c57caec6-b99d-4e5d-9daa-b6d054f27610,74.1,75.19,80.85,77.12,73.9,69.34,65.45,B,Stable,Obligatoire,Oui,2023,,IQSS
+59ecb11a-03bb-48ba-b615-11a4ebc49631,17501828-e10e-4328-9ebb-299d22e230f0,74.1,75.19,80.85,77.12,73.9,69.34,65.45,B,Stable,Obligatoire,Oui,2023,,IQSS
+921a4b85-009e-4749-bac5-4836adbbd68a,c767d7ec-f17c-4d10-9587-66a75c78da7d,74.96,75.19,79.29,78.45,77.48,65.4,65.41,B,Amélioration,Facultatif,Oui,2023,,IQSS
+921a4b85-009e-4749-bac5-4836adbbd68a,b8018698-53f3-4ca7-8615-9420ef4a752d,74.96,75.19,79.29,78.45,77.48,65.4,65.41,B,Amélioration,Facultatif,Oui,2023,,IQSS
+f2c90a0b-54b1-4d0e-91eb-2a46cc2a4226,5f073b41-5683-4fed-8ae3-3ccc0e5537ac,74.27,75.19,80.4,76.9,75.56,65.37,67.8,B,Amélioration,Facultatif,Oui,2023,,IQSS
+f2c90a0b-54b1-4d0e-91eb-2a46cc2a4226,67deed1f-42fa-4fbe-aaef-fb5c997e3798,74.27,75.19,80.4,76.9,75.56,65.37,67.8,B,Amélioration,Facultatif,Oui,2023,,IQSS
+c18fa900-407d-45af-ab33-132795e3e7fb,a4accc10-2b29-4ec2-aecb-57fe4a61712b,76.15,75.19,80.49,78.61,77.97,69.74,68.15,B,Amélioration,Obligatoire,Oui,2023,,IQSS
+c18fa900-407d-45af-ab33-132795e3e7fb,3d565bd8-0fda-47bd-a026-4dda60cfc364,76.15,75.19,80.49,78.61,77.97,69.74,68.15,B,Amélioration,Obligatoire,Oui,2023,,IQSS
+cecdba16-25e1-4a87-90a3-070f148647a2,e4dde28f-67be-47b0-8a69-58503d7b0c8d,66.76,75.19,72.32,69.54,67.2,58.71,60.95,D,Non calculable,Obligatoire,Oui,2023,,IQSS
+cecdba16-25e1-4a87-90a3-070f148647a2,1a0119b3-3a60-4e90-bc79-66ff003a682c,66.76,75.19,72.32,69.54,67.2,58.71,60.95,D,Non calculable,Obligatoire,Oui,2023,,IQSS
+5be5b6c8-f102-44f0-bf32-2cd41b93aa2b,db95bf91-5ef1-4639-aa34-cf5579d63e96,,,,,,,,DI,,Facultatif,Oui,2023,,IQSS
+5be5b6c8-f102-44f0-bf32-2cd41b93aa2b,c1dbea2d-13d5-4d5b-9fff-bb9115fa0aaf,,,,,,,,DI,,Facultatif,Oui,2023,,IQSS
+a5f9c879-90dd-40cd-9c32-411dd35a544a,6f7cb6fb-870a-44b1-b3e1-786c344790d8,,,,,,,,DI,,Facultatif,Oui,2023,,IQSS
+a5f9c879-90dd-40cd-9c32-411dd35a544a,f94f279b-0477-40af-be1b-3be541d28b97,,,,,,,,DI,,Facultatif,Oui,2023,,IQSS
+80888223-6c72-4612-be63-3e8c919b4085,da30bc68-0594-47a5-ba00-e6528232c58a,58.09,75.71,54.93,57.68,67.68,54.65,51.22,D,Stable,Facultatif,Oui,2023,,IQSS
+80888223-6c72-4612-be63-3e8c919b4085,bb38ad1e-6f26-4bc2-8dbf-bdff0e5ebf66,58.09,75.71,54.93,57.68,67.68,54.65,51.22,D,Stable,Facultatif,Oui,2023,,IQSS
+bbe5b1b0-fb4c-472c-a23d-6cd5f00f65dd,4edd58c5-d8a0-4381-8785-7cbd10919344,78.75,75.71,83.12,82.5,79.79,68.96,70.95,A,Stable,Facultatif,Oui,2023,,IQSS
+bbe5b1b0-fb4c-472c-a23d-6cd5f00f65dd,d48a847f-6e73-4dac-b7c6-bd18305300f8,78.75,75.71,83.12,82.5,79.79,68.96,70.95,A,Stable,Facultatif,Oui,2023,,IQSS
+a16eeb54-6ec6-4246-92f2-2f4ca672bfb6,7df781b5-5dc9-4517-8749-ed0f97e98f72,77.91,75.71,87.61,82.86,73.56,63.81,72.47,A,Stable,Facultatif,Oui,2023,,IQSS
+a16eeb54-6ec6-4246-92f2-2f4ca672bfb6,25f923ac-dc47-4ac6-bc3a-2451ff0c06d5,77.91,75.71,87.61,82.86,73.56,63.81,72.47,A,Stable,Facultatif,Oui,2023,,IQSS
+7b8503f5-efdb-47ca-ad3d-eac2a79d6d28,876abaef-d284-4b56-b42e-ddcf4a360444,67.46,75.71,83.6,67.85,70.41,57.51,61.38,D,Diminution,Facultatif,Oui,2023,,IQSS
+7b8503f5-efdb-47ca-ad3d-eac2a79d6d28,4fe15983-0762-41d5-9041-ce8cb1a4e292,67.46,75.71,83.6,67.85,70.41,57.51,61.38,D,Diminution,Facultatif,Oui,2023,,IQSS
+0729115b-d008-4a4a-adf1-e15e82ebd3d1,8783f377-3e75-47ea-9d2a-1612a77c6fea,75.87,75.71,82.77,78.09,75.92,77.94,63.67,B,Amélioration,Obligatoire,Oui,2023,,IQSS
+0729115b-d008-4a4a-adf1-e15e82ebd3d1,d7c3160a-d4d5-4b84-afdd-110c8e44942f,75.87,75.71,82.77,78.09,75.92,77.94,63.67,B,Amélioration,Obligatoire,Oui,2023,,IQSS
+68633777-81c5-478d-91ac-ef050308a1d7,4cb17702-9106-43af-9efa-1261bf422b38,,,,,,,,DI,,Facultatif,Oui,2023,,IQSS
+68633777-81c5-478d-91ac-ef050308a1d7,91b12857-69bc-405e-9235-27bc9f7e202a,,,,,,,,DI,,Facultatif,Oui,2023,,IQSS
+60051ba1-75e4-48da-81d4-0a6e7bbfd773,ee47a487-5176-4854-b3aa-7e2244f848fc,77.29,75.71,83.0,79.95,78.96,70.89,69.85,A,Amélioration,Facultatif,Oui,2023,,IQSS
+60051ba1-75e4-48da-81d4-0a6e7bbfd773,4784fafb-a85c-4b39-86e7-b4c41295d652,77.29,75.71,83.0,79.95,78.96,70.89,69.85,A,Amélioration,Facultatif,Oui,2023,,IQSS
+56bc8b09-ae5d-4b18-9f59-7ddc91084df7,ee75bb0f-6122-40e9-8728-7a903b71fa77,,,,,,,,DI,,Facultatif,Oui,2023,,IQSS
+56bc8b09-ae5d-4b18-9f59-7ddc91084df7,0abd4668-dab2-4c30-aa29-ad64b6dfd6d8,,,,,,,,DI,,Facultatif,Oui,2023,,IQSS
+699e2401-0524-4710-93c7-97b564b41520,b6e1dd58-7374-4ef9-bf5e-97eeeae7614d,78.15,75.71,85.33,80.26,76.27,75.33,72.2,A,Amélioration,Obligatoire,Oui,2023,,IQSS
+699e2401-0524-4710-93c7-97b564b41520,5a47bc73-ae12-45d6-ba4d-3f82f47632e3,78.15,75.71,85.33,80.26,76.27,75.33,72.2,A,Amélioration,Obligatoire,Oui,2023,,IQSS
+844075e4-f028-4780-93ef-e934a1689ba6,7f10b669-0c2b-4bf5-9c8e-55c4cb686426,,,,,,,,DI,,Facultatif,Oui,2023,,IQSS
+844075e4-f028-4780-93ef-e934a1689ba6,404a9443-cd94-4ca0-9fa1-48a03fc4f11f,,,,,,,,DI,,Facultatif,Oui,2023,,IQSS
+b00b5d51-556c-44c5-aa60-7f55d0829e39,57514648-5fcc-4b97-9705-340649840a13,,,,,,,,DI,,Facultatif,Oui,2023,,IQSS
+b00b5d51-556c-44c5-aa60-7f55d0829e39,be24dc21-cfed-425e-ad32-133fd680ff85,,,,,,,,DI,,Facultatif,Oui,2023,,IQSS
+55ee5bef-4b43-4834-9c5b-228d1d76cc19,53aac384-2937-45f3-9e5e-c51022fa3157,77.55,75.71,86.45,80.25,77.86,77.31,64.39,A,Non calculable,Obligatoire,Oui,2023,,IQSS
+55ee5bef-4b43-4834-9c5b-228d1d76cc19,411a7b1c-c1db-44fb-8ffe-f34906f0bc27,77.55,75.71,86.45,80.25,77.86,77.31,64.39,A,Non calculable,Obligatoire,Oui,2023,,IQSS
+e15e1d0c-018b-4ad2-90d4-7cee4ddc185f,345b131d-1ede-4020-8192-c1e1b33d4d18,77.88,75.71,84.81,82.07,75.39,72.41,68.5,A,Stable,Obligatoire,Oui,2023,,IQSS
+e15e1d0c-018b-4ad2-90d4-7cee4ddc185f,1d89d839-aa5f-4fa7-847a-c8a4d26aa753,77.88,75.71,84.81,82.07,75.39,72.41,68.5,A,Stable,Obligatoire,Oui,2023,,IQSS
+6976f44b-a4e9-4e35-8270-ca93b3bf5659,89f51612-d577-4f1f-8227-c7f6b3b0e520,,,,,,,,DI,,Facultatif,Oui,2023,,IQSS
+6976f44b-a4e9-4e35-8270-ca93b3bf5659,6de333bd-9dc6-40b9-850b-ba55a8f90d53,,,,,,,,DI,,Facultatif,Oui,2023,,IQSS
+a5abc358-367b-45ba-a5bd-390e172ee582,8811b049-84a9-40fa-8cbd-e7d3ff812894,,,,,,,,DI,,Facultatif,Oui,2023,,IQSS
+a5abc358-367b-45ba-a5bd-390e172ee582,0f4a6efd-8e1b-4142-ada1-f5764ebea87a,,,,,,,,DI,,Facultatif,Oui,2023,,IQSS
+d5741f42-e2e3-44c6-a788-f04017769f7a,56bfd99b-562f-48be-9188-fc2ff944adbe,68.68,75.71,72.35,68.33,74.8,69.31,60.06,C,Amélioration,Facultatif,Oui,2023,,IQSS
+d5741f42-e2e3-44c6-a788-f04017769f7a,4a98a45a-d119-49bc-8f75-9b50405a5c25,68.68,75.71,72.35,68.33,74.8,69.31,60.06,C,Amélioration,Facultatif,Oui,2023,,IQSS
+b9a621b8-262a-412c-8df1-8ec610637c4c,193f8e76-d9e8-4e84-ba2a-794d6bdbb39a,81.78,75.71,86.86,83.31,83.54,81.04,73.33,A,Stable,Obligatoire,Oui,2023,,IQSS
+b9a621b8-262a-412c-8df1-8ec610637c4c,b08908b6-83bd-4368-a7f4-b3c9060f4a0c,81.78,75.71,86.86,83.31,83.54,81.04,73.33,A,Stable,Obligatoire,Oui,2023,,IQSS
+ef9b010d-fcb5-45f5-9c17-cef4417f96dc,2915530e-cc76-4371-b106-3dc321d80f81,,,,,,,,DI,,Facultatif,Oui,2023,,IQSS
+ef9b010d-fcb5-45f5-9c17-cef4417f96dc,89dee675-b137-4072-9589-02a55a17a7ce,,,,,,,,DI,,Facultatif,Oui,2023,,IQSS
+cd24a073-ddec-4b5c-903e-e04fbc60f8e3,0e6047c9-7c46-4db3-8d45-c585f0cd7afb,,,,,,,,DI,,Facultatif,Oui,2023,,IQSS
+cd24a073-ddec-4b5c-903e-e04fbc60f8e3,69173209-a039-4d19-929f-0a733cbe448f,,,,,,,,DI,,Facultatif,Oui,2023,,IQSS
+1eccfed3-d7d2-4a80-8404-e1dc30b18997,a5ee4478-faf5-45f7-9cdb-4f641c5a9dea,,,,,,,,DI,,Facultatif,Oui,2023,,IQSS
+1eccfed3-d7d2-4a80-8404-e1dc30b18997,aa56b359-f874-465c-af45-6fd4940f4ef2,,,,,,,,DI,,Facultatif,Oui,2023,,IQSS
+35bb66ad-0fa5-4449-8dc3-ad930d648f94,a1900b88-8da3-4721-a235-a6e2c1c87d62,,,,,,,,DI,,Facultatif,Oui,2023,,IQSS
+35bb66ad-0fa5-4449-8dc3-ad930d648f94,195c7ec7-d177-47a8-b33f-15ef991ea4ee,,,,,,,,DI,,Facultatif,Oui,2023,,IQSS
+9f0cc038-84a6-4773-a650-748e72c70b46,46a7d1b0-007c-4ae3-8bd0-872af0aa6fa5,74.31,76.02,79.56,77.34,75.26,68.44,65.37,B,Stable,Obligatoire,Oui,2023,,IQSS
+9f0cc038-84a6-4773-a650-748e72c70b46,c2353d65-f066-43d6-bd94-8282076bd36b,74.31,76.02,79.56,77.34,75.26,68.44,65.37,B,Stable,Obligatoire,Oui,2023,,IQSS
+030fde3a-ce85-4082-80b5-b347370271c6,86f59785-e602-403f-abaa-ddc96ac7ee42,82.88,76.02,89.56,85.37,84.35,81.45,71.45,A,Stable,Facultatif,Oui,2023,,IQSS
+030fde3a-ce85-4082-80b5-b347370271c6,0d02fd13-b75c-42a9-acd7-ecb899773729,82.88,76.02,89.56,85.37,84.35,81.45,71.45,A,Stable,Facultatif,Oui,2023,,IQSS
+c69b4da2-3c7c-4f7c-9e79-f85d18cc1c78,07e906ab-bffa-4401-b328-e0318340984c,68.28,76.02,72.74,71.24,70.21,65.66,56.85,D,Diminution,Facultatif,Oui,2023,,IQSS
+c69b4da2-3c7c-4f7c-9e79-f85d18cc1c78,c8dcb9fa-0c9a-4fe7-9ae7-955eb412b19b,68.28,76.02,72.74,71.24,70.21,65.66,56.85,D,Diminution,Facultatif,Oui,2023,,IQSS
+df21299b-b415-4322-b2f7-b1c61d9aebf1,7d688c24-de8c-4fb4-af21-e4850646ee27,,,,,,,,DI,,Obligatoire,Oui,2023,,IQSS
+df21299b-b415-4322-b2f7-b1c61d9aebf1,0c3c3f8b-8827-4fbd-a919-85a23857d50b,,,,,,,,DI,,Obligatoire,Oui,2023,,IQSS
+25304eee-663a-4ce9-8598-f68ba38fa515,19b8b346-1f65-46c5-8219-b5600de7bdb0,71.29,76.02,72.01,74.93,74.5,57.41,64.68,C,Stable,Obligatoire,Oui,2023,,IQSS
+25304eee-663a-4ce9-8598-f68ba38fa515,6eb74217-0631-4aea-badc-f9cad8a5884a,71.29,76.02,72.01,74.93,74.5,57.41,64.68,C,Stable,Obligatoire,Oui,2023,,IQSS
+cd7ca170-c33d-4caa-ae59-cd4f3fdf7c0e,8a7e9517-7580-4128-8c2f-16925aa4654b,73.66,76.02,77.67,77.4,76.04,55.41,70.14,B,Stable,Obligatoire,Oui,2023,,IQSS
+cd7ca170-c33d-4caa-ae59-cd4f3fdf7c0e,494da490-aa77-4c4c-934b-3761c6d35ff9,73.66,76.02,77.67,77.4,76.04,55.41,70.14,B,Stable,Obligatoire,Oui,2023,,IQSS
+d00f5503-6e3d-4cac-8e83-65aac432da92,656291b7-d9f9-410a-b75b-3c45f2cdb930,74.16,76.02,80.95,77.23,82.31,56.83,63.97,B,Non calculable,Facultatif,Oui,2023,,IQSS
+d00f5503-6e3d-4cac-8e83-65aac432da92,0c1ad082-5b02-426b-a9eb-63c3d3678e37,74.16,76.02,80.95,77.23,82.31,56.83,63.97,B,Non calculable,Facultatif,Oui,2023,,IQSS
+1083e9d1-cc3c-40d9-9eee-ce7edbfa16b3,e1640d7e-f34f-4ded-982c-3f0bc5917f81,,,,,,,,DI,,Facultatif,Oui,2023,,IQSS
+1083e9d1-cc3c-40d9-9eee-ce7edbfa16b3,6c076a4c-72a8-4913-9e7a-af4da3d67f1b,,,,,,,,DI,,Facultatif,Oui,2023,,IQSS
+d48ef14f-bc88-4a2a-a06a-4ce1f9fcd401,bc7ac727-270f-42c5-b3b6-5ec5c5895c0b,73.59,76.02,78.65,75.77,80.07,58.46,66.38,B,Amélioration,Obligatoire,Oui,2023,,IQSS
+d48ef14f-bc88-4a2a-a06a-4ce1f9fcd401,9a6b99c5-ab5e-4f37-8cfe-2caaa0573bb6,73.59,76.02,78.65,75.77,80.07,58.46,66.38,B,Amélioration,Obligatoire,Oui,2023,,IQSS
+0d7c6868-d23d-4ba8-9f49-0560c744f700,9c772617-7782-444f-a2a2-95e430e3f5c2,65.94,76.02,69.51,72.0,70.32,40.9,57.67,D,Non calculable,Facultatif,Oui,2023,,IQSS
+0d7c6868-d23d-4ba8-9f49-0560c744f700,02775753-d995-4e87-83c8-f3537a3b3ad7,65.94,76.02,69.51,72.0,70.32,40.9,57.67,D,Non calculable,Facultatif,Oui,2023,,IQSS
+9f6ad963-ee01-4de3-88d2-7d57087404bb,01c10760-3db6-4d7b-b49a-62400b87ea80,76.2,76.02,82.63,80.92,78.92,59.0,66.94,B,Stable,Obligatoire,Oui,2023,,IQSS
+9f6ad963-ee01-4de3-88d2-7d57087404bb,3e77c9c6-67c4-401e-84ac-5b47201aa46a,76.2,76.02,82.63,80.92,78.92,59.0,66.94,B,Stable,Obligatoire,Oui,2023,,IQSS
+2a5c5552-5461-4c16-93af-dafe1c53d438,9ad05707-ba19-40b4-82b5-6450420c1c19,75.43,76.02,87.71,78.24,83.9,49.59,68.3,B,Non calculable,Facultatif,Oui,2023,,IQSS
+2a5c5552-5461-4c16-93af-dafe1c53d438,4feabcce-4f5f-47e3-a054-96d063d2c7a4,75.43,76.02,87.71,78.24,83.9,49.59,68.3,B,Non calculable,Facultatif,Oui,2023,,IQSS
+183428fd-82d9-4fe3-a2a4-e631fa64f779,e6f7a3de-77a7-45ff-a405-c807fad9e946,71.97,76.02,79.08,76.95,68.62,58.87,65.25,C,Amélioration,Obligatoire,Oui,2023,,IQSS
+183428fd-82d9-4fe3-a2a4-e631fa64f779,8e10895c-3dbc-4268-9214-ef058f0bff01,71.97,76.02,79.08,76.95,68.62,58.87,65.25,C,Amélioration,Obligatoire,Oui,2023,,IQSS
+7c076fd5-996b-4793-b7c5-9569287b7bc0,47d06dea-33b0-4962-a530-ed0adb16102c,78.04,76.02,82.27,80.29,77.18,79.47,69.21,A,Stable,Obligatoire,Oui,2023,,IQSS
+7c076fd5-996b-4793-b7c5-9569287b7bc0,822d2649-d731-4230-a146-9fdb147cff26,78.04,76.02,82.27,80.29,77.18,79.47,69.21,A,Stable,Obligatoire,Oui,2023,,IQSS
+035b6380-7425-480a-a435-2623214d5a11,9b2a9d73-7192-47ef-8080-6136d57584b5,,,,,,,,DI,,Facultatif,Oui,2023,,IQSS
+035b6380-7425-480a-a435-2623214d5a11,42294e28-9ceb-47d1-8b67-4c8f0b64e773,,,,,,,,DI,,Facultatif,Oui,2023,,IQSS
+8e02c5bd-93a3-4586-90fb-f4ae78c8b208,ea00042d-511d-4db7-9308-6b8f8c26a7c5,80.08,75.08,87.76,82.89,78.05,80.84,70.49,A,Stable,Obligatoire,Oui,2023,,IQSS
+8e02c5bd-93a3-4586-90fb-f4ae78c8b208,4c135b92-b56e-43a7-9015-a4cddac9b473,80.08,75.08,87.76,82.89,78.05,80.84,70.49,A,Stable,Obligatoire,Oui,2023,,IQSS
+dc7e8b53-9d1a-4c1a-8e24-b33b26bda9c1,c07803a9-9111-4e79-809d-b86a000da401,75.64,75.08,84.37,77.97,75.01,76.34,64.6,B,Amélioration,Facultatif,Oui,2023,,IQSS
+dc7e8b53-9d1a-4c1a-8e24-b33b26bda9c1,e8a4901b-e9a8-434c-9726-33780f96d7c0,75.64,75.08,84.37,77.97,75.01,76.34,64.6,B,Amélioration,Facultatif,Oui,2023,,IQSS
+55411780-d2b4-4ea5-962e-cb1cab6ce52b,c76d52df-8b26-469c-ae3f-3887f8b2b9e2,79.46,75.08,85.31,82.56,79.42,70.56,72.97,A,Stable,Obligatoire,Oui,2023,,IQSS
+55411780-d2b4-4ea5-962e-cb1cab6ce52b,dd327bbe-127e-44af-a7a1-ee6e6f0201d4,79.46,75.08,85.31,82.56,79.42,70.56,72.97,A,Stable,Obligatoire,Oui,2023,,IQSS
+e26c1b41-fe95-40c4-9b05-b4f2af025c13,f702a2e3-70c8-41aa-8b82-ee24b7484468,70.81,75.08,80.08,74.66,71.7,59.98,59.99,C,Diminution,Obligatoire,Oui,2023,,IQSS
+e26c1b41-fe95-40c4-9b05-b4f2af025c13,e450cafe-35ad-4e01-90aa-32945088889f,70.81,75.08,80.08,74.66,71.7,59.98,59.99,C,Diminution,Obligatoire,Oui,2023,,IQSS
+6b8e5938-6d21-4cec-99f9-9554190bc2e2,aef62a9a-3e54-4145-8066-ddb5527a4a94,,,,,,,,DI,,Facultatif,Oui,2023,,IQSS
+6b8e5938-6d21-4cec-99f9-9554190bc2e2,776be0a7-2781-4832-9a7b-66d41fb96f39,,,,,,,,DI,,Facultatif,Oui,2023,,IQSS
+bb68d957-a111-4750-a201-40498a764a32,0ddfad22-b1fd-4fbc-9ce3-9433c7824d09,75.28,75.08,81.64,78.17,78.54,67.87,63.87,B,Diminution,Facultatif,Oui,2023,,IQSS
+bb68d957-a111-4750-a201-40498a764a32,3ceecdef-e1ed-4e59-89b3-3d0734205794,75.28,75.08,81.64,78.17,78.54,67.87,63.87,B,Diminution,Facultatif,Oui,2023,,IQSS
+96af4c2e-86f5-4fb6-ab76-fcbf3fa51ab6,eacabc16-7b49-4b88-b78a-eff954c47fc0,,,,,,,,DI,,Facultatif,Oui,2023,,IQSS
+96af4c2e-86f5-4fb6-ab76-fcbf3fa51ab6,55456f03-ba18-49da-9eb2-0f46c056e3ef,,,,,,,,DI,,Facultatif,Oui,2023,,IQSS
+136c82ea-1e47-4e7f-9e52-bfaf2ddb47bc,39cbeb72-5b56-4d58-8e69-790eb869b215,74.09,75.08,83.3,77.91,79.73,59.27,60.3,B,Non calculable,Facultatif,Oui,2023,,IQSS
+136c82ea-1e47-4e7f-9e52-bfaf2ddb47bc,29b5e205-71ef-4aa6-8f92-1bcc1c7f52f8,74.09,75.08,83.3,77.91,79.73,59.27,60.3,B,Non calculable,Facultatif,Oui,2023,,IQSS
+61012631-2e40-4e7f-b00d-f534bc3c6670,a46912eb-50d6-45ed-b510-e9b4f8be6cce,71.2,75.08,78.37,75.54,73.4,50.25,66.61,C,Stable,Obligatoire,Oui,2023,,IQSS
+61012631-2e40-4e7f-b00d-f534bc3c6670,5f34262b-1366-4bcc-9d15-f2a2b27ba49b,71.2,75.08,78.37,75.54,73.4,50.25,66.61,C,Stable,Obligatoire,Oui,2023,,IQSS
+263fa550-ad1c-4162-af5e-a30d363f3bb4,222b55a8-f8e8-48b2-9cd9-3c13517206f4,,,,,,,,DI,,Facultatif,Oui,2023,,IQSS
+263fa550-ad1c-4162-af5e-a30d363f3bb4,e7f4162a-4bc1-415e-bab1-081b7a793ffb,,,,,,,,DI,,Facultatif,Oui,2023,,IQSS
+8410fffa-1d9f-4ad5-a8e2-3d55413cdafa,0b6def73-0283-4a3e-adf7-c930840bd31d,,,,,,,,DI,,Facultatif,Oui,2023,,IQSS
+8410fffa-1d9f-4ad5-a8e2-3d55413cdafa,336911d0-d6ed-41ba-9bf0-4d835c851fc2,,,,,,,,DI,,Facultatif,Oui,2023,,IQSS
+a2d6c78c-2eb2-4a2f-b3a4-f1f9b2b2c45d,81639e2b-de63-4afc-9888-d15c0e0ec11a,,,,,,,,DI,,Facultatif,Oui,2023,,IQSS
+a2d6c78c-2eb2-4a2f-b3a4-f1f9b2b2c45d,5ccf6f6e-49b0-4bae-9ce9-328b61cc28dd,,,,,,,,DI,,Facultatif,Oui,2023,,IQSS
+822cece8-2c44-4a72-8fb2-ac2542383d6b,ad98b678-6e43-4544-b0b1-2f9c3c7e78b2,82.89,76.48,88.45,86.63,76.1,77.97,80.76,A,Stable,Obligatoire,Oui,2023,,IQSS
+822cece8-2c44-4a72-8fb2-ac2542383d6b,7e2296a4-7194-484f-9c9a-f3bc9c8f84b6,82.89,76.48,88.45,86.63,76.1,77.97,80.76,A,Stable,Obligatoire,Oui,2023,,IQSS
+0960e194-3bd2-4548-8768-d67c7476e72f,66105756-06aa-440f-b29a-320c352a2d50,74.3,76.48,82.27,77.97,74.84,63.43,65.88,B,Amélioration,Facultatif,Oui,2023,,IQSS
+0960e194-3bd2-4548-8768-d67c7476e72f,f4a2239b-05b3-49be-ad8f-643a3e644ee1,74.3,76.48,82.27,77.97,74.84,63.43,65.88,B,Amélioration,Facultatif,Oui,2023,,IQSS
+627d8617-5ce9-4045-a793-785428eeaf3a,59aca2bf-cfeb-48eb-bbfb-7a9c6830bcb3,72.84,76.48,79.69,76.51,76.69,63.32,59.41,C,Non calculable,Obligatoire,Oui,2023,,IQSS
+627d8617-5ce9-4045-a793-785428eeaf3a,fd449525-eea1-4cca-840a-1a6de97357e9,72.84,76.48,79.69,76.51,76.69,63.32,59.41,C,Non calculable,Obligatoire,Oui,2023,,IQSS
+9384b728-a3c3-4171-aec0-8a71b056bcf8,640d7491-6002-4d99-aa9c-2da72ce312eb,,,,,,,,DI,,Facultatif,Oui,2023,,IQSS
+9384b728-a3c3-4171-aec0-8a71b056bcf8,c445c7e3-8a5c-4a14-955f-da55c0121f50,,,,,,,,DI,,Facultatif,Oui,2023,,IQSS
+fd4b8838-3277-4881-86d0-6f8337bd07e1,42eebb64-7552-4fa3-b1d6-95348ea8033c,79.06,76.02,83.73,83.6,79.84,59.23,75.03,A,Amélioration,Facultatif,Oui,2023,,IQSS
+fd4b8838-3277-4881-86d0-6f8337bd07e1,b7418299-0588-4bb5-85b8-94435b41cab3,79.06,76.02,83.73,83.6,79.84,59.23,75.03,A,Amélioration,Facultatif,Oui,2023,,IQSS
+dc56169b-f554-4532-b369-7b568a219697,bb7a0471-e96e-4887-b6c0-fd3ea83e7d99,78.44,76.02,87.01,82.96,75.08,66.82,72.78,A,Non calculable,Facultatif,Oui,2023,,IQSS
+dc56169b-f554-4532-b369-7b568a219697,e9ab427f-203c-42b0-8301-14a7f369dbce,78.44,76.02,87.01,82.96,75.08,66.82,72.78,A,Non calculable,Facultatif,Oui,2023,,IQSS
+32838c77-525a-4527-a8c5-5f4e38f27e92,0cfb0507-3427-4ef5-b353-ebbf64d76d90,79.65,76.02,87.58,82.7,82.56,63.72,73.13,A,Stable,Facultatif,Oui,2023,,IQSS
+32838c77-525a-4527-a8c5-5f4e38f27e92,8e8168b1-f5f3-4dfe-9d40-145844daee8b,79.65,76.02,87.58,82.7,82.56,63.72,73.13,A,Stable,Facultatif,Oui,2023,,IQSS
+11275f55-3ed7-4692-a417-b00eb0eee15f,7755c140-1f03-409d-b813-4c9cde4b22cc,70.17,76.02,77.61,75.93,67.73,49.77,64.94,C,Stable,Facultatif,Oui,2023,,IQSS
+11275f55-3ed7-4692-a417-b00eb0eee15f,56056368-3199-40d8-b1e7-7f648b6b6db4,70.17,76.02,77.61,75.93,67.73,49.77,64.94,C,Stable,Facultatif,Oui,2023,,IQSS
+86d6b07b-24d7-40da-8d67-3d0937f0c8fb,d712d6a1-7c32-4800-a279-1df440f74c28,74.89,76.02,80.19,78.27,79.72,58.88,65.68,B,Non calculable,Facultatif,Oui,2023,,IQSS
+86d6b07b-24d7-40da-8d67-3d0937f0c8fb,3de3d098-ec09-4c8b-938c-e8b5262f1860,74.89,76.02,80.19,78.27,79.72,58.88,65.68,B,Non calculable,Facultatif,Oui,2023,,IQSS
+abd66170-2d8d-4cac-906c-a3cd85a89f0e,f7d4fe90-0bf2-43aa-8233-f78866661c71,74.9,76.02,80.55,77.91,75.27,66.39,67.23,B,Stable,Obligatoire,Oui,2023,,IQSS
+abd66170-2d8d-4cac-906c-a3cd85a89f0e,7fce57f9-43f5-4bb5-bab9-ceadd0149722,74.9,76.02,80.55,77.91,75.27,66.39,67.23,B,Stable,Obligatoire,Oui,2023,,IQSS
+99f986ce-ca99-4344-8c3d-47e0d0b3feb2,74ae2886-1cef-450e-9da9-9a5cbbab7c57,78.15,76.02,85.62,82.23,83.29,52.21,72.71,A,Non calculable,Facultatif,Oui,2023,,IQSS
+99f986ce-ca99-4344-8c3d-47e0d0b3feb2,56adae0d-89c4-4231-97eb-8a3b3346b92e,78.15,76.02,85.62,82.23,83.29,52.21,72.71,A,Non calculable,Facultatif,Oui,2023,,IQSS
+1bd47984-4e8a-4790-924a-ef98a160cfec,4ac2c74b-6c0e-41c6-bbc2-bbdfa23785b0,78.03,76.02,81.38,81.5,78.87,69.94,69.95,A,Amélioration,Obligatoire,Oui,2023,,IQSS
+1bd47984-4e8a-4790-924a-ef98a160cfec,4d1ef5cc-3f16-45d8-9639-726bd18eea32,78.03,76.02,81.38,81.5,78.87,69.94,69.95,A,Amélioration,Obligatoire,Oui,2023,,IQSS
+27322fa3-64b0-4c77-9c2c-d15e06fcf7c2,53fcef45-d83e-4183-96d3-5f90cec8e38e,71.63,76.02,77.62,75.65,75.64,57.62,61.49,C,Amélioration,Obligatoire,Oui,2023,,IQSS
+27322fa3-64b0-4c77-9c2c-d15e06fcf7c2,a578b5c1-d35c-474e-aae3-2b0d469d7f3c,71.63,76.02,77.62,75.65,75.64,57.62,61.49,C,Amélioration,Obligatoire,Oui,2023,,IQSS
+d9514ca8-4d3a-40b9-8b76-68e73603d1fc,c180cc32-ee83-4d7b-b5ab-bc73d7e51759,,,,,,,,DI,,Obligatoire,Oui,2023,,IQSS
+d9514ca8-4d3a-40b9-8b76-68e73603d1fc,b428270e-74b7-4561-88a3-f644a9c6c230,,,,,,,,DI,,Obligatoire,Oui,2023,,IQSS
+4b1c0e4d-7750-4457-be21-d5b42cd434a1,60d23ac7-2320-4d5e-a5d5-46babc1d5c38,72.02,76.02,79.57,74.43,74.45,64.42,63.47,C,Stable,Obligatoire,Oui,2023,,IQSS
+4b1c0e4d-7750-4457-be21-d5b42cd434a1,c38cff26-7bea-42dc-9646-8b65e9a1e5c6,72.02,76.02,79.57,74.43,74.45,64.42,63.47,C,Stable,Obligatoire,Oui,2023,,IQSS
+dba60454-4ddd-452c-9563-5a07c62e6530,c753b64f-02d9-4172-9cde-9db87eb13214,75.71,72.25,78.07,79.56,79.97,57.22,69.82,B,Stable,Obligatoire,Oui,2023,,IQSS
+dba60454-4ddd-452c-9563-5a07c62e6530,d239c06b-7d58-44c7-a7f6-adb97a62830a,75.71,72.25,78.07,79.56,79.97,57.22,69.82,B,Stable,Obligatoire,Oui,2023,,IQSS
+2848e42b-646f-48e6-8d03-fcfb38edd475,80c4c995-a2ad-40d5-9fd6-84f3a7251bc5,,,,,,,,DI,,Facultatif,Oui,2023,,IQSS
+2848e42b-646f-48e6-8d03-fcfb38edd475,daf276e0-edb9-4ec6-a52f-d6bc8451b926,,,,,,,,DI,,Facultatif,Oui,2023,,IQSS
+a36e06dc-f771-4291-9b07-1b5156818214,502fee8e-5e0c-49c0-9af0-473a7e7d7420,70.8,72.25,76.48,75.89,76.14,52.26,58.27,C,Non calculable,Obligatoire,Oui,2023,,IQSS
+a36e06dc-f771-4291-9b07-1b5156818214,b1d9d171-70f5-4b28-a167-0d3e423e0c25,70.8,72.25,76.48,75.89,76.14,52.26,58.27,C,Non calculable,Obligatoire,Oui,2023,,IQSS
+f92d839d-dbb4-4b73-8d3e-5f46d957af21,796d4ba2-9f07-425e-8db6-ec5fcebb186b,,,,,,,,DI,,Obligatoire,Oui,2023,,IQSS
+f92d839d-dbb4-4b73-8d3e-5f46d957af21,400c764c-0bb0-4b1b-811f-f381ea013355,,,,,,,,DI,,Obligatoire,Oui,2023,,IQSS
+be29261b-9407-4607-9013-6d9608581512,b2ff0ba0-0240-418d-9d27-478e8fc7ca06,,,,,,,,DI,,Facultatif,Oui,2023,,IQSS
+be29261b-9407-4607-9013-6d9608581512,f4a14ca3-8d78-4c76-97ef-78545ff18046,,,,,,,,DI,,Facultatif,Oui,2023,,IQSS
+d3e44198-75a5-4533-b829-27f96f4be61d,f233878c-4cec-408a-a173-a4d688ca8372,,,,,,,,DI,,Obligatoire,Oui,2023,,IQSS
+d3e44198-75a5-4533-b829-27f96f4be61d,f195a715-847a-42a5-b7ef-c9b5975ea07f,,,,,,,,DI,,Obligatoire,Oui,2023,,IQSS
+735146ac-a4ad-4fdc-a974-3c0feb714675,a1afdbf5-313b-403e-bcbd-63de1f63a521,68.56,72.25,71.56,69.74,81.55,64.57,51.48,C,Non calculable,Facultatif,Oui,2023,,IQSS
+735146ac-a4ad-4fdc-a974-3c0feb714675,c2c8548a-1737-4e63-a18b-30609815708c,68.56,72.25,71.56,69.74,81.55,64.57,51.48,C,Non calculable,Facultatif,Oui,2023,,IQSS
+876a338d-2754-4889-b3a2-69ac9123112c,c05be09a-790e-438c-8be7-21b45f60a9a5,64.78,72.25,67.22,68.07,69.2,53.42,55.94,D,Stable,Facultatif,Oui,2023,,IQSS
+876a338d-2754-4889-b3a2-69ac9123112c,6f8edbc6-194b-44b2-aa1f-b5a2c68ae058,64.78,72.25,67.22,68.07,69.2,53.42,55.94,D,Stable,Facultatif,Oui,2023,,IQSS
+b76ab1b4-9824-4ef8-a6cd-ca4e2cfb3ddb,cde93617-2891-4a48-a345-7746515a616d,,,,,,,,DI,,Facultatif,Oui,2023,,IQSS
+b76ab1b4-9824-4ef8-a6cd-ca4e2cfb3ddb,cd1712ff-87c4-4ef1-9b6c-f9cbe4be73e5,,,,,,,,DI,,Facultatif,Oui,2023,,IQSS
+3862fbd2-8555-4149-98f0-b6f095937959,ca7c8e1f-b2fb-40e5-84af-a576e72b7c7b,,,,,,,,DI,,Facultatif,Oui,2023,,IQSS
+3862fbd2-8555-4149-98f0-b6f095937959,9483cd3e-2337-4668-872b-703867359703,,,,,,,,DI,,Facultatif,Oui,2023,,IQSS
+bfdac22b-7c1d-46b2-96f5-acc2ee447d42,fde80864-ed5e-45f6-9667-1bfa6da4c149,77.13,72.25,80.83,80.95,78.65,60.29,72.74,A,Amélioration,Obligatoire,Oui,2023,,IQSS
+bfdac22b-7c1d-46b2-96f5-acc2ee447d42,8ed69c8f-b5ae-420c-bc68-f35357b79540,77.13,72.25,80.83,80.95,78.65,60.29,72.74,A,Amélioration,Obligatoire,Oui,2023,,IQSS
+68628455-1fb0-4c77-a5d5-93602f077e24,df5a7948-2e14-489a-bc57-cfd25a102450,,,,,,,,DI,,Facultatif,Oui,2023,,IQSS
+68628455-1fb0-4c77-a5d5-93602f077e24,08214b9c-a2f7-4738-a445-7ef74cd89b45,,,,,,,,DI,,Facultatif,Oui,2023,,IQSS
+46a0bb5f-4a1c-461a-b8c5-6c95e234befd,18b081c2-d4da-4c55-b759-33028c0d5377,80.62,72.25,87.4,81.98,82.39,74.96,74.52,A,Stable,Obligatoire,Oui,2023,,IQSS
+46a0bb5f-4a1c-461a-b8c5-6c95e234befd,9a536008-b565-41bc-92eb-110a0a10852e,80.62,72.25,87.4,81.98,82.39,74.96,74.52,A,Stable,Obligatoire,Oui,2023,,IQSS
+7d2fa4d1-0aa9-496b-a5d7-097911e260af,0d9631e7-dd9b-40d6-b361-987eb0b2d342,,,,,,,,DI,,Facultatif,Oui,2023,,IQSS
+7d2fa4d1-0aa9-496b-a5d7-097911e260af,82a45095-4f67-423e-991a-dad7a3b3da55,,,,,,,,DI,,Facultatif,Oui,2023,,IQSS
+c8092411-f101-4613-894b-bcfd6eab9569,7ed87dd2-4afb-4ad3-a88c-a6b6ce80c915,73.55,72.25,75.03,79.82,74.51,48.13,69.19,B,Non calculable,Facultatif,Oui,2023,,IQSS
+c8092411-f101-4613-894b-bcfd6eab9569,3161d809-03e1-496a-a173-9a067a6892ba,73.55,72.25,75.03,79.82,74.51,48.13,69.19,B,Non calculable,Facultatif,Oui,2023,,IQSS
+c8f4420b-741e-4dc3-83be-8c93241a6872,308095ad-fd0c-49c4-bbba-c417136546c6,,,,,,,,DI,,Facultatif,Oui,2023,,IQSS
+c8f4420b-741e-4dc3-83be-8c93241a6872,d97d7b2a-1917-4b31-8d3d-accd97de8382,,,,,,,,DI,,Facultatif,Oui,2023,,IQSS
+50237a38-0ee2-405b-9422-c7aba908d58a,0f6b781e-7942-4c4d-b0d5-a4b66eba9bb1,,,,,,,,DI,,Facultatif,Oui,2023,,IQSS
+50237a38-0ee2-405b-9422-c7aba908d58a,02d12da7-1188-4071-a887-8c7fd57a1808,,,,,,,,DI,,Facultatif,Oui,2023,,IQSS
+fed41ba1-6d63-4b91-8e75-a0001c80fcdb,12ffbe4f-a062-41eb-a9ba-2bbbd5f6e019,,,,,,,,DI,,Facultatif,Oui,2023,,IQSS
+fed41ba1-6d63-4b91-8e75-a0001c80fcdb,1a23b99a-3ea0-452c-abac-bf7e96f784d0,,,,,,,,DI,,Facultatif,Oui,2023,,IQSS
+c11566f1-0a0d-4255-a60c-3432be89c9b1,15717ce2-3566-429a-a54f-8c3453749517,72.42,75.16,77.8,75.3,78.81,60.49,60.72,C,Non calculable,Facultatif,Oui,2023,,IQSS
+c11566f1-0a0d-4255-a60c-3432be89c9b1,3fd44fae-894d-4027-aa60-282eb37d3bde,72.42,75.16,77.8,75.3,78.81,60.49,60.72,C,Non calculable,Facultatif,Oui,2023,,IQSS
+c09c6d23-cd6b-4eb7-a227-900c41b37c87,5bf0c2a0-45e6-49d8-b7d4-7e0f87dfd77a,,,,,,,,DI,,Facultatif,Oui,2023,,IQSS
+c09c6d23-cd6b-4eb7-a227-900c41b37c87,f54f0e2c-5dbb-4be7-b3dd-4308275e68ae,,,,,,,,DI,,Facultatif,Oui,2023,,IQSS
+ee0e9690-5e8e-42e6-a05a-531e134bf519,8c2359d3-dee9-4d7d-aac2-4f79fc09e11e,76.54,75.16,81.29,79.37,74.47,73.07,69.84,B,Non calculable,Facultatif,Oui,2023,,IQSS
+ee0e9690-5e8e-42e6-a05a-531e134bf519,c24e65e2-9c67-4e19-b021-8d1d5bc868d4,76.54,75.16,81.29,79.37,74.47,73.07,69.84,B,Non calculable,Facultatif,Oui,2023,,IQSS
+7ce39c14-fc9f-4ae8-a344-258a13ef8998,8cc13007-c446-41c7-a132-782048eccad2,,,,,,,,DI,,Facultatif,Oui,2023,,IQSS
+7ce39c14-fc9f-4ae8-a344-258a13ef8998,395a83f2-72e4-476c-aa95-17bef024d4ec,,,,,,,,DI,,Facultatif,Oui,2023,,IQSS
+aac12155-b737-45ae-8c9c-08c266dca457,67a48bb4-e2e2-4999-9d48-bde3a94462fc,73.29,75.16,81.6,80.7,67.32,50.91,69.36,B,Stable,Facultatif,Oui,2023,,IQSS
+aac12155-b737-45ae-8c9c-08c266dca457,1c8a3d9d-fdbe-4c04-b51b-274ef51ee6f2,73.29,75.16,81.6,80.7,67.32,50.91,69.36,B,Stable,Facultatif,Oui,2023,,IQSS
+ae3a2aad-eec2-404f-be36-64790c5a97fa,282a8c36-97d6-4d6c-b385-6a5273717c93,,,,,,,,DI,,Facultatif,Oui,2023,,IQSS
+ae3a2aad-eec2-404f-be36-64790c5a97fa,58eaefa7-f498-4bb3-a58a-3e25d051c34b,,,,,,,,DI,,Facultatif,Oui,2023,,IQSS
+8c4f7720-6480-4641-8f5a-ccfe10996543,d1876087-fc1d-40fc-a54e-07b977cbf72e,,,,,,,,DI,,Facultatif,Oui,2023,,IQSS
+8c4f7720-6480-4641-8f5a-ccfe10996543,dbe79f0d-3f0b-41bd-be5f-d7cb5cea06be,,,,,,,,DI,,Facultatif,Oui,2023,,IQSS
+6c0ea435-0283-4cf8-9abc-cb45d1382876,f9d8ca39-c3dc-4849-8eed-1aec75306044,78.72,75.16,82.6,80.42,81.64,72.12,73.18,A,Non calculable,Obligatoire,Oui,2023,,IQSS
+6c0ea435-0283-4cf8-9abc-cb45d1382876,d6342359-212e-4407-a9b0-a6c285e260fd,78.72,75.16,82.6,80.42,81.64,72.12,73.18,A,Non calculable,Obligatoire,Oui,2023,,IQSS
+9c15e0d1-629b-4ae0-8e11-a7739ab8c55c,0b1aa5b0-0c19-4636-96ba-cc01d766b43b,73.52,75.16,80.13,79.33,72.91,54.31,66.25,B,Amélioration,Facultatif,Oui,2023,,IQSS
+9c15e0d1-629b-4ae0-8e11-a7739ab8c55c,54ef81fd-dea6-4b23-a475-dccafa959501,73.52,75.16,80.13,79.33,72.91,54.31,66.25,B,Amélioration,Facultatif,Oui,2023,,IQSS
+2f71bc23-c595-4f88-ac77-b87117c3d133,3dfc6161-03c4-43f9-bdf1-7ce7980b864d,,,,,,,,DI,,Facultatif,Oui,2023,,IQSS
+2f71bc23-c595-4f88-ac77-b87117c3d133,6a915fdd-8de5-4a38-8b26-8319130ee2ca,,,,,,,,DI,,Facultatif,Oui,2023,,IQSS
+683be7df-3eea-45ba-a0de-b010685f6ba0,5e6e92df-8b39-4cac-947d-34694eac8139,72.47,72.25,77.57,74.97,75.19,65.25,64.12,C,Stable,Facultatif,Oui,2023,,IQSS
+683be7df-3eea-45ba-a0de-b010685f6ba0,8ace38c7-fb9a-4426-931a-95346341f157,72.47,72.25,77.57,74.97,75.19,65.25,64.12,C,Stable,Facultatif,Oui,2023,,IQSS
+cb134cc7-9db9-4c28-88cf-3da55cfffc2d,5bb0302d-5e31-49b9-a141-f08739d2c4c1,73.41,72.25,82.5,77.98,72.59,60.15,65.09,B,Stable,Obligatoire,Oui,2023,,IQSS
+cb134cc7-9db9-4c28-88cf-3da55cfffc2d,6e1ce14a-647d-4f17-a851-36fcfbd3f7e0,73.41,72.25,82.5,77.98,72.59,60.15,65.09,B,Stable,Obligatoire,Oui,2023,,IQSS
+dd92b8c0-f3e6-4c46-a881-643d445ae0e1,3f568dee-259b-4121-bddc-fd4c94dcd9b6,,,,,,,,DI,,Facultatif,Oui,2023,,IQSS
+dd92b8c0-f3e6-4c46-a881-643d445ae0e1,0aedc315-5d33-47a2-aa2b-4203dce7dd6d,,,,,,,,DI,,Facultatif,Oui,2023,,IQSS
+1251f6cf-0fdd-4ca7-85c1-e412a634688c,df6ab00f-8ddb-410d-8cfb-c12b45f91bab,,,,,,,,DI,,Facultatif,Oui,2023,,IQSS
+1251f6cf-0fdd-4ca7-85c1-e412a634688c,048115c2-3c6f-4af9-b82a-4beddacb4634,,,,,,,,DI,,Facultatif,Oui,2023,,IQSS
+4d068d7a-7b7c-46fc-87d2-aeb92807a646,15daf99a-b18c-4e5d-998b-1c0ed4511347,,,,,,,,DI,,Facultatif,Oui,2023,,IQSS
+4d068d7a-7b7c-46fc-87d2-aeb92807a646,91c554b6-0d24-4bad-9634-93ae9db8dfd4,,,,,,,,DI,,Facultatif,Oui,2023,,IQSS
+3e90af4e-8792-4a54-9df9-343d71263606,e3b83215-6fde-421c-8078-f2fccfbd843b,76.77,72.25,83.32,81.11,77.16,64.34,68.28,A,Stable,Obligatoire,Oui,2023,,IQSS
+3e90af4e-8792-4a54-9df9-343d71263606,dae45bd5-fc86-4cb6-aeaf-169ab1471280,76.77,72.25,83.32,81.11,77.16,64.34,68.28,A,Stable,Obligatoire,Oui,2023,,IQSS
+7cae3db9-ff30-438d-a5f4-d9148adf6163,4ab5fdf5-11c2-4887-9838-af0a268d38a3,73.42,72.25,79.52,79.07,75.31,49.14,67.35,B,Non calculable,Facultatif,Oui,2023,,IQSS
+7cae3db9-ff30-438d-a5f4-d9148adf6163,64b4d107-b1bb-4bee-a70b-de67866d3302,73.42,72.25,79.52,79.07,75.31,49.14,67.35,B,Non calculable,Facultatif,Oui,2023,,IQSS
+fb3469a0-0be5-403b-8c4b-6ed75476fe09,ec21e88c-a52b-405c-bbae-b3b39799dc4e,,,,,,,,NV,,Obligatoire,Oui,2023,,IQSS
+fb3469a0-0be5-403b-8c4b-6ed75476fe09,256c3f38-7e1f-4094-8ba3-4b9135e9f0df,,,,,,,,NV,,Obligatoire,Oui,2023,,IQSS
+4a3d882d-1994-42e8-a17f-ebef33e7de2d,9a8dfac9-0cef-4f78-940c-645199378f4b,,,,,,,,DI,,Facultatif,Oui,2023,,IQSS
+4a3d882d-1994-42e8-a17f-ebef33e7de2d,03e4d635-d574-4dea-ae9a-fa5fd8928091,,,,,,,,DI,,Facultatif,Oui,2023,,IQSS
+ba0b30f4-2b1d-4ba5-ad3f-e986bdead09c,bf798d6e-4e74-4348-9987-dd6766c621a7,,,,,,,,DI,,Facultatif,Oui,2023,,IQSS
+ba0b30f4-2b1d-4ba5-ad3f-e986bdead09c,59fb104f-50da-4356-b668-91088909d464,,,,,,,,DI,,Facultatif,Oui,2023,,IQSS
+1ffeb104-2d0a-4263-9dfc-0553fe397b71,fac4bc2d-d15d-4244-9252-01e291f60e56,67.28,72.25,73.79,69.1,77.8,48.75,58.16,D,Diminution,Obligatoire,Oui,2023,,IQSS
+1ffeb104-2d0a-4263-9dfc-0553fe397b71,27064977-44d2-4fe3-87ed-8ef751574fdf,67.28,72.25,73.79,69.1,77.8,48.75,58.16,D,Diminution,Obligatoire,Oui,2023,,IQSS
+74a98174-2491-43e2-b57e-9dbbd4c46a74,f582d3c5-af56-42da-8bf9-466d54034105,77.38,72.25,81.48,79.74,78.83,74.31,68.55,A,Non calculable,Facultatif,Oui,2023,,IQSS
+74a98174-2491-43e2-b57e-9dbbd4c46a74,c9afec15-191d-4617-9da7-657c5bf1876a,77.38,72.25,81.48,79.74,78.83,74.31,68.55,A,Non calculable,Facultatif,Oui,2023,,IQSS
+76ca2456-3e27-4e99-a12d-214004a2779c,32ec8069-8d7b-4ea2-abdb-6ac955b32d2c,79.88,72.25,85.92,81.75,83.16,75.94,69.88,A,Stable,Obligatoire,Oui,2023,,IQSS
+76ca2456-3e27-4e99-a12d-214004a2779c,042e85e4-72e9-45f3-b6b4-830e8b5ff58b,79.88,72.25,85.92,81.75,83.16,75.94,69.88,A,Stable,Obligatoire,Oui,2023,,IQSS
+41560ef2-8121-4806-a02d-f1153bd48d6e,4ca62b1c-d140-419d-8123-c3150418077f,73.52,72.25,76.17,76.31,79.01,64.15,63.32,B,Amélioration,Obligatoire,Oui,2023,,IQSS
+41560ef2-8121-4806-a02d-f1153bd48d6e,c7ed198e-c9b4-4203-859c-dace9f1b2f80,73.52,72.25,76.17,76.31,79.01,64.15,63.32,B,Amélioration,Obligatoire,Oui,2023,,IQSS
+cb16c870-dcbc-4ac0-8500-e65d4a47f6d3,e3a1b839-c014-452f-9751-3fe15d13cd19,72.2,72.25,80.93,77.47,69.9,56.35,64.65,C,Stable,Facultatif,Oui,2023,,IQSS
+cb16c870-dcbc-4ac0-8500-e65d4a47f6d3,9ef4a688-fc4d-4a37-a3f9-fa6662f51014,72.2,72.25,80.93,77.47,69.9,56.35,64.65,C,Stable,Facultatif,Oui,2023,,IQSS
+08017156-ca86-4b47-961e-0a1a56621e2b,5e462429-1f55-44bf-b13a-be1d5424dfe4,,,,,,,,NV,,Obligatoire,Oui,2023,,IQSS
+08017156-ca86-4b47-961e-0a1a56621e2b,c3004f51-e431-4065-84d8-ccdee18821db,,,,,,,,NV,,Obligatoire,Oui,2023,,IQSS
+82a33b97-a6ea-4b98-9e8e-287aab3503e1,c7d6859a-dc2f-4264-a140-9c4a2a141983,65.71,72.25,68.31,67.29,71.92,62.12,54.73,D,Stable,Facultatif,Oui,2023,,IQSS
+82a33b97-a6ea-4b98-9e8e-287aab3503e1,5c79f8bd-a1fa-48c6-a3f5-7f0d835868ae,65.71,72.25,68.31,67.29,71.92,62.12,54.73,D,Stable,Facultatif,Oui,2023,,IQSS
+baeee26b-a363-4f95-9da7-e7bd20a034cb,e88c91b7-04c2-4673-b6ca-05673c781c6c,,,,,,,,DI,,Facultatif,Oui,2023,,IQSS
+baeee26b-a363-4f95-9da7-e7bd20a034cb,d0e83bff-7edc-4c11-ab12-c63a08c6aa7a,,,,,,,,DI,,Facultatif,Oui,2023,,IQSS
+9046fd91-a8f4-48e0-aadb-f8cf26633a3e,72df9692-6455-4dc6-a436-b95b928fff8e,,,,,,,,DI,,Facultatif,Oui,2023,,IQSS
+9046fd91-a8f4-48e0-aadb-f8cf26633a3e,1e7ae7fd-5df4-4b67-8a9f-60b8a0ba0de7,,,,,,,,DI,,Facultatif,Oui,2023,,IQSS
+c58a4e78-0432-4e9d-ba68-c1bae92cf35f,9cab8934-7f3b-416f-b037-b990eb5d563c,,,,,,,,DI,,Facultatif,Oui,2023,,IQSS
+c58a4e78-0432-4e9d-ba68-c1bae92cf35f,c9b129c7-4f5a-4cc8-91ce-d08fc6502fd8,,,,,,,,DI,,Facultatif,Oui,2023,,IQSS
+236a5b7a-0a71-4a5e-82e6-0fc1d4c01cea,44755ded-6cf4-4a7d-9e23-9e8ec678278a,78.89,72.25,84.46,83.91,80.04,56.98,73.88,A,Stable,Obligatoire,Oui,2023,,IQSS
+236a5b7a-0a71-4a5e-82e6-0fc1d4c01cea,f36ad360-63f7-4c76-b1ad-5ea7690db3fc,78.89,72.25,84.46,83.91,80.04,56.98,73.88,A,Stable,Obligatoire,Oui,2023,,IQSS
+56af8d71-1ca0-4af7-ae7c-c09c3525fa6a,aa299b1c-95ca-4712-81d2-10004d65917a,,,,,,,,DI,,Facultatif,Oui,2023,,IQSS
+56af8d71-1ca0-4af7-ae7c-c09c3525fa6a,40678066-057d-459c-bef5-27c5b72d0c87,,,,,,,,DI,,Facultatif,Oui,2023,,IQSS
+b75ce653-1b9f-4d46-90c9-fa924827ea83,64254c4c-f5bf-445a-ac03-a21d1841544f,74.68,76.84,82.94,78.33,76.74,65.71,62.98,B,Stable,Facultatif,Oui,2023,,IQSS
+b75ce653-1b9f-4d46-90c9-fa924827ea83,7fe557b2-519d-4a29-a14c-c98f398f7653,74.68,76.84,82.94,78.33,76.74,65.71,62.98,B,Stable,Facultatif,Oui,2023,,IQSS
+0a07116b-74a6-429a-abd8-21d313b0de8f,0e838c34-d1e7-4fd0-802a-203f82d9e887,81.43,76.84,87.77,84.07,80.57,73.67,76.59,A,Stable,Obligatoire,Oui,2023,,IQSS
+0a07116b-74a6-429a-abd8-21d313b0de8f,7296efad-a1ab-4453-a8ee-8ae6f3eb27aa,81.43,76.84,87.77,84.07,80.57,73.67,76.59,A,Stable,Obligatoire,Oui,2023,,IQSS
+7842cdd6-bce5-4d42-9a0d-9892705c39fc,da6b1660-2887-44a0-8a50-10163dd8b9ee,,,,,,,,DI,,Facultatif,Oui,2023,,IQSS
+7842cdd6-bce5-4d42-9a0d-9892705c39fc,34a246a8-b501-47dd-b89c-5be874b85f40,,,,,,,,DI,,Facultatif,Oui,2023,,IQSS
+088775fe-c33e-4315-a8d7-391d15e5be21,a6dab6cb-1d61-440d-9457-6332aab1efe7,,,,,,,,DI,,Facultatif,Oui,2023,,IQSS
+088775fe-c33e-4315-a8d7-391d15e5be21,d163fd7a-ab91-43c2-8558-b73202aada53,,,,,,,,DI,,Facultatif,Oui,2023,,IQSS
+c915ab26-312f-4801-9e3a-968696f9910e,9c45eaaa-2dc5-4816-b448-1cad41ba3e97,77.01,77.66,86.73,82.72,79.14,53.96,67.18,A,Stable,Facultatif,Oui,2023,,IQSS
+c915ab26-312f-4801-9e3a-968696f9910e,24e33638-5749-4654-a439-622dd5d2ac3f,77.01,77.66,86.73,82.72,79.14,53.96,67.18,A,Stable,Facultatif,Oui,2023,,IQSS
+0badd790-1df9-4059-b75a-d3cc0a702106,8b65879c-a73b-48b9-a935-d8b808f2ee7e,,,,,,,,DI,,Facultatif,Oui,2023,,IQSS
+0badd790-1df9-4059-b75a-d3cc0a702106,ffce52ad-3c4f-4cf9-9997-27a9b4cb9089,,,,,,,,DI,,Facultatif,Oui,2023,,IQSS
+59ac79f5-da41-422e-9286-16e82b8defbe,cdd1b038-cac6-4637-8e26-38775353da4d,,,,,,,,DI,,Facultatif,Oui,2023,,IQSS
+59ac79f5-da41-422e-9286-16e82b8defbe,8dbfdbf0-4341-4a78-8287-90e8e5711a5b,,,,,,,,DI,,Facultatif,Oui,2023,,IQSS
+01a98524-bfa5-49d0-9299-6b3bd2c54b6f,c0a7e5fc-cbe8-4a9c-9653-6a70df31f957,74.68,75.19,80.43,79.57,73.78,59.23,68.44,B,Stable,Obligatoire,Oui,2023,,IQSS
+01a98524-bfa5-49d0-9299-6b3bd2c54b6f,ee3ea024-92d8-438c-8bbf-80e0692c028b,74.68,75.19,80.43,79.57,73.78,59.23,68.44,B,Stable,Obligatoire,Oui,2023,,IQSS
+5f023079-250f-4e92-af6d-8ecf72b53bac,df58394c-378a-4a13-bb2f-5f6ca2ac42e0,,,,,,,,DI,,Facultatif,Oui,2023,,IQSS
+5f023079-250f-4e92-af6d-8ecf72b53bac,d076da83-e9e1-4d2b-b911-60e21c215a42,,,,,,,,DI,,Facultatif,Oui,2023,,IQSS
+fd55ecba-6c1f-4f85-be4c-50e1a55a0aab,30b1c83e-b826-4367-8953-4e0c6d3f9b59,,,,,,,,DI,,Facultatif,Oui,2023,,IQSS
+fd55ecba-6c1f-4f85-be4c-50e1a55a0aab,c5d07071-92bd-4bac-a456-21d6980f5155,,,,,,,,DI,,Facultatif,Oui,2023,,IQSS
+62b8f449-ae58-41ea-a2c3-bb277d69161d,c788be93-6a57-4101-841e-b984fb7ea07d,74.44,75.19,79.35,75.62,76.08,74.37,66.25,B,Stable,Facultatif,Oui,2023,,IQSS
+62b8f449-ae58-41ea-a2c3-bb277d69161d,b6ffc466-e780-4b2a-830c-240b2af2a45f,74.44,75.19,79.35,75.62,76.08,74.37,66.25,B,Stable,Facultatif,Oui,2023,,IQSS
+1f3968e9-af2d-46c5-b08d-0ce23a4e0d41,c12428f2-d09f-4799-bc50-7c9a21c385eb,,,,,,,,DI,,Facultatif,Oui,2023,,IQSS
+1f3968e9-af2d-46c5-b08d-0ce23a4e0d41,b9241845-1885-4b6f-ab7c-2f6daf73d5de,,,,,,,,DI,,Facultatif,Oui,2023,,IQSS
+d6a67f01-f582-489c-9f2e-6e62d97986fa,03ba2130-668c-4bf6-823e-23d58bcb3e5d,,,,,,,,DI,,Facultatif,Oui,2023,,IQSS
+d6a67f01-f582-489c-9f2e-6e62d97986fa,d229ba2e-d7b6-4f6f-9b41-6bb8efa0e92b,,,,,,,,DI,,Facultatif,Oui,2023,,IQSS
+3dee262a-0e2c-4842-b34b-7ea4713de2e1,d07a9d5b-765c-4977-9648-41fd2c6f87d1,79.26,75.19,87.09,81.22,78.27,76.03,73.08,A,Stable,Obligatoire,Oui,2023,,IQSS
+3dee262a-0e2c-4842-b34b-7ea4713de2e1,5d0c4fb4-a056-4022-b53c-8a5ffb985da2,79.26,75.19,87.09,81.22,78.27,76.03,73.08,A,Stable,Obligatoire,Oui,2023,,IQSS
+7f88939d-4611-4d35-b0c4-f824fc66f1e8,7a429815-a25f-4c5d-8985-822c7b691dd7,68.55,75.19,76.64,69.7,78.94,54.26,57.92,C,Stable,Obligatoire,Oui,2023,,IQSS
+7f88939d-4611-4d35-b0c4-f824fc66f1e8,c8da1342-7d4f-49a3-ba68-6fd6ece4b611,68.55,75.19,76.64,69.7,78.94,54.26,57.92,C,Stable,Obligatoire,Oui,2023,,IQSS
+18991571-e710-4f2f-bec8-bba581939206,0dcd0ca1-c4e1-4f32-a27b-e3e83ac36938,77.83,73.79,85.72,81.02,80.04,70.11,67.06,A,Stable,Obligatoire,Oui,2023,,IQSS
+18991571-e710-4f2f-bec8-bba581939206,f1c6289c-d326-4618-aa97-7ee426aa3dfb,77.83,73.79,85.72,81.02,80.04,70.11,67.06,A,Stable,Obligatoire,Oui,2023,,IQSS
+a68f172b-bde8-4f24-9984-a696e27ffd74,5418d29f-65a8-4b4e-bc07-6db13aa02781,81.19,73.79,88.8,82.69,83.37,77.97,73.58,A,Stable,Facultatif,Oui,2023,,IQSS
+a68f172b-bde8-4f24-9984-a696e27ffd74,bac9df36-505b-400e-b0e2-3593cc44680c,81.19,73.79,88.8,82.69,83.37,77.97,73.58,A,Stable,Facultatif,Oui,2023,,IQSS
+1a431866-0ba1-49fb-81d4-bf9d5e2c2f59,a5e38560-bbcb-40dc-b499-049b91dbc944,75.48,73.79,83.02,77.09,76.43,71.63,67.77,B,Non calculable,Facultatif,Oui,2023,,IQSS
+1a431866-0ba1-49fb-81d4-bf9d5e2c2f59,e50e9c11-2a76-439a-9c56-ed0d10bcfbbc,75.48,73.79,83.02,77.09,76.43,71.63,67.77,B,Non calculable,Facultatif,Oui,2023,,IQSS
+83daceb9-dad7-4156-b7e2-1c4c0371c31e,536ceb22-85b6-4358-8117-18dc1472682e,75.21,73.79,81.48,76.16,77.84,76.67,65.25,B,Amélioration,Obligatoire,Oui,2023,,IQSS
+83daceb9-dad7-4156-b7e2-1c4c0371c31e,7954de8c-db5d-4477-89f7-b76692ecd098,75.21,73.79,81.48,76.16,77.84,76.67,65.25,B,Amélioration,Obligatoire,Oui,2023,,IQSS
+171f8906-82c5-469c-9e78-0c13be9e7e84,d4dbc366-14b7-489e-a459-92ca064f01c5,,,,,,,,DI,,Facultatif,Oui,2023,,IQSS
+171f8906-82c5-469c-9e78-0c13be9e7e84,c18da844-c371-4da9-bd3b-9aa46de1ec6c,,,,,,,,DI,,Facultatif,Oui,2023,,IQSS
+2bfe7108-3351-4f42-a2dd-ed0c6934fd4c,b67ce5a4-4d7b-4790-b75c-25ef31c3c96d,78.55,73.79,84.8,81.15,82.07,64.38,73.03,A,Amélioration,Obligatoire,Oui,2023,,IQSS
+2bfe7108-3351-4f42-a2dd-ed0c6934fd4c,ed6f2740-a308-4d25-aa14-e1115edbfbb0,78.55,73.79,84.8,81.15,82.07,64.38,73.03,A,Amélioration,Obligatoire,Oui,2023,,IQSS
+4a443cbc-9243-404f-a577-dc6809cae6be,2bb8cdfb-dba4-4c9e-9098-102d2904a77d,77.86,73.79,83.6,82.07,75.43,66.76,72.61,A,Stable,Obligatoire,Oui,2023,,IQSS
+4a443cbc-9243-404f-a577-dc6809cae6be,07244829-81bc-41d9-9288-c714a67635c3,77.86,73.79,83.6,82.07,75.43,66.76,72.61,A,Stable,Obligatoire,Oui,2023,,IQSS
+46db65aa-5188-444f-be61-05ef7b8053f5,1aecfd7e-3d23-4ee7-812c-e709f6b4a407,77.2,73.79,84.07,79.67,81.86,72.27,63.72,A,Amélioration,Obligatoire,Oui,2023,,IQSS
+46db65aa-5188-444f-be61-05ef7b8053f5,ed93db23-c069-4824-80f4-451fc96e1ab3,77.2,73.79,84.07,79.67,81.86,72.27,63.72,A,Amélioration,Obligatoire,Oui,2023,,IQSS
+9f00d2e7-4b22-4208-8c80-18f8cadccda0,c5033d83-3f88-46f9-8674-567c2844484c,,,,,,,,DI,,Facultatif,Oui,2023,,IQSS
+9f00d2e7-4b22-4208-8c80-18f8cadccda0,5c876c92-4a3b-45b1-b9dd-1ee13c176ac1,,,,,,,,DI,,Facultatif,Oui,2023,,IQSS
+c05ef38d-c2cc-4de6-bc88-e82a86f50e9c,dcbcdfec-1697-4586-a820-c54837a99d53,,,,,,,,DI,,Facultatif,Oui,2023,,IQSS
+c05ef38d-c2cc-4de6-bc88-e82a86f50e9c,9740ba69-9408-4e1f-a2ec-f05869bc34f5,,,,,,,,DI,,Facultatif,Oui,2023,,IQSS
+2a218820-cd08-4f0d-b42b-71e884bcb22c,134cd4e1-b236-46d8-872e-eeaa9bf85e4e,69.0,73.79,77.38,72.35,72.89,58.74,58.49,C,Non calculable,Obligatoire,Oui,2023,,IQSS
+2a218820-cd08-4f0d-b42b-71e884bcb22c,d81bc532-849a-4c8c-90c6-28c307abddc8,69.0,73.79,77.38,72.35,72.89,58.74,58.49,C,Non calculable,Obligatoire,Oui,2023,,IQSS
+192d9eb1-0006-4f10-98f8-758e05bf4243,41e5180d-d4a1-4887-8c33-3b5cb69051c9,67.5,73.79,75.27,69.53,69.09,65.5,56.32,D,Stable,Obligatoire,Oui,2023,,IQSS
+192d9eb1-0006-4f10-98f8-758e05bf4243,e8f9401a-27fb-4249-bc47-fa47866b2177,67.5,73.79,75.27,69.53,69.09,65.5,56.32,D,Stable,Obligatoire,Oui,2023,,IQSS
+45db957b-6f52-4176-85db-00782e8bd916,c29e1b88-0b2d-4894-b085-351f0dc67ba7,,,,,,,,DI,,Facultatif,Oui,2023,,IQSS
+45db957b-6f52-4176-85db-00782e8bd916,6c0af183-6c52-478e-85a7-f917f761e98f,,,,,,,,DI,,Facultatif,Oui,2023,,IQSS
+a41d9fc4-5969-4698-a69e-ac823a6f7f9d,f4b6542f-7151-439c-ba2d-eac06b794acb,77.75,73.79,86.1,80.46,77.72,75.75,66.57,A,Non calculable,Facultatif,Oui,2023,,IQSS
+a41d9fc4-5969-4698-a69e-ac823a6f7f9d,bcbb2194-d37f-49bb-82d6-b12282f07d3d,77.75,73.79,86.1,80.46,77.72,75.75,66.57,A,Non calculable,Facultatif,Oui,2023,,IQSS
+171ab738-cb69-4e09-a39d-812543eb92df,f7fced58-2cc8-4f0d-8c13-1ed48872c968,74.65,73.79,80.65,80.24,72.01,62.56,66.21,B,Stable,Obligatoire,Oui,2023,,IQSS
+171ab738-cb69-4e09-a39d-812543eb92df,f7cb488a-7d74-44f0-b775-d01c5af34ea2,74.65,73.79,80.65,80.24,72.01,62.56,66.21,B,Stable,Obligatoire,Oui,2023,,IQSS
+5dee0371-de17-4fe3-b708-3ca3e681de4a,f19c990e-0db2-4a60-9afe-1bfd26d8510c,76.89,73.79,84.4,80.04,79.22,73.17,63.05,A,Non calculable,Obligatoire,Oui,2023,,IQSS
+5dee0371-de17-4fe3-b708-3ca3e681de4a,3112713a-6dbc-42d8-aea4-b94644ab617d,76.89,73.79,84.4,80.04,79.22,73.17,63.05,A,Non calculable,Obligatoire,Oui,2023,,IQSS
+ed785770-9e9c-490b-8da1-43a44e988350,0ca354ae-d0be-4be0-a9c7-81267550b444,75.01,73.79,82.68,80.95,71.46,54.48,71.09,B,Non calculable,Facultatif,Oui,2023,,IQSS
+ed785770-9e9c-490b-8da1-43a44e988350,a4dc0964-b393-4093-84a1-afedf2eb58c0,75.01,73.79,82.68,80.95,71.46,54.48,71.09,B,Non calculable,Facultatif,Oui,2023,,IQSS
+2efddf29-a2d1-45e4-b055-2eb1d401f1eb,0b22d691-f292-4dd5-9173-32021b0f033a,,,,,,,,DI,,Facultatif,Oui,2023,,IQSS
+2efddf29-a2d1-45e4-b055-2eb1d401f1eb,fc71d045-b9ab-415c-a9f5-93f320bdebb7,,,,,,,,DI,,Facultatif,Oui,2023,,IQSS
+741ee82d-01f8-49c6-a5d7-d1ee3349c3fb,5e4f3662-2f7a-44bd-a0e2-65a2a9608167,80.52,76.48,88.8,84.53,76.48,75.71,72.18,A,Stable,Obligatoire,Oui,2023,,IQSS
+741ee82d-01f8-49c6-a5d7-d1ee3349c3fb,a6947386-9204-4508-94c4-7d481229a055,80.52,76.48,88.8,84.53,76.48,75.71,72.18,A,Stable,Obligatoire,Oui,2023,,IQSS
+4fe0df31-1668-48fe-b8ed-8eb5a9d4cff2,4d1ad45a-eb70-476f-9674-b7f498045063,,,,,,,,DI,,Facultatif,Oui,2023,,IQSS
+4fe0df31-1668-48fe-b8ed-8eb5a9d4cff2,c055e14f-f275-4024-8693-51fc237e62fa,,,,,,,,DI,,Facultatif,Oui,2023,,IQSS
+c6ef4006-1094-4de1-842c-dc623662fe13,8e5b9524-2a65-44dc-abeb-15939c35353b,77.08,76.48,83.03,80.93,78.07,62.5,70.71,A,Stable,Obligatoire,Oui,2023,,IQSS
+c6ef4006-1094-4de1-842c-dc623662fe13,23b2c524-75f7-41f9-a362-04cf35a6a1e5,77.08,76.48,83.03,80.93,78.07,62.5,70.71,A,Stable,Obligatoire,Oui,2023,,IQSS
+a88cee4b-add6-4236-b357-e30c48e7c593,e4661082-402e-409e-86e3-305a43c3f84f,,,,,,,,DI,,Facultatif,Oui,2023,,IQSS
+a88cee4b-add6-4236-b357-e30c48e7c593,da9ba9e8-f0e6-405f-8e3d-010626e71b16,,,,,,,,DI,,Facultatif,Oui,2023,,IQSS
+bcc42cec-b167-4583-a8c3-c86ca35860ec,47ca6bfd-2a1c-41a8-b176-58ede9633edd,,,,,,,,DI,,Facultatif,Oui,2023,,IQSS
+bcc42cec-b167-4583-a8c3-c86ca35860ec,833d90db-b932-48ce-ba97-33c2bd8780ed,,,,,,,,DI,,Facultatif,Oui,2023,,IQSS
+b37cd4d6-c87d-46da-908e-fc2e79b48ec1,78a4f6a7-d0e8-45c4-88eb-45a35788fc17,70.7,76.84,76.37,76.3,72.26,48.12,64.04,C,Stable,Facultatif,Oui,2023,,IQSS
+b37cd4d6-c87d-46da-908e-fc2e79b48ec1,0dc500be-aba7-4533-a05b-e7c2304ba6f0,70.7,76.84,76.37,76.3,72.26,48.12,64.04,C,Stable,Facultatif,Oui,2023,,IQSS
+d7ee46a6-d2f1-4ead-ba67-f7098d1f4a9f,781829cb-15c2-492e-9ee6-e1f9aca654e2,,,,,,,,DI,,Facultatif,Oui,2023,,IQSS
+d7ee46a6-d2f1-4ead-ba67-f7098d1f4a9f,dd3ad4f7-228a-4f11-b26c-6d5f503e010c,,,,,,,,DI,,Facultatif,Oui,2023,,IQSS
+ed9a8527-dcd9-4bb9-8ddf-4183a580ef04,1424723f-5835-4648-847c-2559ea33c19f,,,,,,,,DI,,Facultatif,Oui,2023,,IQSS
+ed9a8527-dcd9-4bb9-8ddf-4183a580ef04,d0a4c028-a6ff-46ce-bffd-c49d4dca8acc,,,,,,,,DI,,Facultatif,Oui,2023,,IQSS
+a33c971c-6e58-490b-a4f4-8c493a2a7023,12a85930-9307-4c72-8034-1b535580ea0f,79.23,76.84,83.77,83.37,79.87,66.06,71.98,A,Non calculable,Obligatoire,Oui,2023,,IQSS
+a33c971c-6e58-490b-a4f4-8c493a2a7023,ba948f51-81d6-454d-9ce0-ce0717b2e2b0,79.23,76.84,83.77,83.37,79.87,66.06,71.98,A,Non calculable,Obligatoire,Oui,2023,,IQSS
+5b826f77-011d-48bb-a70e-df37b1d63acd,35a38f27-8b67-4c48-99ac-d339d7594224,,,,,,,,NR,,Obligatoire,Non,2023,,IQSS
+5b826f77-011d-48bb-a70e-df37b1d63acd,a5245c75-076b-4bd9-999d-eefbd0061a2e,,,,,,,,NR,,Obligatoire,Non,2023,,IQSS
+4b0ca7ee-ee63-4a64-af9d-ce50f3b82f04,3bd9f904-ffb6-4a07-a3ad-672027f55354,75.76,75.71,81.25,78.34,79.89,70.1,64.36,B,Non calculable,Obligatoire,Oui,2023,,IQSS
+4b0ca7ee-ee63-4a64-af9d-ce50f3b82f04,658c028f-a763-40b2-ba55-faf99a1b192c,75.76,75.71,81.25,78.34,79.89,70.1,64.36,B,Non calculable,Obligatoire,Oui,2023,,IQSS
+e6cf5ef5-55e1-4e00-b62b-d340c33074bb,0a5dff9c-fb54-4596-b578-ac1aa20c67d0,,,,,,,,DI,,Facultatif,Oui,2023,,IQSS
+e6cf5ef5-55e1-4e00-b62b-d340c33074bb,d2a640cd-2816-4cdc-b6c4-3df915990a7c,,,,,,,,DI,,Facultatif,Oui,2023,,IQSS
+ef533edf-33b0-4266-b45a-8af5ef3e58c2,3a3bcec4-a072-42c7-8593-14bcb4d8141b,,,,,,,,DI,,Facultatif,Oui,2023,,IQSS
+ef533edf-33b0-4266-b45a-8af5ef3e58c2,560102ef-037b-4397-b4da-ad54c6fccfe8,,,,,,,,DI,,Facultatif,Oui,2023,,IQSS
+d0f3518b-82d7-4240-80d9-8fcd43c58c41,0606040a-215a-4408-a9d0-32b399e4227a,75.68,75.08,80.78,80.89,75.5,53.87,71.42,B,Non calculable,Facultatif,Oui,2023,,IQSS
+d0f3518b-82d7-4240-80d9-8fcd43c58c41,597039b2-8709-400e-b2cf-ffa8fad70b4d,75.68,75.08,80.78,80.89,75.5,53.87,71.42,B,Non calculable,Facultatif,Oui,2023,,IQSS
+8ebbf03d-c65c-4671-93b4-83eef3ecb78c,effd95b5-c3d0-48d9-800b-5c1c81d838f0,,,,,,,,NV,,Obligatoire,Oui,2023,,IQSS
+8ebbf03d-c65c-4671-93b4-83eef3ecb78c,5e00624b-c526-4327-82cb-a17b1fd3d65c,,,,,,,,NV,,Obligatoire,Oui,2023,,IQSS
+640d5faa-0ce9-4e94-a609-1995b10c839e,df5a51e0-fce6-4079-ba47-77426bd338c1,81.39,72.25,88.15,85.06,81.56,69.96,74.6,A,Stable,Obligatoire,Oui,2023,,IQSS
+640d5faa-0ce9-4e94-a609-1995b10c839e,f519107c-9b15-495c-987c-ce1d04621ca1,81.39,72.25,88.15,85.06,81.56,69.96,74.6,A,Stable,Obligatoire,Oui,2023,,IQSS
+6fe2e5d3-85c0-4bda-b356-44958309438b,1e2e6485-f4b6-440f-9373-01c787b33bd5,74.45,72.25,80.1,77.47,78.88,66.31,63.83,B,Amélioration,Facultatif,Oui,2023,,IQSS
+6fe2e5d3-85c0-4bda-b356-44958309438b,eeb1425a-490c-42eb-87a7-fcd49bd732bd,74.45,72.25,80.1,77.47,78.88,66.31,63.83,B,Amélioration,Facultatif,Oui,2023,,IQSS
+44fadb80-120c-4ab9-b1ec-3ac36c33f76c,838769bd-6d25-4397-870a-07e911a0e749,,,,,,,,DI,,Facultatif,Oui,2023,,IQSS
+44fadb80-120c-4ab9-b1ec-3ac36c33f76c,6e5b51de-7015-4683-b9bc-8e56707937c0,,,,,,,,DI,,Facultatif,Oui,2023,,IQSS
+9e7a65b2-8c71-4902-a746-8eb436e5c2ca,d294d290-2cb8-4757-8cc2-296accaf77d8,,,,,,,,DI,,Facultatif,Oui,2023,,IQSS
+9e7a65b2-8c71-4902-a746-8eb436e5c2ca,918c5dd2-b41f-466a-878a-a26973c5615d,,,,,,,,DI,,Facultatif,Oui,2023,,IQSS
+4c921c21-7f9d-4ac8-b5a8-7cb9a9310542,f17031f7-c787-499e-8662-c3654188240c,,,,,,,,DI,,Facultatif,Oui,2023,,IQSS
+4c921c21-7f9d-4ac8-b5a8-7cb9a9310542,9fb41a43-7b80-465a-8566-659c1eef2c0c,,,,,,,,DI,,Facultatif,Oui,2023,,IQSS
+2fb3fd1a-e6ed-427b-81fa-96fff32d9e46,23889e6b-2771-4b12-9683-ddb520e31fb5,,,,,,,,DI,,Facultatif,Oui,2023,,IQSS
+2fb3fd1a-e6ed-427b-81fa-96fff32d9e46,a43d6f83-5c53-4bdf-a752-31c3c5f5f5d0,,,,,,,,DI,,Facultatif,Oui,2023,,IQSS
+e8649fe1-de63-43cf-a5ad-9a45ca12325e,644665cd-f098-45fa-bc3f-02431061d4fa,62.51,72.25,70.9,67.91,62.07,46.49,53.37,D,Stable,Facultatif,Oui,2023,,IQSS
+e8649fe1-de63-43cf-a5ad-9a45ca12325e,f58424a2-502d-4569-ab48-1295ef3b0fac,62.51,72.25,70.9,67.91,62.07,46.49,53.37,D,Stable,Facultatif,Oui,2023,,IQSS
+7cb02df3-f14f-43a2-8cd4-d4c5a521f16d,abd34a94-760f-4ab9-8e15-b3bcf0d10c34,,,,,,,,DI,,Facultatif,Oui,2023,,IQSS
+7cb02df3-f14f-43a2-8cd4-d4c5a521f16d,bd3a9711-fe3e-449c-ac7f-cd06c4b60290,,,,,,,,DI,,Facultatif,Oui,2023,,IQSS
+64ae9a66-4711-4501-b60c-bd91c4d529cb,b2a5f42a-2dac-47dd-87eb-78d725b3a971,71.92,72.25,79.64,76.8,76.34,48.15,64.03,C,Diminution,Obligatoire,Oui,2023,,IQSS
+64ae9a66-4711-4501-b60c-bd91c4d529cb,4c212f62-710d-4e1f-8b5b-f4f50d9ead02,71.92,72.25,79.64,76.8,76.34,48.15,64.03,C,Diminution,Obligatoire,Oui,2023,,IQSS
+99c34c9a-54cf-40ac-9206-9c816e845278,a23e0d0e-7750-4dad-a342-6a403fbfd1bd,,,,,,,,DI,,Facultatif,Oui,2023,,IQSS
+99c34c9a-54cf-40ac-9206-9c816e845278,b0188a8a-d804-40b8-879d-f7a9bfb89596,,,,,,,,DI,,Facultatif,Oui,2023,,IQSS
+e78edadc-de15-43e3-9959-94712d1d1aa7,baa326ad-c76f-4983-8eb7-a44dbbb60690,,,,,,,,DI,,Facultatif,Oui,2023,,IQSS
+e78edadc-de15-43e3-9959-94712d1d1aa7,48e5131d-6ac0-4535-aca6-d10be0d1754e,,,,,,,,DI,,Facultatif,Oui,2023,,IQSS
+df17d3c6-6646-478f-96c6-fa542fe3957b,5706f3d2-567a-4b44-9d15-ecfcab8a6881,,,,,,,,DI,,Facultatif,Oui,2023,,IQSS
+df17d3c6-6646-478f-96c6-fa542fe3957b,0e6941f8-100a-43e0-9553-93823afca67b,,,,,,,,DI,,Facultatif,Oui,2023,,IQSS
+67eed5e7-2905-4c77-8f9d-723cd4417265,292d904c-5a5f-4aa1-8207-610cbddec384,,,,,,,,DI,,Facultatif,Oui,2023,,IQSS
+67eed5e7-2905-4c77-8f9d-723cd4417265,ff7ae47c-b234-4dfd-b884-88f13282c13c,,,,,,,,DI,,Facultatif,Oui,2023,,IQSS
+afce9257-ffda-4035-9c38-fe9a54fbfd24,23a28fbe-ec64-4a9d-b30b-dad61a0dee2f,78.7,72.25,85.83,80.85,79.16,77.86,68.79,A,Amélioration,Facultatif,Oui,2023,,IQSS
+afce9257-ffda-4035-9c38-fe9a54fbfd24,9c7cbd0b-d56a-4f24-a2c2-df851ec0be64,78.7,72.25,85.83,80.85,79.16,77.86,68.79,A,Amélioration,Facultatif,Oui,2023,,IQSS
+5c491349-6f6c-40de-8e96-8cdab7642752,4481f1d5-ba9d-486d-aaf2-d76ea7c933e8,,,,,,,,NV,,Obligatoire,Oui,2023,,IQSS
+5c491349-6f6c-40de-8e96-8cdab7642752,81581bf4-d3f1-4a49-b0bb-8aa9f6c2532a,,,,,,,,NV,,Obligatoire,Oui,2023,,IQSS
+82a7f01e-1c4d-402d-8bdc-e53da210f791,06630aaf-0334-49d9-80c8-dbeb578bc8d6,,,,,,,,DI,,Facultatif,Oui,2023,,IQSS
+82a7f01e-1c4d-402d-8bdc-e53da210f791,f80e71ce-405d-462b-be35-93d91fd5836a,,,,,,,,DI,,Facultatif,Oui,2023,,IQSS
+12b85a89-1b2e-45f3-9b5d-4164d6d35c05,db0936f3-b4d0-4edc-84ac-d5e2f85e98ab,67.09,72.25,72.59,72.73,65.07,52.99,58.61,D,Diminution,Facultatif,Oui,2023,,IQSS
+12b85a89-1b2e-45f3-9b5d-4164d6d35c05,aa6eb959-f50c-4cd9-b45b-3fa82e7885aa,67.09,72.25,72.59,72.73,65.07,52.99,58.61,D,Diminution,Facultatif,Oui,2023,,IQSS
+3dc2cb68-21f6-40ac-8cd2-e700847d63c1,b786e750-dd77-453b-acfb-b5a63341931a,77.75,72.25,84.4,83.06,81.55,51.21,72.54,A,Amélioration,Facultatif,Oui,2023,,IQSS
+3dc2cb68-21f6-40ac-8cd2-e700847d63c1,7b4dc657-659b-4dfd-a4e3-6487669c3a88,77.75,72.25,84.4,83.06,81.55,51.21,72.54,A,Amélioration,Facultatif,Oui,2023,,IQSS
+b5725a61-d172-484e-b791-72967a3442d7,3bb12e7f-96c2-41e4-acfe-98607a9742ec,87.46,72.25,92.3,90.96,82.59,75.96,88.12,A,Non calculable,Facultatif,Oui,2023,,IQSS
+b5725a61-d172-484e-b791-72967a3442d7,10b891bb-0c0b-475a-9203-7a87751e40d5,87.46,72.25,92.3,90.96,82.59,75.96,88.12,A,Non calculable,Facultatif,Oui,2023,,IQSS
+d66439e8-1edf-486c-8454-c3a76d0df3a2,753b59ee-5401-4cd6-a829-ce621a05ebad,,,,,,,,DI,,Facultatif,Oui,2023,,IQSS
+d66439e8-1edf-486c-8454-c3a76d0df3a2,2cccecf1-e611-4c92-bb3f-8949bde1e435,,,,,,,,DI,,Facultatif,Oui,2023,,IQSS
+43c56079-df91-49e7-b1ff-d305419bdbd1,a166be79-7ca5-4edb-a5d6-216f39a46cb1,71.15,72.25,75.47,71.8,78.06,61.6,64.69,C,Stable,Facultatif,Oui,2023,,IQSS
+43c56079-df91-49e7-b1ff-d305419bdbd1,2a81a896-09bf-41f8-9950-d984ab1eaaf5,71.15,72.25,75.47,71.8,78.06,61.6,64.69,C,Stable,Facultatif,Oui,2023,,IQSS
+cca1b9f3-1f46-41fd-aa6b-49e69076a28c,f329745e-5dff-4a9c-a5ee-f28fbf953478,67.39,72.25,72.98,72.16,68.86,54.89,57.18,D,Non calculable,Facultatif,Oui,2023,,IQSS
+cca1b9f3-1f46-41fd-aa6b-49e69076a28c,a8db1d98-8827-46ae-99dd-f2463bf6f1fa,67.39,72.25,72.98,72.16,68.86,54.89,57.18,D,Non calculable,Facultatif,Oui,2023,,IQSS
+00ee20eb-bd5a-4165-96f3-c8dfb0067190,692e7794-19a0-4990-87af-6e9348d00905,,,,,,,,DI,,Facultatif,Oui,2023,,IQSS
+00ee20eb-bd5a-4165-96f3-c8dfb0067190,04f1d3f9-aab3-4db7-87d0-c0ace7d08846,,,,,,,,DI,,Facultatif,Oui,2023,,IQSS
+9edfeda8-d0d4-4bdc-8402-67de56cf2d4f,fb910ff9-9315-453a-aaef-c15d19ad4b51,63.26,72.25,69.28,65.53,70.77,48.59,53.44,D,Non calculable,Facultatif,Oui,2023,,IQSS
+9edfeda8-d0d4-4bdc-8402-67de56cf2d4f,5999d4f0-5035-44be-a20c-18ce33c84b68,63.26,72.25,69.28,65.53,70.77,48.59,53.44,D,Non calculable,Facultatif,Oui,2023,,IQSS
+14ef8999-1f35-4a91-82aa-c7b5ac0285cf,93effb97-1b22-4bfa-a8fd-ed2167d73af0,,,,,,,,DI,,Facultatif,Oui,2023,,IQSS
+14ef8999-1f35-4a91-82aa-c7b5ac0285cf,5628a0a1-c4ab-43c6-ae7f-0191382fd0c0,,,,,,,,DI,,Facultatif,Oui,2023,,IQSS
+98b4268f-4971-4881-8e5f-baba1a72f2fc,073819ca-afe1-4379-9f8a-a8cd42770889,,,,,,,,DI,,Facultatif,Oui,2023,,IQSS
+98b4268f-4971-4881-8e5f-baba1a72f2fc,0ed7f0d1-ffe2-40d9-b645-cb16b858d503,,,,,,,,DI,,Facultatif,Oui,2023,,IQSS
+757012a8-90f7-4e27-8b0f-acb7c92ec56c,08238ad4-2e74-4f81-a281-349211fcc0cc,62.62,72.25,66.53,69.27,65.07,38.8,53.31,D,Non calculable,Obligatoire,Oui,2023,,IQSS
+757012a8-90f7-4e27-8b0f-acb7c92ec56c,3efb2a80-beb7-49e6-87b1-d5eb5c2bc96b,62.62,72.25,66.53,69.27,65.07,38.8,53.31,D,Non calculable,Obligatoire,Oui,2023,,IQSS
+fc0ed978-1a55-4fc0-b64b-a47415ac6cac,0e0aca4c-6ba0-49f3-a937-95e89e4c6730,62.63,72.25,66.69,63.7,72.8,55.5,49.76,D,Non calculable,Obligatoire,Oui,2023,,IQSS
+fc0ed978-1a55-4fc0-b64b-a47415ac6cac,f1c48903-bd8e-4dfe-83ac-3aef1f0b6645,62.63,72.25,66.69,63.7,72.8,55.5,49.76,D,Non calculable,Obligatoire,Oui,2023,,IQSS
+deec5b81-7610-4228-8c68-090e582d3d33,2fa2b3c3-dc82-447e-89c7-142cc2bc799c,,,,,,,,DI,,Facultatif,Oui,2023,,IQSS
+deec5b81-7610-4228-8c68-090e582d3d33,876c04b4-9f3b-428d-9c0c-cc46bfc41c68,,,,,,,,DI,,Facultatif,Oui,2023,,IQSS
+98501e97-b50a-4456-b31f-0bb2f07acb9d,cce9da9a-720d-4465-bfbb-e13a4261374f,,,,,,,,DI,,Obligatoire,Oui,2023,,IQSS
+98501e97-b50a-4456-b31f-0bb2f07acb9d,4e1ec1a7-2106-4e6e-81b7-11a45e89699b,,,,,,,,DI,,Obligatoire,Oui,2023,,IQSS
+6a418673-0d14-4d1c-bb85-ba682f0deea9,c4cc3220-aed0-4ee7-baca-d9af730317ae,,,,,,,,DI,,Facultatif,Oui,2023,,IQSS
+6a418673-0d14-4d1c-bb85-ba682f0deea9,aad0402d-8319-4dee-a938-abecf4c96042,,,,,,,,DI,,Facultatif,Oui,2023,,IQSS
+5eaa5329-30d8-408f-809f-c9a4269b995d,aad4bf7d-fcc2-4856-9af5-84fdc22da92d,68.92,72.25,74.3,72.37,69.84,57.61,62.73,C,Stable,Obligatoire,Oui,2023,,IQSS
+5eaa5329-30d8-408f-809f-c9a4269b995d,810424d1-50cd-42a4-adf8-fe9cb015e018,68.92,72.25,74.3,72.37,69.84,57.61,62.73,C,Stable,Obligatoire,Oui,2023,,IQSS
+246ffe42-0065-442e-a57a-8f252850fcd8,0e919efd-a61e-4eaa-8b7c-efef84e4e8da,,,,,,,,DI,,Facultatif,Oui,2023,,IQSS
+246ffe42-0065-442e-a57a-8f252850fcd8,a1eb529b-9b71-4d00-ae71-89236529c0a5,,,,,,,,DI,,Facultatif,Oui,2023,,IQSS
+e203cbd2-dca2-43b9-a805-f0e7ea4c31ea,209f9193-0f70-4189-8d0f-ac95b822da3a,59.83,72.25,66.91,61.67,66.4,47.61,48.78,D,Non calculable,Facultatif,Oui,2023,,IQSS
+e203cbd2-dca2-43b9-a805-f0e7ea4c31ea,6fcef551-ffa8-4537-a022-5578e694657a,59.83,72.25,66.91,61.67,66.4,47.61,48.78,D,Non calculable,Facultatif,Oui,2023,,IQSS
+10c812ed-af08-4a3f-b51a-30f1ea676db0,0ecdee9b-06ba-4897-8c5c-bbde9c41ee7e,,,,,,,,DI,,Facultatif,Oui,2023,,IQSS
+10c812ed-af08-4a3f-b51a-30f1ea676db0,20018d97-9955-434e-807a-0f0160b82dca,,,,,,,,DI,,Facultatif,Oui,2023,,IQSS
+37fdbc31-97d6-4851-8ede-093038701145,a4339585-c223-49a5-b9b9-fddfd77a32b5,56.58,72.25,54.07,61.32,58.88,46.39,48.13,D,Non calculable,Facultatif,Oui,2023,,IQSS
+37fdbc31-97d6-4851-8ede-093038701145,d589289d-6790-4002-b379-f0699a92ab29,56.58,72.25,54.07,61.32,58.88,46.39,48.13,D,Non calculable,Facultatif,Oui,2023,,IQSS
+853730e6-d797-41aa-b7d5-15f89575f603,e590ce34-b4ee-41e8-a4cb-4eac705a6668,,,,,,,,NV,,Obligatoire,Oui,2023,,IQSS
+853730e6-d797-41aa-b7d5-15f89575f603,1ce8d31f-204a-446a-a26b-cba1589c0d9d,,,,,,,,NV,,Obligatoire,Oui,2023,,IQSS
+b5ead466-4f89-4664-ae28-813ecb183dcf,ab4c2b8d-8677-475e-9a5d-f8b2694f5c48,,,,,,,,DI,,Facultatif,Oui,2023,,IQSS
+b5ead466-4f89-4664-ae28-813ecb183dcf,950ba7d9-340d-447d-960e-a54d2becb2c0,,,,,,,,DI,,Facultatif,Oui,2023,,IQSS
+debf3e1d-4a65-4c1c-8bb3-54a21be18fc9,c1768a30-3d40-4a7f-9ca9-a92d5880baff,72.36,72.25,76.65,76.27,78.78,55.86,62.84,C,Non calculable,Obligatoire,Oui,2023,,IQSS
+debf3e1d-4a65-4c1c-8bb3-54a21be18fc9,274fb626-53a1-462a-999b-8693032c8194,72.36,72.25,76.65,76.27,78.78,55.86,62.84,C,Non calculable,Obligatoire,Oui,2023,,IQSS
+84a5e2b2-ef0e-497c-b132-11ddf13314dd,581b0076-4fb4-4e30-b8ea-90fe7ba56777,,,,,,,,DI,,Facultatif,Oui,2023,,IQSS
+84a5e2b2-ef0e-497c-b132-11ddf13314dd,79c20624-f543-40e7-b339-8dc45bb71f93,,,,,,,,DI,,Facultatif,Oui,2023,,IQSS
+1ec8e093-9609-4db9-8fa8-be4f3f0a0b09,c78e2ef0-158c-4b04-bba0-77b6bfbab541,,,,,,,,DI,,Facultatif,Oui,2023,,IQSS
+1ec8e093-9609-4db9-8fa8-be4f3f0a0b09,7c74da2e-d01c-4bf4-a24a-e776fbcba64d,,,,,,,,DI,,Facultatif,Oui,2023,,IQSS
+80a9eb89-7407-4d55-8e45-1e8d5928413c,b27c4b64-f97b-45d5-8930-94e708894c7e,,,,,,,,DI,,Facultatif,Oui,2023,,IQSS
+80a9eb89-7407-4d55-8e45-1e8d5928413c,a2d0075f-0039-4ffd-b9d4-a0d61c3d7aa2,,,,,,,,DI,,Facultatif,Oui,2023,,IQSS
+8fee6177-a41d-4b4d-9fbc-904456f358e7,16bfeb13-002e-4df0-b3ff-1d1fa2870d2e,,,,,,,,DI,,Facultatif,Oui,2023,,IQSS
+8fee6177-a41d-4b4d-9fbc-904456f358e7,fab34636-af4a-4156-8682-3efcd828e1fe,,,,,,,,DI,,Facultatif,Oui,2023,,IQSS
+2821b8b3-e853-43b5-9337-58364f6b3572,831fcef9-83cb-42c7-a9fd-577a27953975,69.07,72.25,72.95,70.11,79.26,56.69,59.81,C,Amélioration,Facultatif,Oui,2023,,IQSS
+2821b8b3-e853-43b5-9337-58364f6b3572,9f7f674d-a4d9-49c9-af67-b118474558d6,69.07,72.25,72.95,70.11,79.26,56.69,59.81,C,Amélioration,Facultatif,Oui,2023,,IQSS
+2282e80b-81a0-4c1c-b5e4-53edaa7cea4b,78135d4d-a222-495c-ac61-78876417e422,69.53,72.25,79.57,74.37,68.0,66.6,53.91,C,Non calculable,Facultatif,Oui,2023,,IQSS
+2282e80b-81a0-4c1c-b5e4-53edaa7cea4b,9c85f03c-73be-48bc-944d-5447e6e6a89d,69.53,72.25,79.57,74.37,68.0,66.6,53.91,C,Non calculable,Facultatif,Oui,2023,,IQSS
+b574a4ed-31fd-4bf5-b08c-73188d696b4d,aadee3cb-35c8-4e57-83f2-db609cc40a6f,,,,,,,,DI,,Facultatif,Oui,2023,,IQSS
+b574a4ed-31fd-4bf5-b08c-73188d696b4d,63f1957f-c23b-4f50-831f-d02a47002a64,,,,,,,,DI,,Facultatif,Oui,2023,,IQSS
+3b18ee48-f22d-4637-83a6-ba7c8f280462,e3f1bc11-6348-43ca-9ae8-76146b0ceb21,,,,,,,,DI,,Facultatif,Oui,2023,,IQSS
+3b18ee48-f22d-4637-83a6-ba7c8f280462,167a5274-44bf-4565-9c6a-80d47e4bb161,,,,,,,,DI,,Facultatif,Oui,2023,,IQSS
+72c6837a-1b7e-419f-8267-b3f519606f9a,ed5200bc-7a56-4c4a-8392-b166a1a05902,69.11,72.25,76.22,73.46,70.91,50.89,63.04,C,Amélioration,Facultatif,Oui,2023,,IQSS
+72c6837a-1b7e-419f-8267-b3f519606f9a,c479b829-8929-4c05-8bd9-4d82c8610748,69.11,72.25,76.22,73.46,70.91,50.89,63.04,C,Amélioration,Facultatif,Oui,2023,,IQSS
+ac329563-1a2d-4a7a-9768-562ef9eabc3b,81bf7c31-b16d-4744-9753-95206eb0c598,,,,,,,,DI,,Facultatif,Oui,2023,,IQSS
+ac329563-1a2d-4a7a-9768-562ef9eabc3b,c5d887c4-3fb3-402b-95e5-4bb151567742,,,,,,,,DI,,Facultatif,Oui,2023,,IQSS
+4352bca6-7010-48ad-8801-47fc45787c13,9df948f5-43e9-465e-9c78-4a4478ab5dc1,,,,,,,,DI,,Facultatif,Oui,2023,,IQSS
+4352bca6-7010-48ad-8801-47fc45787c13,9e83d4e2-0809-4521-bf09-7e4c1385be44,,,,,,,,DI,,Facultatif,Oui,2023,,IQSS
+569cebf9-90ed-4abf-8ed1-f659a4a6320e,85509e3c-5395-4f56-8645-479962c3cae0,76.04,72.25,83.08,77.71,71.84,77.27,70.62,B,Diminution,Obligatoire,Oui,2023,,IQSS
+569cebf9-90ed-4abf-8ed1-f659a4a6320e,7f4a48a0-34be-4e82-928d-bf65672f5bbc,76.04,72.25,83.08,77.71,71.84,77.27,70.62,B,Diminution,Obligatoire,Oui,2023,,IQSS
+5f5fdb42-0c70-4106-90d5-68e35dc98b75,568e44ce-33cd-4fec-afb5-e5f6fe4e1db5,,,,,,,,DI,,Facultatif,Oui,2023,,IQSS
+5f5fdb42-0c70-4106-90d5-68e35dc98b75,4a33c261-6845-47d4-89cd-d981f84bcf9e,,,,,,,,DI,,Facultatif,Oui,2023,,IQSS
+ff16cb14-0410-4d7c-99b6-f4d23f27fd56,de881afc-7568-40d5-8262-4eecada52510,65.23,72.25,68.57,64.55,77.53,59.82,53.73,D,Stable,Facultatif,Oui,2023,,IQSS
+ff16cb14-0410-4d7c-99b6-f4d23f27fd56,7c119cc8-a96c-4a56-8847-142e4c79a860,65.23,72.25,68.57,64.55,77.53,59.82,53.73,D,Stable,Facultatif,Oui,2023,,IQSS
+3539c3b5-43af-475b-8b03-02dc1637ea48,461fa448-5541-4c7b-9c6b-6c5384b2e5b2,76.58,72.25,86.17,82.22,77.47,59.98,64.97,B,Amélioration,Facultatif,Oui,2023,,IQSS
+3539c3b5-43af-475b-8b03-02dc1637ea48,b6c32194-c401-4978-8ed9-56aeab102a32,76.58,72.25,86.17,82.22,77.47,59.98,64.97,B,Amélioration,Facultatif,Oui,2023,,IQSS
+fffda038-715c-4f3d-ad21-fbf8a8cc72a5,f84fe1c2-9025-4ec8-9e92-d4964fd09d24,74.28,72.25,81.64,79.97,74.47,50.15,68.54,B,Stable,Facultatif,Oui,2023,,IQSS
+fffda038-715c-4f3d-ad21-fbf8a8cc72a5,de82cc99-6fc2-4333-9ab0-68c77102d3df,74.28,72.25,81.64,79.97,74.47,50.15,68.54,B,Stable,Facultatif,Oui,2023,,IQSS
+24d6406c-d00d-425f-8272-e15ab44c0543,2b66855c-fa63-468b-a3e5-a1e962876972,,,,,,,,DI,,Obligatoire,Oui,2023,,IQSS
+24d6406c-d00d-425f-8272-e15ab44c0543,d9dd5b7d-c712-4cbf-94aa-292b54f6c2cc,,,,,,,,DI,,Obligatoire,Oui,2023,,IQSS
+c204601c-39cf-484e-8d55-754d6dab656a,11e41ddb-e68d-477c-b5a9-d4e7ef98e969,,,,,,,,DI,,Facultatif,Oui,2023,,IQSS
+c204601c-39cf-484e-8d55-754d6dab656a,b948313b-fe6d-4a43-92d8-f99b00ae0fde,,,,,,,,DI,,Facultatif,Oui,2023,,IQSS
+e2906741-c2bc-4dd4-aed1-365cbf03deef,06c09b7a-038e-4309-bab8-69472307c60c,73.02,72.25,79.78,73.28,79.68,71.32,62.77,B,Stable,Obligatoire,Oui,2023,,IQSS
+e2906741-c2bc-4dd4-aed1-365cbf03deef,ff934a4b-26b3-434b-b3ab-4a3882844fb2,73.02,72.25,79.78,73.28,79.68,71.32,62.77,B,Stable,Obligatoire,Oui,2023,,IQSS
+14491a0f-86aa-467b-aa06-88a605ea0a62,258f9025-929c-46ae-85b3-ae057a34738f,,,,,,,,DI,,Facultatif,Oui,2023,,IQSS
+14491a0f-86aa-467b-aa06-88a605ea0a62,5b7a4628-ae48-49dd-9821-eb46fa86074e,,,,,,,,DI,,Facultatif,Oui,2023,,IQSS
+ddfffddd-afdf-4a48-a255-5437cb6eaafc,72acb9b1-aa08-47a8-b26f-081162f65c8e,,,,,,,,DI,,Facultatif,Oui,2023,,IQSS
+ddfffddd-afdf-4a48-a255-5437cb6eaafc,3f5a0fe0-49be-4aea-92e2-2a588b6de1c7,,,,,,,,DI,,Facultatif,Oui,2023,,IQSS
+f26c61db-0be4-4706-9ea7-e5ad6174d9a9,3dbeef09-9ed5-4802-8c88-42588fb29c8a,,,,,,,,DI,,Facultatif,Oui,2023,,IQSS
+f26c61db-0be4-4706-9ea7-e5ad6174d9a9,5cfcc8ba-1cd5-49dc-8019-037b293fa68b,,,,,,,,DI,,Facultatif,Oui,2023,,IQSS
+ef788fc2-b0a8-4e03-9cdc-fa3c445014d7,fc02f27e-4b67-4f98-bf6d-e0dea4bc393d,,,,,,,,DI,,Facultatif,Oui,2023,,IQSS
+ef788fc2-b0a8-4e03-9cdc-fa3c445014d7,226286ea-6717-4e1e-8ee0-fc720c4bd72c,,,,,,,,DI,,Facultatif,Oui,2023,,IQSS
+a3d6bae9-8381-4441-9da5-985dbf0fb9a2,e7517cb8-23c9-4d02-9978-9dc4377bf6d9,,,,,,,,DI,,Facultatif,Oui,2023,,IQSS
+a3d6bae9-8381-4441-9da5-985dbf0fb9a2,03489502-6fe7-48bc-bd4b-54bde9976599,,,,,,,,DI,,Facultatif,Oui,2023,,IQSS
+6a616a4b-c319-4f54-bd61-fe0dc06ae736,0a758eeb-ffa3-4b28-bd92-2a86c8fca8dc,74.24,72.25,81.1,78.54,74.26,59.48,68.13,B,Stable,Obligatoire,Oui,2023,,IQSS
+6a616a4b-c319-4f54-bd61-fe0dc06ae736,9c80581c-d3e9-47bb-bfd9-5796de7cc69f,74.24,72.25,81.1,78.54,74.26,59.48,68.13,B,Stable,Obligatoire,Oui,2023,,IQSS
+b7b99669-1e25-49ac-a670-eeeafae27b61,807e4e6f-b156-4240-a077-6e8e8b3538df,,,,,,,,DI,,Facultatif,Oui,2023,,IQSS
+b7b99669-1e25-49ac-a670-eeeafae27b61,6863c331-788b-4905-80ce-9dadd21e29ee,,,,,,,,DI,,Facultatif,Oui,2023,,IQSS
+d6c11167-dccd-4dc8-86bb-86843de2c26d,9c611db0-7e55-4169-a4d9-d837aab24210,,,,,,,,DI,,Facultatif,Oui,2023,,IQSS
+d6c11167-dccd-4dc8-86bb-86843de2c26d,19501680-1972-4f05-86a0-9504e462a02f,,,,,,,,DI,,Facultatif,Oui,2023,,IQSS
+0e6370d9-6877-4a55-94dc-887112f9adc0,6b15d0eb-1974-4b7f-b261-b89f68a65b34,,,,,,,,DI,,Facultatif,Oui,2023,,IQSS
+0e6370d9-6877-4a55-94dc-887112f9adc0,3e36899e-14cc-407e-8528-132379842fd2,,,,,,,,DI,,Facultatif,Oui,2023,,IQSS
+7f1e9759-f76a-4493-bac5-b73372cfd6be,b6e01266-a382-42a6-ba8d-5334a48def4f,,,,,,,,DI,,Facultatif,Oui,2023,,IQSS
+7f1e9759-f76a-4493-bac5-b73372cfd6be,c570b698-a450-481e-9aef-d3b09cf7079e,,,,,,,,DI,,Facultatif,Oui,2023,,IQSS
+72ddbb7b-ae87-4036-a25b-6b0b3f28b596,ae137b15-6f53-439b-b966-49bfdb865f8b,82.83,72.25,89.95,85.04,86.49,72.23,74.77,A,Stable,Facultatif,Oui,2023,,IQSS
+72ddbb7b-ae87-4036-a25b-6b0b3f28b596,78809cf5-eb48-47f4-ab41-ecff60d84137,82.83,72.25,89.95,85.04,86.49,72.23,74.77,A,Stable,Facultatif,Oui,2023,,IQSS
+a57a0067-6572-4a76-90a9-5a0359990e9f,e0d07476-1f47-4b23-afe7-40399f8974f5,,,,,,,,DI,,Facultatif,Oui,2023,,IQSS
+a57a0067-6572-4a76-90a9-5a0359990e9f,f788c656-d0aa-451b-a80d-1b962748761a,,,,,,,,DI,,Facultatif,Oui,2023,,IQSS
+66bb7b4b-b04a-43f7-a02c-9e6e40cc1465,efc2593b-7e9a-4d10-9128-9db22db58b11,,,,,,,,NV,,Obligatoire,Oui,2023,,IQSS
+66bb7b4b-b04a-43f7-a02c-9e6e40cc1465,385e1043-31de-41b1-b36c-8625cd0ab26b,,,,,,,,NV,,Obligatoire,Oui,2023,,IQSS
+7cd8395c-81a1-4491-a066-9c4d9f044d04,fac1b09e-ef5f-4aa5-adad-afd096d3759c,,,,,,,,DI,,Facultatif,Oui,2023,,IQSS
+7cd8395c-81a1-4491-a066-9c4d9f044d04,93720ff1-165d-4546-8336-0f70a33b5b79,,,,,,,,DI,,Facultatif,Oui,2023,,IQSS
+f68dd134-4f1b-4239-8fdb-c63a4ff55d92,cee8e86e-4ebc-4386-b753-912e948bcecf,,,,,,,,DI,,Facultatif,Oui,2023,,IQSS
+f68dd134-4f1b-4239-8fdb-c63a4ff55d92,084f763f-58d5-4bb0-899a-543860d4b6aa,,,,,,,,DI,,Facultatif,Oui,2023,,IQSS
+2a97543e-559c-4fb4-9317-565451bcc581,2a4ebb34-2dcd-4757-a2a1-eccc8c23b4fb,,,,,,,,DI,,Facultatif,Oui,2023,,IQSS
+2a97543e-559c-4fb4-9317-565451bcc581,60defccc-b0d2-4291-9240-697c8d2bc0e5,,,,,,,,DI,,Facultatif,Oui,2023,,IQSS
+cec42123-0625-49ce-aff6-5f4a11f59948,ece99ba9-3f8f-48ad-ad93-fd5035fcc123,,,,,,,,DI,,Facultatif,Oui,2023,,IQSS
+cec42123-0625-49ce-aff6-5f4a11f59948,de52b359-a287-431c-9b33-1f5366d11e2d,,,,,,,,DI,,Facultatif,Oui,2023,,IQSS
+00012ea9-dcc1-4863-a3f2-f7c62cac882b,c22a5449-24aa-4a87-bf66-616ccc2216e2,,,,,,,,DI,,Facultatif,Oui,2023,,IQSS
+00012ea9-dcc1-4863-a3f2-f7c62cac882b,f28d5210-6c48-4b7f-af51-3ad46a4f595b,,,,,,,,DI,,Facultatif,Oui,2023,,IQSS
+d380c959-0a68-4bee-b892-6bd482ee7284,ba02beca-56b3-41d3-8490-e35fdd56c7ee,,,,,,,,NV,,Obligatoire,Oui,2023,,IQSS
+d380c959-0a68-4bee-b892-6bd482ee7284,b22008bc-06ac-4850-8bae-e2794809a4fe,,,,,,,,NV,,Obligatoire,Oui,2023,,IQSS
+00555225-3521-4303-bb54-8ec08f5976bc,0601a7e6-1ea6-433d-a5eb-a71ac4f04122,74.76,74.76,82.71,79.37,73.89,64.99,64.67,B,Non calculable,Obligatoire,Oui,2023,,IQSS
+00555225-3521-4303-bb54-8ec08f5976bc,7837ac59-872d-4b0e-a866-faf88c232a1c,74.76,74.76,82.71,79.37,73.89,64.99,64.67,B,Non calculable,Obligatoire,Oui,2023,,IQSS
+7acbeb4f-7354-45c4-8932-a10733ef9bcb,1556d218-39b5-45c7-b1a7-84eaf6db91c6,70.15,72.15,74.68,73.21,72.11,58.33,63.82,C,Diminution,Facultatif,Oui,2023,,IQSS
+7acbeb4f-7354-45c4-8932-a10733ef9bcb,d88de629-7aa8-4228-a1ee-fc6ba087ddb1,70.15,72.15,74.68,73.21,72.11,58.33,63.82,C,Diminution,Facultatif,Oui,2023,,IQSS
+52018e8c-4bc2-4e49-8e38-1a16bda98fb0,2f79867f-40b3-4e79-94d2-fbfbf90ac03b,,,,,,,,DI,,Facultatif,Oui,2023,,IQSS
+52018e8c-4bc2-4e49-8e38-1a16bda98fb0,16972ca1-e6fe-44ae-be7a-38e1fdb9edb9,,,,,,,,DI,,Facultatif,Oui,2023,,IQSS
+f95e1339-c374-4ffa-9ef5-758bda577a8e,5b93d5eb-2028-4e5b-9caf-5ed5e0aa35a9,,,,,,,,DI,,Facultatif,Oui,2023,,IQSS
+f95e1339-c374-4ffa-9ef5-758bda577a8e,f6d0aca3-354a-4f2c-8eb6-1904756de4c5,,,,,,,,DI,,Facultatif,Oui,2023,,IQSS
+de5d3158-eef2-48ec-b444-beb3f2473a32,79d931f8-0c65-4971-a9fd-11c87a77125a,,,,,,,,DI,,Facultatif,Oui,2023,,IQSS
+de5d3158-eef2-48ec-b444-beb3f2473a32,a0beeaf4-fbe8-42bd-8e01-438863f02bcb,,,,,,,,DI,,Facultatif,Oui,2023,,IQSS
+23b2688b-a202-4b34-9391-6c8a1ed6c5db,a4861dc0-49eb-4a4c-9555-80cc2c19a725,74.14,72.15,80.1,78.32,74.77,54.97,70.52,B,Amélioration,Facultatif,Oui,2023,,IQSS
+23b2688b-a202-4b34-9391-6c8a1ed6c5db,9206f85c-066b-4483-a589-f0d8b224083f,74.14,72.15,80.1,78.32,74.77,54.97,70.52,B,Amélioration,Facultatif,Oui,2023,,IQSS
+0a46fc7a-a3cf-47a5-af3d-73efc531628f,8e14ac5f-9f09-452e-b13a-0452b6c7d18a,,,,,,,,DI,,Facultatif,Oui,2023,,IQSS
+0a46fc7a-a3cf-47a5-af3d-73efc531628f,afcb9faa-7d0e-4959-8f6c-3e6da2acd3c7,,,,,,,,DI,,Facultatif,Oui,2023,,IQSS
