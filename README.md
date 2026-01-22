@@ -7,13 +7,14 @@
 
 ## Overview
 
-This project provides a complete data pipeline for fetching, cleaning, and normalizing French healthcare data from official open data sources. It creates a unified database of healthcare establishments with their quality metrics and certifications.
+This project provides a complete **multi-tier data pipeline** for fetching, cleaning, and processing French healthcare data from official open data sources. It implements a **medallion architecture** (Bronze-Silver) to ensure data quality and traceability, creating a unified database of healthcare establishments with their quality metrics and certifications.
 
 ### Key Features
 
+- **Multi-Tier Architecture**: Raw → Bronze → Silver data layers with clear quality gates
 - **Automated Ingestion**: Fetch data from data.gouv.fr and HAS
-- **Data Cleaning**: Handle messy headers, encoding issues, and missing values
-- **Normalization**: Generate consistent schemas with UUIDs and linking
+- **Data Cleaning (Bronze)**: Standardize encoding, headers, and formats without transformations
+- **Data Processing (Silver)**: Apply business logic, generate UUIDs, and link related data
 - **Year-by-Year**: Process historical data maintaining temporal accuracy
 - **Extensible**: Modular connector architecture for adding new sources
 
@@ -31,48 +32,61 @@ This project provides a complete data pipeline for fetching, cleaning, and norma
 # Install dependencies
 pip install -r requirements.txt
 
-# Run ingestion (defaults to 2023, or specify year)
+# Step 1: Run ingestion (fetch raw data)
 python scripts/run_ingestion.py --year 2024
 
-# Process data
+# Step 2: Run cleaning (Raw → Bronze)
+python scripts/run_cleaning.py --year 2024
+
+# Step 3: Run processing (Bronze → Silver)
 python scripts/run_processing.py --year 2024
 
-# Explore results
-jupyter notebook notebooks/exploration_veltis_data.ipynb
+# Explore results with notebooks
+jupyter notebook notebooks/
 ```
 
 **Output**:
-- Raw data: `data/raw/2023/`
-- Processed data: `data/processed/2023/`
-- 3 normalized CSV files: `etablissements.csv`, `qualifications.csv`, `health_metrics.csv`
+- Raw data: `data/raw/2024/`
+- Bronze (cleaned): `data/bronze/2024/`
+- Silver (processed): `data/silver/2024/`
+- Final CSV files: `etablissements.csv`, `qualifications.csv`, `health_metrics.csv`
 
 ## Project Structure
 
 ```
 MVP-web-scrapping-project/
-├── scripts/              # CLI entry points
-│   ├── run_ingestion.py   # Fetch raw data
-│   └── run_processing.py  # Clean and normalize
+├── scripts/                   # CLI entry points
+│   ├── run_ingestion.py      # Step 1: Fetch raw data
+│   ├── run_cleaning.py       # Step 2: Raw → Bronze (standardization)
+│   └── run_processing.py     # Step 3: Bronze → Silver (transformations)
 │
-├── src/                  # Core library code
-│   ├── ingestion_manager.py    # Orchestrates ingestion
+├── src/                       # Core library code
+│   ├── pipeline.py           # Main pipeline orchestrator
+│   ├── ingestion_manager.py  # Coordinates data ingestion
 │   ├── processing/
-│   │   └── data_cleaner.py     # Cleans and normalizes data
-│   ├── connectors/             # API connectors (data.gouv, HAS)
-│   ├── models/                 # Data schemas
-│   └── config.py               # Configuration
+│   │   ├── data_cleaner.py   # Bronze: Cleaning & standardization
+│   │   └── data_processor.py # Silver: Business logic & linking
+│   ├── connectors/           # API connectors (data.gouv, HAS)
+│   ├── models/               # Data schemas (Etablissement, Qualification, etc.)
+│   └── config.py             # Configuration management
 │
-├── docs/                 # Documentation
-│   ├── API_CONNECTORS.md  # Connector usage guide
-│   ├── DATA_SOURCES.md    # Data source details
-│   └── USAGE.md           # Complete user guide
+├── docs/                      # Documentation
+│   ├── API_CONNECTORS.md     # Connector usage guide
+│   ├── DATA_SOURCES.md       # Data source details
+│   ├── DATA_DICTIONARY.md    # Schema and field definitions
+│   └── USAGE.md              # Complete user guide
 │
-├── notebooks/            # Jupyter notebooks
-├── data/                 # Data storage (not in git)
-│   ├── raw/              # Downloaded files
-│   └── processed/        # Cleaned and normalized files
+├── notebooks/                 # Jupyter exploration notebooks
+│   ├── 01_raw_data_exploration.ipynb     # Explore raw data
+│   ├── 02_bronze_data_exploration.ipynb  # Explore cleaned data
+│   └── 03_silver_data_exploration.ipynb  # Explore processed data
 │
-└── requirements.txt      # Python dependencies
+├── data/                      # Data storage (not in git)
+│   ├── raw/{year}/           # Downloaded files from APIs
+│   ├── bronze/{year}/        # Cleaned, standardized data
+│   └── silver/{year}/        # Processed, linked, ready-to-use data
+│
+└── requirements.txt           # Python dependencies
 ```
 
 ## Documentation
@@ -109,12 +123,12 @@ pip install -r requirements.txt
 
 ## Usage
 
-### 1. Data Ingestion
+### 1. Data Ingestion (Raw Layer)
 
 Fetch raw data from official sources:
 
 ```bash
-python scripts/run_ingestion.py
+python scripts/run_ingestion.py --year 2024
 ```
 
 Downloads:
@@ -122,14 +136,30 @@ Downloads:
 - HAS certification data (2 CSV files)
 - IQSS health quality metrics (Excel)
 
-Output: `data/raw/2023/`
+Output: `data/raw/2024/`
 
-### 2. Data Processing
+### 2. Data Cleaning (Bronze Layer)
 
-Clean and normalize the raw data:
+Standardize and clean the raw data:
 
 ```bash
-python scripts/run_processing.py
+python scripts/run_cleaning.py --year 2024
+```
+
+Cleans:
+- Encoding standardization (UTF-8)
+- Header normalization
+- Column name cleaning
+- Basic validation
+
+Output: `data/bronze/2024/`
+
+### 3. Data Processing (Silver Layer)
+
+Apply business logic and link data:
+
+```bash
+python scripts/run_processing.py --year 2024
 ```
 
 Produces:
@@ -137,46 +167,86 @@ Produces:
 - `qualifications.csv` - HAS certifications linked to establishments
 - `health_metrics.csv` - IQSS metrics linked to establishments
 
-Output: `data/processed/2023/`
+Output: `data/silver/2024/`
 
-### 3. Data Exploration
+### 4. Data Exploration
 
-Open the Jupyter notebook to explore the data:
+Explore data at each tier with Jupyter notebooks:
 
 ```bash
-jupyter notebook notebooks/exploration_veltis_data.ipynb
+jupyter notebook notebooks/
 ```
 
-The notebook provides:
-- Automatic dependency installation
-- Data loading and preview
-- Basic statistics and quality checks
+Available notebooks:
+- `01_raw_data_exploration.ipynb` - Explore raw ingested data
+- `02_bronze_data_exploration.ipynb` - Explore cleaned data
+- `03_silver_data_exploration.ipynb` - Explore final processed data
 
 ## Architecture
 
-### Ingestion Flow
+### Data Flow Overview
 
 ```
-data.gouv.fr APIs
-       ↓
-DataGouvConnector / HASConnector
-       ↓
-IngestionManager
-       ↓
-data/raw/{year}/
+┌─────────────────┐
+│  Data Sources   │
+│  (APIs/Files)   │
+└────────┬────────┘
+         │
+         ↓
+┌─────────────────────────┐
+│   RAW Layer             │  ← run_ingestion.py
+│   (data/raw/{year})     │
+│   • Original files      │
+│   • No transformations  │
+└────────┬────────────────┘
+         │
+         ↓
+┌─────────────────────────┐
+│   BRONZE Layer          │  ← run_cleaning.py
+│   (data/bronze/{year})  │   (data_cleaner.py)
+│   • UTF-8 encoding      │
+│   • Clean headers       │
+│   • Standardized files  │
+└────────┬────────────────┘
+         │
+         ↓
+┌─────────────────────────┐
+│   SILVER Layer          │  ← run_processing.py
+│   (data/silver/{year})  │   (data_processor.py)
+│   • UUIDs generated     │
+│   • Business logic      │
+│   • Linked tables       │
+│   • Ready for analysis  │
+└─────────────────────────┘
 ```
 
 ### Processing Flow
 
+**Stage 1: Raw → Bronze (Cleaning)**
 ```
 data/raw/{year}/
        ↓
-DataProcessor
-  ├─ load_clean_finess()
-  ├─ load_clean_has()
-  └─ load_clean_health_metrics()
+DataCleaner
+  ├─ clean_finess()        # Standardize FINESS data
+  ├─ clean_has()           # Standardize HAS data
+  └─ clean_health_metrics() # Standardize IQSS data
        ↓
-data/processed/{year}/
+data/bronze/{year}/
+```
+
+**Stage 2: Bronze → Silver (Processing)**
+```
+data/bronze/{year}/
+       ↓
+DataProcessor
+  ├─ load_clean_finess()        # Apply Etablissement schema
+  ├─ load_clean_has()           # Apply Qualification schema
+  └─ load_clean_health_metrics() # Generate UUIDs & link
+       ↓
+data/silver/{year}/
+  ├─ etablissements.csv
+  ├─ qualifications.csv
+  └─ health_metrics.csv
 ```
 
 ### Connector Architecture
@@ -195,7 +265,9 @@ class MyConnector(BaseConnector):
 
 See [API_CONNECTORS.md](docs/API_CONNECTORS.md) for details.
 
-## Data Schema
+### Data Schema (Silver Layer)
+
+Final processed data follows these schemas:
 
 ### Etablissement (Establishment)
 - `vel_id` (UUID) - Internal unique ID
@@ -204,6 +276,7 @@ See [API_CONNECTORS.md](docs/API_CONNECTORS.md) for details.
 - `raison_sociale` (string) - Organization name
 - `adresse_postale` (string) - Full address
 - `code_postal` (string) - Postal code
+- `departement` (string) - Department code
 - `categorie_etab` (string) - Category (Public/Privé/ESPIC)
 
 ### Qualification (Certification)
@@ -211,12 +284,13 @@ See [API_CONNECTORS.md](docs/API_CONNECTORS.md) for details.
 - `vel_id` (UUID) - Link to establishment
 - `niveau_certification` (string) - Certification level
 - `date_visite` (date) - Certification visit date
-- `score_satisfaction` (float) - Satisfaction score (if available)
+- `url_rapport` (string) - Link to official certification report
 
 ### Health Metrics
-- `vel_id` (UUID) - Link to establishment
-- Multiple score and rate columns (varies by year)
 - `metric_id` (UUID) - Metric record ID
+- `vel_id` (UUID) - Link to establishment
+- Multiple score columns (satisfaction, quality indicators, etc.)
+- `annee` (int) - Year of metrics
 - `processed_at` (timestamp) - Processing time
 
 ## Configuration
@@ -283,21 +357,29 @@ See [USAGE.md - Troubleshooting](docs/USAGE.md#troubleshooting-ingestion) for mo
 
 ## Data Quality
 
-The pipeline handles common data quality issues:
+The pipeline implements a **multi-tier quality approach**:
 
-- **Encoding**: Automatic detection and conversion
+### Bronze Layer (Cleaning)
+- **Encoding**: Automatic detection and UTF-8 standardization
 - **Headers**: Skips metadata rows, normalizes column names
+- **Consistency**: Uniform file formats and delimiters
+- **No transformations**: Preserves original data semantics
+
+### Silver Layer (Processing)
+- **Schema enforcement**: Strict dataclass validation
+- **UUID generation**: Reproducible unique identifiers
+- **Data linking**: FINESS code normalization and cross-referencing
+- **Type safety**: Enforced numeric types for scores/rates
 - **Missing values**: Graceful handling with logging
-- **Type conversion**: Enforces numeric types for scores/rates
-- **Linking**: Normalizes FINESS codes (zero-padding, decimal removal)
 
 ## Performance
 
 Typical runtimes on standard hardware:
 
-- **Ingestion**: 1-2 minutes
-- **Processing**: 10-30 seconds
-- **Memory**: ~2GB for full dataset
+- **Ingestion**: 1-2 minutes (downloads ~200MB)
+- **Cleaning**: 5-10 seconds (Bronze layer creation)
+- **Processing**: 10-20 seconds (Silver layer with UUIDs and linking)
+- **Memory**: ~2GB peak for full dataset
 
 ## License
 

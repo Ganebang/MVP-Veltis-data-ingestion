@@ -9,11 +9,22 @@ __author__ = "Veltis Team"
 # Import main components for easy access
 from src.pipeline import setup_logging
 from src.config import config
-from src.models.schemas import Etablissement, Qualification
+from src.models.schemas import (
+    Etablissement,
+    Qualification,
+    FinancialData,
+    HealthMetrics,
+    CategorieEtablissement,
+    NiveauCertification,
+)
 
 __all__ = [
     'setup_logging',
     'config',
     'Etablissement',
     'Qualification',
+    'FinancialData',
+    'HealthMetrics',
+    'CategorieEtablissement',
+    'NiveauCertification',
 ]
